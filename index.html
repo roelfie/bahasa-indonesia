@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <title>Bahasa Indonesia</title>
 
   <style>
@@ -10,13 +11,50 @@
       BASE
       ========================================================= */
 
+/* =========================================================
+   TYPOGRAPHY BASE (desktop-first)
+   ========================================================= */
+
     body{
       background:#f6f7fb;
       color:#1c1c1c;
-      font:15px system-ui;
+
+      /* increased base size */
+      font: 17px/1.7 system-ui;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+
       max-width:900px;
       margin:40px auto;
       line-height:1.7;
+    }
+
+    /* headings scale up slightly */
+    h1{
+      font-size: 28px;
+    }
+
+    h2{
+      font-size: 22px;
+    }
+
+    summary{
+      font-size: 17px;
+    }
+
+    /* cards */
+    .col h3,
+    .col h4{
+      font-size: 15px;
+    }
+
+    /* small UI text */
+    .hours{
+      font-size: 13px;
+    }
+
+    /* links stay readable */
+    a{
+      font-size: 1em;
     }
 
     h1,
@@ -40,9 +78,8 @@
 
     .grid{
       display:grid;
-      grid-template-columns:repeat(3, 1fr);
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
       gap:16px;
-      margin-top:14px;
     }
 
     .intro-grid{
@@ -57,70 +94,44 @@
       mobile-first
       ========================================================= */
 
-    /* Tablets */
     @media (max-width: 900px){
       .grid{
         grid-template-columns: repeat(2, 1fr);
       }
     }
 
-    /* Large mobile */
-    @media (max-width: 700px){
-      .intro-grid{
+    /* 👇 move single-column MUCH higher */
+    @media (max-width: 800px){
+      .grid{
         grid-template-columns: 1fr;
-      }
-
-      body{
-        font-size: 14px;
-        margin: 20px 14px;
-      }
-
-      summary{
-        font-size: 15px;
-      }
-
-      .col{
-        padding: 12px;
-      }
-
-      .highlight-tile,
-      details{
-        padding: 12px;
-      }
-
-      .progress-inline{
-        width: 60px;
-        height: 5px;
       }
     }
 
-    /* Small mobile */
-    @media (max-width: 600px){
-      .grid{
-        grid-template-columns: 1fr; /* force single column */
+    html{
+      -webkit-text-size-adjust: 100%;
+    }
+
+    @media (max-width: 800px){
+      body{
+        font: 16px/1.65 system-ui;
+        margin: 18px 12px;
       }
 
-      body{
-        font-size: 13.5px;
-        line-height: 1.6;
+      h1{
+        font-size: 24px;
+      }
+
+      h2{
+        font-size: 20px;
+      }
+
+      summary{
+        font-size: 16px;
       }
 
       .col h3,
       .col h4{
-        font-size: 13px;
-      }
-
-      summary{
         font-size: 14px;
-      }
-
-      .hours{
-        font-size: 12px;
-        padding: 3px 8px;
-      }
-
-      .intro-tile{
-        padding: 14px;
       }
     }
 
