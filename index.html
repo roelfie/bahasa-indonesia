@@ -8,309 +8,294 @@
 
   <style>
     /* =========================================================
-      BASE
+      BASE TYPOGRAPHY
       ========================================================= */
 
-/* =========================================================
-   TYPOGRAPHY BASE (desktop-first)
-   ========================================================= */
+    body {
+      background: #f6f7fb;
+      color: #1c1c1c;
 
-    body{
-      background:#f6f7fb;
-      color:#1c1c1c;
+      font: 17px/1.7 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
 
-      /* increased base size */
-      font: 17px/1.7 system-ui;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-
-      max-width:900px;
-      margin:40px auto;
-      line-height:1.7;
+      max-width: 900px;
+      margin: 40px auto;
+      line-height: 1.7;
     }
 
-    /* headings scale up slightly */
-    h1{
-      font-size: 28px;
-    }
+    h1 { font-size: 28px; color: #111; }
+    h2 { font-size: 22px; color: #111; }
 
-    h2{
-      font-size: 22px;
-    }
-
-    summary{
+    summary {
       font-size: 17px;
     }
 
-    /* cards */
-    .col h3,
-    .col h4{
-      font-size: 15px;
+    /* links */
+    a {
+      color: #2b6fff;
+      text-decoration: none;
     }
 
-    /* small UI text */
-    .hours{
-      font-size: 13px;
+    a:hover {
+      text-decoration: underline;
     }
 
-    /* links stay readable */
-    a{
-      font-size: 1em;
+    /* =========================================================
+      LIST RESET (IMPORTANT FOR ALIGNMENT)
+      ========================================================= */
+
+    .col ul,
+    .col ol,
+    .rules {
+      list-style: none;
+      margin: 0;
+      padding: 0;
     }
 
-    h1,
-    h2{
-      color:#111;
+    /* shared list item base */
+    .col li,
+    .rules li,
+    .coursebook li {
+      margin: 2px 0;
+      padding: 4px 10px;
+      border-radius: 8px;
+
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
 
-    a{
-      color:#2b6fff;
-      text-decoration:none;
+    /* =========================================================
+      STATUS STYLES
+      ========================================================= */
+
+    .status::after {
+      margin-left: 8px;
     }
 
-    a:hover{
-      text-decoration:underline;
+    .status.completed::after {
+      content: "✅";
     }
 
+    .status.learning::after {
+      content: "🧠";
+    }
+
+    /* learning highlight (single source of truth) */
+    li.status.learning {
+      background: #eef7f1;
+      border: 1px solid #cfe8d6;
+    }
+    
+    li.status.learning:hover {
+      background: #e3f3ea;
+    }
+
+    li.status.completed {
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      opacity: 0.85;
+    }  
+
+    li.status.completed a {
+      color: #6b7280;
+    }  
+
+    li.status.completed a:hover {
+      color: #4b5563;
+      text-decoration: underline;
+    }  
 
     /* =========================================================
       LAYOUT
       ========================================================= */
 
-    .grid{
-      display:grid;
+    .grid {
+      display: grid;
       grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-      gap:16px;
+      gap: 16px;
     }
 
-    .intro-grid{
-      display:grid;
-      grid-template-columns:repeat(3, 1fr);
-      gap:12px;
-      font-size:14px;
-      color:#333;
-    }
-
-    /* =========================================================
-      mobile-first
-      ========================================================= */
-
-    @media (max-width: 900px){
-      .grid{
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-
-    /* 👇 move single-column MUCH higher */
-    @media (max-width: 800px){
-      .grid{
-        grid-template-columns: 1fr;
-      }
-    }
-
-    html{
-      -webkit-text-size-adjust: 100%;
-    }
-
-    @media (max-width: 800px){
-      body{
-        font: 16px/1.65 system-ui;
-        margin: 18px 12px;
-      }
-
-      h1{
-        font-size: 24px;
-      }
-
-      h2{
-        font-size: 20px;
-      }
-
-      summary{
-        font-size: 16px;
-      }
-
-      .col h3,
-      .col h4{
-        font-size: 14px;
-      }
+    .intro-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      font-size: 14px;
+      color: #333;
     }
 
     /* =========================================================
-      CARD / TILE SYSTEM
+      CARD SYSTEM
       ========================================================= */
 
     .col,
     .highlight-tile,
     details,
-    .plan{
-      background:#fff;
-      border:1px solid #e6e8ef;
-      border-radius:14px;
-      box-shadow:0 6px 18px rgba(20, 20, 40, 0.06);
+    .plan {
+      background: #fff;
+      border: 1px solid #e6e8ef;
+      border-radius: 14px;
+      box-shadow: 0 6px 18px rgba(20, 20, 40, 0.06);
     }
 
-    .col{
-      padding:14px 14px 12px;
-      transition:
-        transform 0.15s ease,
-        box-shadow 0.15s ease,
-        background 0.15s ease;
+    .col {
+      padding: 14px 14px 12px;
+      margin-top: 16px;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
     }
 
-    .col:hover{
-      transform:translateY(-3px);
-      box-shadow:0 12px 30px rgba(20, 20, 40, 0.12);
-      background:#fffaf2;
+    .col:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 30px rgba(20, 20, 40, 0.12);
+      background: #fffaf2;
     }
 
-    .highlight-tile{
-      padding:14px 14px 12px;
-      margin:14px 0;
+    .highlight-tile {
+      padding: 14px;
+      margin: 14px 0;
     }
 
-    .plan{
-      padding:16px;
+    .plan {
+      padding: 16px;
     }
-
-    .plan ul{
-      margin-top:10px;
-    }
-
 
     /* =========================================================
       SPECIAL TILES
       ========================================================= */
 
-    .intro-tile{
-      background:linear-gradient(135deg, #f2f7ff, #f7f3ff);
-      border:1px solid #dfe6f3;
-      border-radius:16px;
-      padding:16px 18px;
-      margin:16px 0;
-      box-shadow:0 8px 22px rgba(30, 50, 120, 0.08);
+    .intro-tile {
+      background: linear-gradient(135deg, #f2f7ff, #f7f3ff);
+      border: 1px solid #dfe6f3;
+      border-radius: 16px;
+      padding: 16px 18px;
+      margin: 16px 0;
+      box-shadow: 0 8px 22px rgba(30, 50, 120, 0.08);
     }
 
-    .coursebook{
-      background:linear-gradient(135deg, #eafaf0, #f7fffb);
-      border-color:#bfe3ca;
+    .coursebook {
+      background: linear-gradient(135deg, #eafaf0, #f7fffb);
+      border-color: #bfe3ca;
     }
 
+    .coursebook h3 {
+      font-size: 13.5px;
+      font-weight: 600;
+      letter-spacing: 0.2px;
+    }    
 
     /* =========================================================
       DETAILS / ACCORDION
       ========================================================= */
 
-    details{
-      margin:20px 0;
-      padding:14px 16px;
+    details {
+      margin: 20px 0;
+      padding: 14px 16px;
     }
 
-    summary{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-
-      cursor:pointer;
-      font-size:16px;
-      font-weight:700;
-      color:#111;
+    details[open] summary{
+      padding: 8px 10px;
+      border-bottom: 1px solid #e5e7eb; /* very light gray line */
     }
 
-    summary:hover{
-      color:#2b6fff;
+    summary {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+
+      cursor: pointer;
+      font-weight: 700;
+      color: #111;
     }
 
-    .hours{
-      background:#f3f4f6;
-      border-radius:999px;
-      padding:4px 10px;
-
-      font-size:13px;
-      font-weight:600;
-      color:#6b7280;
-
-      white-space:nowrap;
+    summary:hover {
+      color: #2b6fff;
     }
 
+    .hours {
+      background: #f3f4f6;
+      border-radius: 999px;
+      padding: 4px 10px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #6b7280;
+      white-space: nowrap;
+    }
 
     /* =========================================================
-      TYPOGRAPHY
+      RESPONSIVE
       ========================================================= */
 
-    .col h3,
-    .col h4{
-      margin:0 0 10px;
-      font-size:14px;
-      color:#222;
+    @media (max-width: 900px) {
+      .grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
     }
 
+    @media (max-width: 800px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      body {
+        font: 16px/1.65 system-ui;
+        margin: 18px 12px;
+      }
+
+      h1 { font-size: 24px; }
+      h2 { font-size: 20px; }
+      summary { font-size: 16px; }
+    }
 
     /* =========================================================
-      LISTS
+      PROGRESS BAR
       ========================================================= */
 
-    .col ol{
-      margin:0;
-      padding-left:18px;
+    .progress-inline {
+      display: inline-block;
+      width: 70px;
+      height: 6px;
+      margin: 0 6px 0 10px;
+      background: #e5e7eb;
+      border-radius: 999px;
+      overflow: hidden;
+      vertical-align: middle;
     }
 
-    .col li,
-    .rules li{
-      margin-bottom:8px;
+    .progress-inline-bar {
+      height: 100%;
+      background: #22c55e;
     }
 
+    .progress-inline-text {
+      font-size: 12px;
+      color: #6b7280;
+    }
 
     /* =========================================================
-      STATUS SYSTEM
+      CARD HEADINGS
       ========================================================= */
 
-    .status::after{
-      margin-left:10px;
-    }
-
-    .status.completed::after{
-      content:"✅";
-    }
-
-    .status.learning::after{
-      content:"🧠";
-    }
-
-    .status.todo::after{
-      content:"";
-    }
-
+    .col h3 {
+      font-size: 13.5px;
+      font-weight: 600;
+      letter-spacing: 0.2px;
+    }    
 
     /* =========================================================
-      INLINE PROGRESS BAR
+      CONTENT LISTS (keep bullets)
       ========================================================= */
 
-    .progress-inline{
-      display:inline-block;
-      width:70px;
-      height:6px;
-
-      margin-left:10px;
-      margin-right:6px;
-
-      vertical-align:middle;
-      overflow:hidden;
-
-      background:#e5e7eb;
-      border-radius:999px;
+    .rules {
+      list-style: disc;
+      padding-left: 20px;
+      margin: 0;
     }
 
-    .progress-inline-bar{
-      height:100%;
-      border-radius:999px;
-      background:#22c55e;
+    .rules li {
+      display: list-item; /* overrides flex from global li rule */
     }
 
-    .progress-inline-text{
-      font-size:12px;
-      color:#6b7280;
-    }
   </style>
 </head>
 
@@ -347,7 +332,7 @@
   </div>
 
   <div class="highlight-tile coursebook">
-    <h3>Course book</h3>
+    <h3>Course books</h3>
     <ul>
       <li class="status learning progress-item" data-current="7" data-total="20">Selamat Datang 1</li>
       <li class="status progress-item" data-current="0" data-total="20">Selamat Datang 2</li>
