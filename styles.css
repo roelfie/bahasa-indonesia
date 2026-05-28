@@ -10,7 +10,12 @@ body {
 
   max-width: 900px;
   margin: 40px auto;
+  padding-bottom: 72px;
   line-height: 1.7;
+}
+
+body.overlay-open {
+  overflow: hidden;
 }
 
 h1 { font-size: 28px; color: #111; }
@@ -286,4 +291,107 @@ summary:hover {
 
 .rules li {
   display: list-item; /* overrides flex from global li rule */
+}
+
+/* =========================================================
+   BOTTOM BAR & OVERLAYS
+   ========================================================= */
+
+.bottom-bar {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+
+  display: flex;
+  gap: 8px;
+  padding: 6px;
+  background: #fff;
+  border: 1px solid #e6e8ef;
+  border-radius: 999px;
+  box-shadow: 0 6px 18px rgba(20, 20, 40, 0.1);
+}
+
+.bottom-bar-btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
+  color: #374151;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.bottom-bar-btn:hover {
+  background: #f3f4f6;
+  color: #111;
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 16px;
+  background: rgba(17, 24, 39, 0.45);
+}
+
+.overlay.is-open {
+  display: flex;
+}
+
+.modal {
+  width: 100%;
+  max-width: 520px;
+  max-height: min(80vh, 640px);
+  overflow: auto;
+  background: #fff;
+  border: 1px solid #e6e8ef;
+  border-radius: 14px;
+  box-shadow: 0 12px 40px rgba(20, 20, 40, 0.18);
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 16px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.modal-header h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.modal-close {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 8px;
+  background: #f3f4f6;
+  color: #6b7280;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.modal-close:hover {
+  background: #e5e7eb;
+  color: #111;
+}
+
+.modal-body {
+  padding: 16px 18px 20px;
+}
+
+.modal-body p {
+  margin: 0 0 12px;
 }

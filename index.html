@@ -228,31 +228,48 @@
   </div>
   </details>
 
+  <nav class="bottom-bar" aria-label="Reference">
+    <button type="button" class="bottom-bar-btn" data-panel="rules-panel">Rules</button>
+    <button type="button" class="bottom-bar-btn" data-panel="tools-panel">Tools</button>
+  </nav>
 
+  <div id="rules-panel" class="overlay" aria-hidden="true">
+    <div class="modal" role="dialog" aria-labelledby="rules-title">
+      <header class="modal-header">
+        <h2 id="rules-title">Rules</h2>
+        <button type="button" class="modal-close" aria-label="Close">×</button>
+      </header>
+      <div class="modal-body">
+        <ul class="rules">
+          <li><b>Structured learning:</b> pause, repeat, take notes, shadow sentences.</li>
+          <li><b>Guided listening:</b> focus on understanding the idea, not every single word.</li>
+          <li><b>Immersion:</b> do not pause constantly. Let Indonesian flow naturally.</li>
+          <li>Unknown words are normal and expected.</li>
+          <li>Consistency beats intensity.</li>
+          <li>Aim for daily exposure, even on lower-energy days.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
-  <h2>Rules</h2>
+  <div id="tools-panel" class="overlay" aria-hidden="true">
+    <div class="modal" role="dialog" aria-labelledby="tools-title">
+      <header class="modal-header">
+        <h2 id="tools-title">Tools</h2>
+        <button type="button" class="modal-close" aria-label="Close">×</button>
+      </header>
+      <div class="modal-body">
+        <p>The following tools are used for translations and note-taking:</p>
+        <ul class="rules">
+          <li>Google Translate</li>
+          <li>Google Keep</li>
+          <li>WhatsApp (group "Bahasa 🇮🇩 Vocab")</li>
+        </ul>
+        <p>All available as Android apps.</p>
+      </div>
+    </div>
+  </div>
 
-  <ul class="rules">
-    <li><b>Structured learning:</b> pause, repeat, take notes, shadow sentences.</li>
-    <li><b>Guided listening:</b> focus on understanding the idea, not every single word.</li>
-    <li><b>Immersion:</b> do not pause constantly. Let Indonesian flow naturally.</li>
-    <li>Unknown words are normal and expected.</li>
-    <li>Consistency beats intensity.</li>
-    <li>Aim for daily exposure, even on lower-energy days.</li>
-  </ul>
-
-  <h2>Tools</h2>
-
-  The following tools are used for translations and note-taking:
-
-  <ul class="rules">
-    <li>Google Translate</li>
-    <li>Google Keep</li>
-    <li>WhatsApp (group "Bahasa 🇮🇩 Vocab")</li>
-  </ul>
-
-  All available as Android apps.
-  
   <script>
     document.querySelectorAll(".progress-item").forEach((item) => {
 
@@ -292,6 +309,40 @@
         });
       }
     });
+  });
+
+  const overlays = document.querySelectorAll(".overlay");
+
+  function closeOverlays() {
+    overlays.forEach((overlay) => {
+      overlay.classList.remove("is-open");
+      overlay.setAttribute("aria-hidden", "true");
+    });
+    document.body.classList.remove("overlay-open");
+  }
+
+  function openOverlay(id) {
+    closeOverlays();
+    const overlay = document.getElementById(id);
+    overlay.classList.add("is-open");
+    overlay.setAttribute("aria-hidden", "false");
+    document.body.classList.add("overlay-open");
+    overlay.querySelector(".modal-close").focus();
+  }
+
+  document.querySelectorAll("[data-panel]").forEach((btn) => {
+    btn.addEventListener("click", () => openOverlay(btn.dataset.panel));
+  });
+
+  overlays.forEach((overlay) => {
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay) closeOverlays();
+    });
+    overlay.querySelector(".modal-close").addEventListener("click", closeOverlays);
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeOverlays();
   });
 </script>
 
