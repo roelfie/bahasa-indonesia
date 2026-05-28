@@ -19,11 +19,12 @@ body.overlay-open {
 }
 
 h1 { font-size: 28px; color: #111; }
-h2 { font-size: 22px; color: #111; }
 
-summary {
-  font-size: 18px;
+.page-title {
+  text-align: center;
 }
+
+h2 { font-size: 22px; color: #111; }
 
 /* links */
 a {
@@ -127,7 +128,6 @@ li.status.completed a:hover {
 
 .col,
 .highlight-tile,
-details,
 .plan {
   background: #fff;
   border: 1px solid #e6e8ef;
@@ -170,8 +170,8 @@ details,
 }
 
 .coursebook {
-  background: linear-gradient(135deg, #eafaf0, #f7fffb);
-  border-color: #bfe3ca;
+  background: linear-gradient(135deg, #fffef9, #fffbeb);
+  border-color: #fef3c7;
 }
 
 .coursebook h3 {
@@ -181,32 +181,161 @@ details,
 }
 
 /* =========================================================
-   DETAILS / ACCORDION
+   ACCORDION
    ========================================================= */
 
-details {
-  margin: 20px 0;
-  padding: 14px 16px;
+.accordion {
+  background: #fff;
+  border: 1px solid #e6e8ef;
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(20, 20, 40, 0.06);
+  overflow: hidden;
+  margin: 12px 0 16px;
 }
 
-details[open] summary{
-  padding: 8px 10px;
-  border-bottom: 1px solid #e5e7eb; /* very light gray line */
+.accordion-item {
+  border-bottom: 1px solid #e6e8ef;
 }
 
-summary {
-  display: flex;
-  justify-content: space-between;
+.accordion-item:last-child {
+  border-bottom: none;
+}
+
+.accordion-item summary {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
   align-items: center;
-  gap: 12px;
-
+  gap: 10px;
+  padding: 12px 16px;
+  box-sizing: border-box;
   cursor: pointer;
   font-weight: 700;
-  color: #111;
+  font-size: 17px;
+  color: #6b7280;
+  background: #f8f9fc;
+  list-style: none;
+  text-align: left;
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
-summary:hover {
+.accordion-item summary > span:first-of-type {
+  min-width: 0;
+  text-align: left;
+}
+
+.accordion-item summary .hours {
+  justify-self: end;
+}
+
+.accordion-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-item summary::before {
+  content: "›";
+  flex-shrink: 0;
+  width: 1em;
+  font-size: 18px;
+  color: #9ca3af;
+  transition: transform 0.15s ease, color 0.15s ease;
+}
+
+.accordion-item[open] {
+  box-shadow: inset 3px 0 0 #93c5fd;
+}
+
+.accordion-item[open] summary {
+  color: #111;
+  background: linear-gradient(135deg, #eef2ff, #f5f3ff);
+  border-bottom: 1px solid #dfe6f3;
+}
+
+.accordion-item[open] summary::before {
+  transform: rotate(90deg);
   color: #2b6fff;
+}
+
+.accordion-item summary:hover {
+  color: #374151;
+  background: #f1f5f9;
+}
+
+.accordion-item[open] summary:hover {
+  color: #111;
+  background: linear-gradient(135deg, #eef2ff, #f5f3ff);
+}
+
+.accordion-item[open] .accordion-panel {
+  padding: 12px 16px 14px;
+  background: #f3f4f8;
+}
+
+/* Music accordion — distinct green theme */
+.accordion-item--music summary {
+  background: #f0fdf4;
+  color: #3f6212;
+}
+
+.accordion-item--music summary::before {
+  color: #84cc16;
+}
+
+.accordion-item--music summary:hover {
+  background: #ecfdf5;
+  color: #365314;
+}
+
+.accordion-item--music[open] {
+  box-shadow: inset 3px 0 0 #4ade80;
+}
+
+.accordion-item--music[open] summary {
+  color: #14532d;
+  background: linear-gradient(135deg, #ecfdf5, #dcfce7);
+  border-bottom-color: #bbf7d0;
+}
+
+.accordion-item--music[open] summary::before {
+  color: #16a34a;
+}
+
+.accordion-item--music[open] summary:hover {
+  background: linear-gradient(135deg, #ecfdf5, #dcfce7);
+}
+
+.accordion-item--music[open] .accordion-panel {
+  background: #f0fdf9;
+}
+
+.music-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.music-list li {
+  margin: 2px 0;
+  padding: 4px 10px;
+  border-radius: 8px;
+}
+
+.accordion-panel .intro-tile {
+  margin: 0 0 10px;
+  padding: 12px 14px;
+}
+
+.accordion-panel .highlight-tile {
+  margin: 0 0 10px;
+  padding: 12px;
+}
+
+.accordion-panel .grid {
+  gap: 12px;
+}
+
+.accordion-panel .col {
+  margin-top: 0;
+  padding: 12px;
 }
 
 .hours {
@@ -217,6 +346,11 @@ summary:hover {
   font-weight: 600;
   color: #6b7280;
   white-space: nowrap;
+}
+
+.accordion-item[open] .hours {
+  background: #e0e7ff;
+  color: #4338ca;
 }
 
 /* =========================================================

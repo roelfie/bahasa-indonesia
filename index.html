@@ -10,16 +10,17 @@
 <body>
 
 
-  <h1>🇮🇩 Bahasa Indonesia</h1>
+  <h1 class="page-title">🇮🇩 Bahasa Indonesia 🇮🇩</h1>
 
+  <div class="accordion">
 
-
-  <details closed>
+  <details class="accordion-item">
   <summary>
     <span>Structured Learning</span>
     <span class="hours">2 hours</span>
   </summary>
 
+  <div class="accordion-panel">
   <div class="intro-tile">
     <div class="intro-grid">
       <div>
@@ -34,7 +35,7 @@
 
       <div>
         <b>How</b><br>
-        Course book · vocab · grammar · reading
+        vocab · grammar · reading
       </div>
     </div>
   </div>
@@ -80,16 +81,16 @@
     </div>
 
   </div>
+  </div>
   </details>
 
-
-
-  <details>
+  <details class="accordion-item">
   <summary>
     <span>Guided Listening</span>
     <span class="hours">1 hour</span>
   </summary>
 
+  <div class="accordion-panel">
   <div class="intro-tile">
     <div class="intro-grid">
       <div>
@@ -104,7 +105,7 @@
 
       <div>
         <b>How</b><br>
-        Clear audio · slow speech · explanations · beginner listening
+        slow speech · clear audio
       </div>
     </div>
   </div>
@@ -138,21 +139,21 @@
     </div>
 
   </div>
+  </div>
   </details>
 
-
-
-  <details>
+  <details class="accordion-item">
   <summary>
     <span>Native input</span>
     <span class="hours">1 hour</span>
   </summary>
 
+  <div class="accordion-panel">
   <div class="intro-tile">
     <div class="intro-grid">
       <div>
         <b>Goal</b><br>
-        Build natural fluency & intuition
+        Build natural fluency
       </div>
 
       <div>
@@ -162,7 +163,7 @@
 
       <div>
         <b>How</b><br>
-        Podcasts · vlogs · native content · unfiltered listening
+        native content · podcasts · vlogs
       </div>
     </div>
   </div>
@@ -199,13 +200,13 @@
     </div>
 
   </div>
+  </div>
   </details>
 
+  <details class="accordion-item">
+    <summary><span>Other</span></summary>
 
-
-  <details>
-    <summary>Other</summary>
-
+    <div class="accordion-panel">
     <div class="grid">
       
       <div class="col">
@@ -226,7 +227,19 @@
       </div>
 
   </div>
+  </div>
   </details>
+
+  <details class="accordion-item accordion-item--music">
+    <summary><span>Music</span></summary>
+
+    <div class="accordion-panel">
+      <ul class="music-list">
+      </ul>
+    </div>
+  </details>
+
+  </div>
 
   <nav class="bottom-bar" aria-label="Reference">
     <button type="button" class="bottom-bar-btn" data-panel="rules-panel">Rules</button>
@@ -299,12 +312,12 @@
       item.appendChild(text);
     });
 
-  const allDetails = document.querySelectorAll("details");
+  const accordionItems = document.querySelectorAll(".accordion .accordion-item");
 
-  allDetails.forEach((target) => {
+  accordionItems.forEach((target) => {
     target.addEventListener("toggle", () => {
       if (target.open) {
-        allDetails.forEach((other) => {
+        accordionItems.forEach((other) => {
           if (other !== target) other.open = false;
         });
       }
