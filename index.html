@@ -233,9 +233,57 @@
   <details class="accordion-item accordion-item--music">
     <summary><span>Music</span></summary>
 
-    <div class="accordion-panel">
-      <ul class="music-list">
-      </ul>
+    <div class="accordion-panel music-panel">
+      <p class="music-hint music-hint--error" id="music-fetch-error" hidden></p>
+
+      <nav class="music-breadcrumb" id="music-breadcrumb" hidden>
+        <button type="button" class="music-breadcrumb-link" id="music-bc-playlists">Playlists</button>
+        <span class="music-breadcrumb-sep" id="music-bc-sep-1" hidden> / </span>
+        <button type="button" class="music-breadcrumb-link" id="music-bc-playlist" hidden></button>
+        <span class="music-breadcrumb-sep" id="music-bc-sep-2" hidden> / </span>
+        <span class="music-breadcrumb-current" id="music-bc-track" hidden></span>
+      </nav>
+
+      <div id="music-view-playlists" class="music-view">
+        <p class="music-hint" id="music-playlists-hint">Open the Music section to load playlists…</p>
+        <ul class="music-playlist-list" id="music-playlist-list"></ul>
+      </div>
+
+      <div id="music-view-tracks" class="music-view" hidden>
+        <h3 class="music-view-title" id="music-tracks-title"></h3>
+        <div class="music-table-wrap">
+          <table class="music-table">
+            <thead>
+              <tr>
+                <th scope="col">Track</th>
+                <th scope="col">Artist</th>
+                <th scope="col" class="music-th-dur" title="Duration"></th>
+                <th scope="col" class="music-th-lyrics" aria-label="Lyrics file"></th>
+              </tr>
+            </thead>
+            <tbody id="music-tracks-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div id="music-view-karaoke" class="music-view music-view-karaoke" hidden>
+        <div class="music-karaoke-header">
+          <h3 class="music-view-title" id="music-karaoke-title"></h3>
+          <p class="music-karaoke-meta" id="music-karaoke-meta"></p>
+        </div>
+        <div
+          class="music-progress"
+          role="progressbar"
+          aria-valuemin="0"
+          aria-valuemax="100"
+          aria-valuenow="0"
+          id="music-progress"
+        >
+          <div class="music-progress-bar" id="music-progress-bar"></div>
+        </div>
+        <p class="music-progress-label"><span id="music-progress-elapsed">0:00</span> / <span id="music-progress-total">0:00</span></p>
+        <div class="music-karaoke-lines" id="music-karaoke-lines"></div>
+      </div>
     </div>
   </details>
 
@@ -358,6 +406,8 @@
     if (e.key === "Escape") closeOverlays();
   });
 </script>
+
+<script src="music-app.js" defer></script>
 
 </body>
 </html>
