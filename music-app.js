@@ -4,7 +4,7 @@
   const PLAYLISTS_MANIFEST = "resources/playlists/manifest.json";
   const PLAYLISTS_DIR = "resources/playlists/";
   const LYRICS_DIR = "resources/lyrics/";
-  const START_DELAY_MS = 2000;
+  const START_DELAY_MS = 3500;
 
   const musicDetails = document.querySelector(".accordion-item--music");
   if (!musicDetails) return;
@@ -24,6 +24,7 @@
     minimizeBtn: document.getElementById("music-lyrics-minimize"),
     closeBtn: document.getElementById("music-lyrics-close"),
     dock: document.getElementById("music-lyrics-dock"),
+    dockInner: document.getElementById("music-lyrics-dock-inner"),
     dockTitle: document.getElementById("music-lyrics-dock-title"),
     dockTime: document.getElementById("music-lyrics-dock-time"),
     dockExpand: document.getElementById("music-lyrics-dock-expand"),
@@ -49,6 +50,8 @@
   let lineElements = [];
   let lineTiming = [];
   let lastActiveLine = -1;
+  /** Previous line index for clearing per-word karaoke classes. */
+  let lastWordHighlightLine = -1;
   /** { tracks: enriched[], playlistLabelText } */
   let playlistContext = null;
   /** Lyrics session running (RAF, timeline); stays true when minimized. */
@@ -113,6 +116,7 @@
     lineElements = [];
     lineTiming = [];
     lastActiveLine = -1;
+    lastWordHighlightLine = -1;
     paused = false;
     pausedElapsed = 0;
   }
@@ -161,6 +165,17 @@
       lineElements.forEach((node, i) => {
         node.classList.toggle("music-lyrics-line--active", i === activeIndex);
       });
+
+      if (lastWordHighlightLine !== activeIndex) {
+        if (lastWordHighlightLine >= 0 && lineElements[lastWordHighlightLine]) {
+          clearWordHighlightOnRow(lineElements[lastWordHighlightLine]);
+        }
+        lastWordHighlightLine = activeIndex;
+      }
+      if (activeIndex >= 0 && lineElements[activeIndex]) {
+        updateWordSpansForRow(lineElements[activeIndex], clamped);
+      }
+
       if (activeIndex !== lastActiveLine && activeIndex >= 0 && lineElements[activeIndex]) {
         lineElements[activeIndex].scrollIntoView({ block: "center", behavior: "smooth" });
         lastActiveLine = activeIndex;
@@ -185,6 +200,7 @@
     paused = false;
     pausedElapsed = 0;
     lastActiveLine = -1;
+    lastWordHighlightLine = -1;
     playbackAnchorPerf = performance.now() + delayMs;
     setPlayPauseLabel();
     startLyricsRaf();
@@ -204,6 +220,7 @@
     pausedElapsed = 0;
     playbackAnchorPerf = performance.now() - clamped;
     lastActiveLine = -1;
+    lastWordHighlightLine = -1;
     setPlayPauseLabel();
     cancelRaf();
     if (lyricsSessionActive) startLyricsRaf();
@@ -225,7 +242,197 @@
     }
   }
 
+  const DOCK_POS_STORAGE_KEY = "bahasa-indonesia-music-dock-pos";
+  const DOCK_DRAG_THRESHOLD_SQ = 8 * 8;
+
+  /** @type {{ pointerId: number, startX: number, startY: number, originLeft: number, originTop: number, dragging: boolean } | null} */
+  let dockPointerDrag = null;
+
+  function readVisualViewportBox() {
+    const vv = window.visualViewport;
+    if (vv) {
+      return {
+        left: vv.offsetLeft,
+        top: vv.offsetTop,
+        width: vv.width,
+        height: vv.height,
+      };
+    }
+    return { left: 0, top: 0, width: window.innerWidth, height: window.innerHeight };
+  }
+
+  function clampDockLeftTop(left, top, dockW, dockH) {
+    const vv = readVisualViewportBox();
+    const pad = 8;
+    const minX = vv.left + pad;
+    const minY = vv.top + pad;
+    const maxX = vv.left + vv.width - dockW - pad;
+    const maxY = vv.top + vv.height - dockH - pad;
+    return {
+      left: Math.min(Math.max(minX, left), Math.max(minX, maxX)),
+      top: Math.min(Math.max(minY, top), Math.max(minY, maxY)),
+    };
+  }
+
+  function loadDockScreenPosition() {
+    try {
+      const raw = localStorage.getItem(DOCK_POS_STORAGE_KEY);
+      if (!raw) return null;
+      const p = JSON.parse(raw);
+      if (typeof p.left !== "number" || typeof p.top !== "number") return null;
+      return { left: p.left, top: p.top };
+    } catch {
+      return null;
+    }
+  }
+
+  function saveDockScreenPosition(left, top) {
+    try {
+      localStorage.setItem(DOCK_POS_STORAGE_KEY, JSON.stringify({ left, top }));
+    } catch {
+      /* private mode / quota */
+    }
+  }
+
+  /** Clamp and apply fixed left/top; dock must be visible for correct width/height. */
+  function setDockCustomPixels(left, top) {
+    if (!el.dock) return { left: 0, top: 0 };
+    el.dock.classList.add("music-lyrics-dock--custom");
+    el.dock.style.right = "auto";
+    el.dock.style.bottom = "auto";
+    el.dock.style.transform = "none";
+    const w = el.dock.offsetWidth;
+    const h = el.dock.offsetHeight;
+    const c = clampDockLeftTop(left, top, w, h);
+    el.dock.style.left = `${Math.round(c.left)}px`;
+    el.dock.style.top = `${Math.round(c.top)}px`;
+    return c;
+  }
+
+  function resetDockLayoutToCssDefault() {
+    if (!el.dock) return;
+    el.dock.classList.remove("music-lyrics-dock--custom", "music-lyrics-dock--dragging");
+    el.dock.style.left = "";
+    el.dock.style.top = "";
+    el.dock.style.right = "";
+    el.dock.style.bottom = "";
+    el.dock.style.width = "";
+    el.dock.style.transform = "";
+    el.dock.removeAttribute("aria-grabbed");
+  }
+
+  function finishDockDragCommitPosition() {
+    if (!el.dock) return;
+    el.dock.style.width = "";
+    el.dock.classList.remove("music-lyrics-dock--dragging");
+    el.dock.setAttribute("aria-grabbed", "false");
+    const left = parseFloat(el.dock.style.left);
+    const top = parseFloat(el.dock.style.top);
+    if (Number.isFinite(left) && Number.isFinite(top)) {
+      const c = setDockCustomPixels(left, top);
+      saveDockScreenPosition(c.left, c.top);
+    }
+  }
+
+  function syncDockPositionAfterResize() {
+    if (!el.dock || el.dock.hidden || !el.dock.classList.contains("music-lyrics-dock--custom")) return;
+    const left = parseFloat(el.dock.style.left);
+    const top = parseFloat(el.dock.style.top);
+    if (!Number.isFinite(left) || !Number.isFinite(top)) return;
+    const c = setDockCustomPixels(left, top);
+    saveDockScreenPosition(c.left, c.top);
+  }
+
+  function showDockWithOptionalSavedPosition() {
+    if (!el.dock) return;
+    el.dock.hidden = false;
+    el.dock.setAttribute("aria-hidden", "false");
+    requestAnimationFrame(() => {
+      if (!el.dock || el.dock.hidden) return;
+      const saved = loadDockScreenPosition();
+      if (saved) {
+        setDockCustomPixels(saved.left, saved.top);
+      } else {
+        resetDockLayoutToCssDefault();
+      }
+    });
+  }
+
+  function endDockPointerDrag(commitPosition) {
+    if (!dockPointerDrag || !el.dockInner) return;
+    const dragging = dockPointerDrag.dragging;
+    const pid = dockPointerDrag.pointerId;
+    dockPointerDrag = null;
+    try {
+      el.dockInner.releasePointerCapture(pid);
+    } catch {
+      /* not captured */
+    }
+    el.dockInner.removeEventListener("pointermove", onDockPointerMove);
+    el.dockInner.removeEventListener("pointerup", onDockPointerEnd);
+    el.dockInner.removeEventListener("pointercancel", onDockPointerEnd);
+    if (commitPosition && dragging) {
+      finishDockDragCommitPosition();
+    } else if (el.dock) {
+      el.dock.classList.remove("music-lyrics-dock--dragging");
+      el.dock.style.width = "";
+      el.dock.setAttribute("aria-grabbed", "false");
+    }
+  }
+
+  function onDockPointerMove(e) {
+    if (!dockPointerDrag || e.pointerId !== dockPointerDrag.pointerId || !el.dock) return;
+    const dx = e.clientX - dockPointerDrag.startX;
+    const dy = e.clientY - dockPointerDrag.startY;
+    if (!dockPointerDrag.dragging) {
+      if (dx * dx + dy * dy < DOCK_DRAG_THRESHOLD_SQ) return;
+      dockPointerDrag.dragging = true;
+      el.dock.classList.add("music-lyrics-dock--dragging");
+      el.dock.setAttribute("aria-grabbed", "true");
+      el.dock.style.width = `${el.dock.offsetWidth}px`;
+      setDockCustomPixels(dockPointerDrag.originLeft, dockPointerDrag.originTop);
+    }
+    e.preventDefault();
+    const left = dockPointerDrag.originLeft + (e.clientX - dockPointerDrag.startX);
+    const top = dockPointerDrag.originTop + (e.clientY - dockPointerDrag.startY);
+    const w = el.dock.offsetWidth;
+    const h = el.dock.offsetHeight;
+    const c = clampDockLeftTop(left, top, w, h);
+    el.dock.style.left = `${Math.round(c.left)}px`;
+    el.dock.style.top = `${Math.round(c.top)}px`;
+  }
+
+  function onDockPointerEnd(e) {
+    if (!dockPointerDrag || e.pointerId !== dockPointerDrag.pointerId) return;
+    const commit = dockPointerDrag.dragging;
+    endDockPointerDrag(commit);
+  }
+
+  function onDockPointerDown(e) {
+    if (!el.dock || el.dock.hidden || !el.dockInner) return;
+    if (e.pointerType === "mouse" && e.button !== 0) return;
+    if (e.target.closest(".music-lyrics-dock-expand")) return;
+
+    const rect = el.dock.getBoundingClientRect();
+    dockPointerDrag = {
+      pointerId: e.pointerId,
+      startX: e.clientX,
+      startY: e.clientY,
+      originLeft: rect.left,
+      originTop: rect.top,
+      dragging: false,
+    };
+    el.dockInner.setPointerCapture(e.pointerId);
+    el.dockInner.addEventListener("pointermove", onDockPointerMove);
+    el.dockInner.addEventListener("pointerup", onDockPointerEnd);
+    el.dockInner.addEventListener("pointercancel", onDockPointerEnd);
+  }
+
   function hideLyricsDock() {
+    if (dockPointerDrag) {
+      const commit = dockPointerDrag.dragging;
+      endDockPointerDrag(commit);
+    }
     if (el.dock) {
       el.dock.hidden = true;
       el.dock.setAttribute("aria-hidden", "true");
@@ -255,8 +462,7 @@
       if (el.dockTime) {
         el.dockTime.textContent = `${formatMmSs(clamped)} / ${formatMmSs(currentDurationMs)}`;
       }
-      el.dock.hidden = false;
-      el.dock.setAttribute("aria-hidden", "false");
+      showDockWithOptionalSavedPosition();
     }
     if (el.dockExpand) el.dockExpand.focus();
   }
@@ -322,6 +528,76 @@
     });
   }
 
+  function tokenizeWords(text) {
+    if (!text || !String(text).trim()) return [];
+    return String(text).trim().match(/\S+/g) || [];
+  }
+
+  /** Split line duration across words, weighted by character length (karaoke-style). */
+  function buildWordAbsoluteTimings(words, lineStart, lineEnd) {
+    const lineDur = Math.max(1, lineEnd - lineStart);
+    const weights = words.map((w) => Math.max(1, w.length));
+    const sumW = weights.reduce((a, b) => a + b, 0);
+    let t = lineStart;
+    const out = words.map((word, i) => {
+      const slice = (lineDur * weights[i]) / sumW;
+      const start = t;
+      const end = t + slice;
+      t = end;
+      return { word, start, end };
+    });
+    if (out.length) out[out.length - 1].end = lineEnd;
+    return out;
+  }
+
+  function fillOriginalWithWordSpans(origDiv, text, lineStart, lineEnd) {
+    origDiv.textContent = "";
+    const words = tokenizeWords(text);
+    if (!words.length) {
+      origDiv.textContent = text || "";
+      return;
+    }
+    const segs = buildWordAbsoluteTimings(words, lineStart, lineEnd);
+    segs.forEach((seg, idx) => {
+      if (idx > 0) origDiv.appendChild(document.createTextNode(" "));
+      const span = document.createElement("span");
+      span.className = "music-lyrics-word";
+      span.textContent = seg.word;
+      span.dataset.wStart = String(Math.round(seg.start));
+      span.dataset.wEnd = String(Math.round(seg.end));
+      origDiv.appendChild(span);
+    });
+  }
+
+  function clearWordHighlightOnRow(row) {
+    const spans = row._wordSpans;
+    if (!spans) return;
+    for (const s of spans) {
+      s.classList.remove("music-lyrics-word--sung", "music-lyrics-word--current", "music-lyrics-word--pending");
+      s.style.removeProperty("--wprog");
+    }
+  }
+
+  function updateWordSpansForRow(row, clamped) {
+    const spans = row._wordSpans;
+    if (!spans || !spans.length) return;
+    for (const s of spans) {
+      const ws = Number(s.dataset.wStart);
+      const we = Number(s.dataset.wEnd);
+      s.classList.remove("music-lyrics-word--sung", "music-lyrics-word--current", "music-lyrics-word--pending");
+      if (clamped >= we) {
+        s.classList.add("music-lyrics-word--sung");
+      } else if (clamped < ws) {
+        s.classList.add("music-lyrics-word--pending");
+      } else {
+        s.classList.add("music-lyrics-word--current");
+        const denom = Math.max(1, we - ws);
+        const p = (clamped - ws) / denom;
+        s.style.setProperty("--wprog", String(Math.max(0, Math.min(1, p))));
+      }
+    }
+  }
+
   function findNextLyricIndex(fromIndex) {
     if (!playlistContext) return -1;
     const { tracks } = playlistContext;
@@ -380,7 +656,12 @@
 
       const orig = document.createElement("div");
       orig.className = "music-lyrics-line-original";
-      orig.textContent = line.original || "";
+      const timing = lineTiming[i];
+      fillOriginalWithWordSpans(orig, line.original || "", timing.start, timing.end);
+      row._wordSpans =
+        orig.querySelectorAll(".music-lyrics-word").length > 0
+          ? Array.from(orig.querySelectorAll(".music-lyrics-word"))
+          : null;
 
       const trans = document.createElement("div");
       trans.className = "music-lyrics-line-translation";
@@ -522,6 +803,18 @@
   if (el.closeBtn) el.closeBtn.addEventListener("click", closeLyricsOverlay);
   if (el.minimizeBtn) el.minimizeBtn.addEventListener("click", minimizeLyricsOverlay);
   if (el.dockExpand) el.dockExpand.addEventListener("click", expandLyricsOverlayFromDock);
+  if (el.dockInner) el.dockInner.addEventListener("pointerdown", onDockPointerDown);
+
+  let resizeDockTimer = null;
+  function scheduleDockResizeSync() {
+    clearTimeout(resizeDockTimer);
+    resizeDockTimer = setTimeout(syncDockPositionAfterResize, 120);
+  }
+  window.addEventListener("resize", scheduleDockResizeSync);
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener("resize", scheduleDockResizeSync);
+    window.visualViewport.addEventListener("scroll", scheduleDockResizeSync);
+  }
 
   if (el.btnBack) {
     el.btnBack.addEventListener("click", () => {
