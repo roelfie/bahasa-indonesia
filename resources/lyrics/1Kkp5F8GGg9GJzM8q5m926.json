@@ -1,0 +1,329 @@
+{
+  "track_id": "1Kkp5F8GGg9GJzM8q5m926",
+  "track_uri": "spotify:track:1Kkp5F8GGg9GJzM8q5m926",
+  "track_name": "Sumbang",
+  "album_name": "Sumbang",
+  "artist_names": "Iwan Fals",
+  "duration_ms": 387215,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T20:59:19.738218+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Kuatnya belenggu besi",
+      "translation": "The strength of the iron shackles",
+      "start_ms": 6120,
+      "end_ms": 9929
+    },
+    {
+      "line_number": 2,
+      "original": "Mengikat kedua kaki",
+      "translation": "Tie both feet",
+      "start_ms": 9930,
+      "end_ms": 14139
+    },
+    {
+      "line_number": 3,
+      "original": "Tajamnya ujung belati",
+      "translation": "The sharp edge of the dagger",
+      "start_ms": 14140,
+      "end_ms": 20129
+    },
+    {
+      "line_number": 4,
+      "original": "Menujam di ulu hati",
+      "translation": "Piercing in the solar plexus",
+      "start_ms": 20130,
+      "end_ms": 27489
+    },
+    {
+      "line_number": 5,
+      "original": "Sanggupkah tak akan lari",
+      "translation": "Can you not run away?",
+      "start_ms": 27490,
+      "end_ms": 32689
+    },
+    {
+      "line_number": 6,
+      "original": "Walau akhirnya pasti mati?",
+      "translation": "Even if you end up dying?",
+      "start_ms": 32690,
+      "end_ms": 45889
+    },
+    {
+      "line_number": 7,
+      "original": "Di kepala tanpa baja",
+      "translation": "In a head without steel",
+      "start_ms": 45890,
+      "end_ms": 50059
+    },
+    {
+      "line_number": 8,
+      "original": "Di tangan tanpa senjata",
+      "translation": "In unarmed hands",
+      "start_ms": 50060,
+      "end_ms": 52559
+    },
+    {
+      "line_number": 9,
+      "original": "Ah, itu soal biasa",
+      "translation": "Ah, that's normal",
+      "start_ms": 52560,
+      "end_ms": 55429
+    },
+    {
+      "line_number": 10,
+      "original": "Yang singgah di depan mata kita",
+      "translation": "Which stops before our eyes",
+      "start_ms": 55430,
+      "end_ms": 60539
+    },
+    {
+      "line_number": 11,
+      "original": "Lusuhnya kain bendera di halaman rumah kita",
+      "translation": "The shabby flag cloth in our yard",
+      "start_ms": 60540,
+      "end_ms": 67739
+    },
+    {
+      "line_number": 12,
+      "original": "Bukan satu alasan untuk kita tinggalkan",
+      "translation": "There's no reason for us to leave it",
+      "start_ms": 67740,
+      "end_ms": 72519
+    },
+    {
+      "line_number": 13,
+      "original": "Banyaknya persoalan yang datang tak kenal kasihan",
+      "translation": "The many problems that come are relentless",
+      "start_ms": 72520,
+      "end_ms": 78069
+    },
+    {
+      "line_number": 14,
+      "original": "Menyerang dalam gelap",
+      "translation": "Attack in the dark",
+      "start_ms": 78070,
+      "end_ms": 82079
+    },
+    {
+      "line_number": 15,
+      "original": "Memburu kala haru dengan cara main kayu",
+      "translation": "Hunting for emotional times by playing with wood",
+      "start_ms": 82080,
+      "end_ms": 86899
+    },
+    {
+      "line_number": 16,
+      "original": "Tinggalkan bekas biru lalu pergi tanpa ragu",
+      "translation": "Leave a blue mark and then leave without hesitation",
+      "start_ms": 86900,
+      "end_ms": 92539
+    },
+    {
+      "line_number": 17,
+      "original": "Memburu kala haru dengan cara main kayu",
+      "translation": "Hunting for emotional times by playing with wood",
+      "start_ms": 92540,
+      "end_ms": 96399
+    },
+    {
+      "line_number": 18,
+      "original": "Tinggalkan bekas biru lalu pergi tanpa ragu",
+      "translation": "Leave a blue mark and then leave without hesitation",
+      "start_ms": 96400,
+      "end_ms": 106069
+    },
+    {
+      "line_number": 19,
+      "original": "Setan-setan politik yang datang mencekik",
+      "translation": "The political demons that come to strangle you",
+      "start_ms": 106070,
+      "end_ms": 121259
+    },
+    {
+      "line_number": 20,
+      "original": "Walau di masa paceklik tetap mencekik",
+      "translation": "Even in lean times it's still suffocating",
+      "start_ms": 121260,
+      "end_ms": 124869
+    },
+    {
+      "line_number": 21,
+      "original": "Apakah selamanya politik itu kejam?",
+      "translation": "Is politics always cruel?",
+      "start_ms": 124870,
+      "end_ms": 129469
+    },
+    {
+      "line_number": 22,
+      "original": "Apakah selamanya dia datang 'tuk menghantam?",
+      "translation": "Will he always come to hit?",
+      "start_ms": 129470,
+      "end_ms": 133829
+    },
+    {
+      "line_number": 23,
+      "original": "Ataukah memang itu yang sudah digariskan?",
+      "translation": "Or is that what has been outlined?",
+      "start_ms": 133830,
+      "end_ms": 139609
+    },
+    {
+      "line_number": 24,
+      "original": "Menjilat, menghasut, menindas",
+      "translation": "Fawning, inciting, oppressing",
+      "start_ms": 139610,
+      "end_ms": 144929
+    },
+    {
+      "line_number": 25,
+      "original": "Memperkosa hak-hak sewajarnya",
+      "translation": "Violates reasonable rights",
+      "start_ms": 144930,
+      "end_ms": 157909
+    },
+    {
+      "line_number": 26,
+      "original": "Maling teriak maling, sembunyi balik dinding",
+      "translation": "Thief shouted thief, hid behind the wall",
+      "start_ms": 157910,
+      "end_ms": 166219
+    },
+    {
+      "line_number": 27,
+      "original": "Pengecut lari terkencing-kencing",
+      "translation": "Cowards run away pissing",
+      "start_ms": 166220,
+      "end_ms": 172829
+    },
+    {
+      "line_number": 28,
+      "original": "Tikam dari belakang, lawan lengah diterjang",
+      "translation": "Stabbing in the back, the opponent is caught off guard",
+      "start_ms": 172830,
+      "end_ms": 177339
+    },
+    {
+      "line_number": 29,
+      "original": "Lalu sibuk mencari kambing hitam",
+      "translation": "Then busy looking for a scapegoat",
+      "start_ms": 177340,
+      "end_ms": 182939
+    },
+    {
+      "line_number": 30,
+      "original": "Selusin kepala tak berdosa",
+      "translation": "A dozen innocent heads",
+      "start_ms": 182940,
+      "end_ms": 188209
+    },
+    {
+      "line_number": 31,
+      "original": "Berteriak hingga serak",
+      "translation": "Shout until you are hoarse",
+      "start_ms": 188210,
+      "end_ms": 191659
+    },
+    {
+      "line_number": 32,
+      "original": "Di dalam negeri yang congkak",
+      "translation": "In an arrogant country",
+      "start_ms": 191660,
+      "end_ms": 194379
+    },
+    {
+      "line_number": 33,
+      "original": "Lalu senang dalang tertawa",
+      "translation": "Then the puppet master laughed",
+      "start_ms": 194380,
+      "end_ms": 198359
+    },
+    {
+      "line_number": 34,
+      "original": "\"Ya-ha-ha!\"",
+      "translation": "\"Yeah-ha-ha!\"",
+      "start_ms": 198360,
+      "end_ms": 215389
+    },
+    {
+      "line_number": 35,
+      "original": "Lusuhnya kain bendera di halaman rumah kita",
+      "translation": "The shabby flag cloth in our yard",
+      "start_ms": 215390,
+      "end_ms": 235069
+    },
+    {
+      "line_number": 36,
+      "original": "Bukan satu alasan untuk kita tinggalkan",
+      "translation": "There's no reason for us to leave it",
+      "start_ms": 235070,
+      "end_ms": 239549
+    },
+    {
+      "line_number": 37,
+      "original": "Banyaknya persoalan yang datang tak kenal kasihan",
+      "translation": "The many problems that come are relentless",
+      "start_ms": 239550,
+      "end_ms": 244179
+    },
+    {
+      "line_number": 38,
+      "original": "Menyerang dalam gelap",
+      "translation": "Attack in the dark",
+      "start_ms": 244180,
+      "end_ms": 249339
+    },
+    {
+      "line_number": 39,
+      "original": "Memburu kala haru dengan cara main kayu",
+      "translation": "Hunting for emotional times by playing with wood",
+      "start_ms": 249340,
+      "end_ms": 254419
+    },
+    {
+      "line_number": 40,
+      "original": "Tinggalkan bekas biru lalu pergi tanpa ragu",
+      "translation": "Leave a blue mark and then leave without hesitation",
+      "start_ms": 254420,
+      "end_ms": 258719
+    },
+    {
+      "line_number": 41,
+      "original": "Memburu kala haru dengan cara main kayu",
+      "translation": "Hunting for emotional times by playing with wood",
+      "start_ms": 258720,
+      "end_ms": 263979
+    },
+    {
+      "line_number": 42,
+      "original": "Tinggalkan bekas biru lalu pergi tanpa ragu",
+      "translation": "Leave a blue mark and then leave without hesitation",
+      "start_ms": 263980,
+      "end_ms": 271169
+    },
+    {
+      "line_number": 43,
+      "original": "Apakah selamanya politik itu kejam?",
+      "translation": "Is politics always cruel?",
+      "start_ms": 271170,
+      "end_ms": 278639
+    },
+    {
+      "line_number": 44,
+      "original": "Apakah selamanya dia datang 'tuk menghantam?",
+      "translation": "Will he always come to hit?",
+      "start_ms": 278640,
+      "end_ms": 283659
+    },
+    {
+      "line_number": 45,
+      "original": "Ataukah memang itu yang sudah digariskan?",
+      "translation": "Or is that what has been outlined?",
+      "start_ms": 283660,
+      "end_ms": null
+    }
+  ]
+}

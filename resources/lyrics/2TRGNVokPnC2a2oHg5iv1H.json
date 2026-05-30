@@ -1,0 +1,266 @@
+{
+  "track_id": "2TRGNVokPnC2a2oHg5iv1H",
+  "track_uri": "spotify:track:2TRGNVokPnC2a2oHg5iv1H",
+  "track_name": "Rumpang",
+  "album_name": "Rumpang",
+  "artist_names": "Nadin Amizah",
+  "duration_ms": 323571,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:16:46.943029+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Pagi tadi, aku masih menangis",
+      "translation": "This morning, I was still crying",
+      "start_ms": 10170,
+      "end_ms": 16209
+    },
+    {
+      "line_number": 2,
+      "original": "Ada rasa yang tak kunjung mati",
+      "translation": "There is a feeling that never dies",
+      "start_ms": 16210,
+      "end_ms": 22139
+    },
+    {
+      "line_number": 3,
+      "original": "Ada seseorang di atasku",
+      "translation": "There's someone above me",
+      "start_ms": 22140,
+      "end_ms": 28019
+    },
+    {
+      "line_number": 4,
+      "original": "Menahan semua rasa malu",
+      "translation": "Endure all shame",
+      "start_ms": 28020,
+      "end_ms": 34069
+    },
+    {
+      "line_number": 5,
+      "original": "Sempat ku berpikir masih bermimpi",
+      "translation": "I thought I was still dreaming",
+      "start_ms": 34070,
+      "end_ms": 40309
+    },
+    {
+      "line_number": 6,
+      "original": "24/7 tanpa henti",
+      "translation": "24/7 non-stop",
+      "start_ms": 40310,
+      "end_ms": 46249
+    },
+    {
+      "line_number": 7,
+      "original": "Matahari dan bulan saksinya",
+      "translation": "The sun and moon are witnesses",
+      "start_ms": 46250,
+      "end_ms": 52279
+    },
+    {
+      "line_number": 8,
+      "original": "Ada rasa yang tak mau hilang",
+      "translation": "There's a feeling that won't go away",
+      "start_ms": 52280,
+      "end_ms": 58129
+    },
+    {
+      "line_number": 9,
+      "original": "Aku takut sepi",
+      "translation": "I'm afraid of being quiet",
+      "start_ms": 58130,
+      "end_ms": 61199
+    },
+    {
+      "line_number": 10,
+      "original": "Tapi yang lain tak berarti",
+      "translation": "But the others are meaningless",
+      "start_ms": 61200,
+      "end_ms": 70349
+    },
+    {
+      "line_number": 11,
+      "original": "Katanya, mimpiku 'kan terwujud",
+      "translation": "He said, my dream will come true",
+      "start_ms": 70350,
+      "end_ms": 75959
+    },
+    {
+      "line_number": 12,
+      "original": "Mereka lupa tentang mimpi buruk",
+      "translation": "They forgot about the nightmare",
+      "start_ms": 75960,
+      "end_ms": 82209
+    },
+    {
+      "line_number": 13,
+      "original": "Tentang kata \"Maaf, sayang, aku harus pergi\"",
+      "translation": "About the words \"Sorry, darling, I have to go\"",
+      "start_ms": 82210,
+      "end_ms": 94379
+    },
+    {
+      "line_number": 14,
+      "original": "Sudah kuucap semua pinta",
+      "translation": "I've said everything I asked",
+      "start_ms": 94380,
+      "end_ms": 100069
+    },
+    {
+      "line_number": 15,
+      "original": "Sebelum ku memejamkan mata",
+      "translation": "Before I close my eyes",
+      "start_ms": 100070,
+      "end_ms": 105689
+    },
+    {
+      "line_number": 16,
+      "original": "Tapi s'lalu saja kamu tetap harus pergi",
+      "translation": "But you always have to go",
+      "start_ms": 105690,
+      "end_ms": 119409
+    },
+    {
+      "line_number": 17,
+      "original": "Sempat ku berpikir masih bermimpi",
+      "translation": "I thought I was still dreaming",
+      "start_ms": 119410,
+      "end_ms": 125799
+    },
+    {
+      "line_number": 18,
+      "original": "Bertahun berlanjut tanpa henti",
+      "translation": "Years went on without stopping",
+      "start_ms": 125800,
+      "end_ms": 131719
+    },
+    {
+      "line_number": 19,
+      "original": "Kulitmu yang memudar saksinya",
+      "translation": "Your fading skin is a witness",
+      "start_ms": 131720,
+      "end_ms": 137799
+    },
+    {
+      "line_number": 20,
+      "original": "Tetap rasaku tak pernah hilang",
+      "translation": "Still my feeling never goes away",
+      "start_ms": 137800,
+      "end_ms": 143169
+    },
+    {
+      "line_number": 21,
+      "original": "Aku takut sepi",
+      "translation": "I'm afraid of being quiet",
+      "start_ms": 143170,
+      "end_ms": 146919
+    },
+    {
+      "line_number": 22,
+      "original": "Tapi yang lain tak berarti",
+      "translation": "But the others are meaningless",
+      "start_ms": 146920,
+      "end_ms": 155929
+    },
+    {
+      "line_number": 23,
+      "original": "Katanya, mimpiku 'kan terwujud",
+      "translation": "He said, my dream will come true",
+      "start_ms": 155930,
+      "end_ms": 161659
+    },
+    {
+      "line_number": 24,
+      "original": "Mereka lupa tentang mimpi buruk",
+      "translation": "They forgot about the nightmare",
+      "start_ms": 161660,
+      "end_ms": 167699
+    },
+    {
+      "line_number": 25,
+      "original": "Tentang kata \"Maaf, sayang, aku harus pergi\"",
+      "translation": "About the words \"Sorry, darling, I have to go\"",
+      "start_ms": 167700,
+      "end_ms": 179909
+    },
+    {
+      "line_number": 26,
+      "original": "Sudah kuucap semua pinta",
+      "translation": "I've said everything I asked",
+      "start_ms": 179910,
+      "end_ms": 185739
+    },
+    {
+      "line_number": 27,
+      "original": "Sebelum ku memejamkan mata",
+      "translation": "Before I close my eyes",
+      "start_ms": 185740,
+      "end_ms": 191199
+    },
+    {
+      "line_number": 28,
+      "original": "Tapi s'lalu saja kamu tetap harus pergi",
+      "translation": "But you always have to go",
+      "start_ms": 191200,
+      "end_ms": 224539
+    },
+    {
+      "line_number": 29,
+      "original": "Banyak yang tak ku ahli",
+      "translation": "There are many things I'm not an expert at",
+      "start_ms": 224540,
+      "end_ms": 231119
+    },
+    {
+      "line_number": 30,
+      "original": "Begitu pula menyambutmu pergi",
+      "translation": "Likewise welcoming you away",
+      "start_ms": 231120,
+      "end_ms": 237969
+    },
+    {
+      "line_number": 31,
+      "original": "Banyak yang tak ku ahli",
+      "translation": "There are many things I'm not an expert at",
+      "start_ms": 237970,
+      "end_ms": 244409
+    },
+    {
+      "line_number": 32,
+      "original": "Begitu pula menyambutmu pergi",
+      "translation": "Likewise welcoming you away",
+      "start_ms": 244410,
+      "end_ms": 251329
+    },
+    {
+      "line_number": 33,
+      "original": "Banyak yang tak ku ahli",
+      "translation": "There are many things I'm not an expert at",
+      "start_ms": 251330,
+      "end_ms": 257729
+    },
+    {
+      "line_number": 34,
+      "original": "Begitu pula menyambutmu tak kembali",
+      "translation": "Likewise, welcoming you does not come back",
+      "start_ms": 257730,
+      "end_ms": 278029
+    },
+    {
+      "line_number": 35,
+      "original": "Katanya, mimpiku akan terwujud",
+      "translation": "He said, my dream will come true",
+      "start_ms": 278030,
+      "end_ms": 290009
+    },
+    {
+      "line_number": 36,
+      "original": "Mereka berbohong, mimpiku tetap semu",
+      "translation": "They lie, my dreams remain false",
+      "start_ms": 290010,
+      "end_ms": null
+    }
+  ]
+}

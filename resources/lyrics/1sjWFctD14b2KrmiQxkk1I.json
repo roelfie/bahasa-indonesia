@@ -1,0 +1,259 @@
+{
+  "track_id": "1sjWFctD14b2KrmiQxkk1I",
+  "track_uri": "spotify:track:1sjWFctD14b2KrmiQxkk1I",
+  "track_name": "Terpuruk Ku Disini",
+  "album_name": "Ungu",
+  "artist_names": "Kla Project",
+  "duration_ms": 328040,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:09:02.069136+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Setetes embun di daun, lamban bergulir",
+      "translation": "A drop of dew on a leaf, slow to roll",
+      "start_ms": 41900,
+      "end_ms": 50659
+    },
+    {
+      "line_number": 2,
+      "original": "Ketika jatuh ke tanah, terserap musnah",
+      "translation": "When it falls to the ground, it is absorbed and destroyed",
+      "start_ms": 50660,
+      "end_ms": 59129
+    },
+    {
+      "line_number": 3,
+      "original": "Begitupun hatiku di ayun bimbang jawabmu",
+      "translation": "Likewise, my heart sways in doubt about your answer",
+      "start_ms": 59130,
+      "end_ms": 67759
+    },
+    {
+      "line_number": 4,
+      "original": "Terhempas dan hampa",
+      "translation": "Crashed and empty",
+      "start_ms": 67760,
+      "end_ms": 72519
+    },
+    {
+      "line_number": 5,
+      "original": "Tak terkira",
+      "translation": "It's beyond measure",
+      "start_ms": 72520,
+      "end_ms": 91449
+    },
+    {
+      "line_number": 6,
+      "original": "Mentari tersaput mega, enggan bersinar",
+      "translation": "The sun is covered in mega rays, reluctant to shine",
+      "start_ms": 91450,
+      "end_ms": 100049
+    },
+    {
+      "line_number": 7,
+      "original": "Menusuk angin ke raga, jiwa gemetar",
+      "translation": "The wind pierces the body, the soul trembles",
+      "start_ms": 100050,
+      "end_ms": 108479
+    },
+    {
+      "line_number": 8,
+      "original": "Terpurukku di sini dipeluk bimbang sikapmu",
+      "translation": "I'm slumped here, hugged by your uncertain attitude",
+      "start_ms": 108480,
+      "end_ms": 117069
+    },
+    {
+      "line_number": 9,
+      "original": "Membeku dan sara",
+      "translation": "Frozen and sara",
+      "start_ms": 117070,
+      "end_ms": 121659
+    },
+    {
+      "line_number": 10,
+      "original": "Tak terkira...",
+      "translation": "Unbelievable...",
+      "start_ms": 121660,
+      "end_ms": 130169
+    },
+    {
+      "line_number": 11,
+      "original": "Tak terkira...",
+      "translation": "Unbelievable...",
+      "start_ms": 130170,
+      "end_ms": 141159
+    },
+    {
+      "line_number": 12,
+      "original": "Adalah kau tuangkan cinta",
+      "translation": "Is you pour love",
+      "start_ms": 141160,
+      "end_ms": 143819
+    },
+    {
+      "line_number": 13,
+      "original": "Ke dalam tungku yang tengah panas menyala",
+      "translation": "Into a burning hot furnace",
+      "start_ms": 143820,
+      "end_ms": 148809
+    },
+    {
+      "line_number": 14,
+      "original": "Adalah kau padamkan bara",
+      "translation": "It's you putting out the embers",
+      "start_ms": 148810,
+      "end_ms": 152249
+    },
+    {
+      "line_number": 15,
+      "original": "Tatkala hangat mulai membuai jiwa",
+      "translation": "When the warmth begins to lull the soul",
+      "start_ms": 152250,
+      "end_ms": 161739
+    },
+    {
+      "line_number": 16,
+      "original": "Terhempas bimbang sikapmu",
+      "translation": "You are confused about your attitude",
+      "start_ms": 161740,
+      "end_ms": 166479
+    },
+    {
+      "line_number": 17,
+      "original": "Terpuruk ku di sini",
+      "translation": "I'm down here",
+      "start_ms": 166480,
+      "end_ms": 170649
+    },
+    {
+      "line_number": 18,
+      "original": "Di pelukan bimbang jawabmu",
+      "translation": "In your indecisive arms answered",
+      "start_ms": 170650,
+      "end_ms": 175089
+    },
+    {
+      "line_number": 19,
+      "original": "Membeku dan sara",
+      "translation": "Frozen and sara",
+      "start_ms": 175090,
+      "end_ms": 179719
+    },
+    {
+      "line_number": 20,
+      "original": "Tak terkira...",
+      "translation": "Unbelievable...",
+      "start_ms": 179720,
+      "end_ms": 187979
+    },
+    {
+      "line_number": 21,
+      "original": "Tak terkira...",
+      "translation": "Unbelievable...",
+      "start_ms": 187980,
+      "end_ms": 215829
+    },
+    {
+      "line_number": 22,
+      "original": "Adalah kau tuangkan cinta",
+      "translation": "Is you pour love",
+      "start_ms": 215830,
+      "end_ms": 219379
+    },
+    {
+      "line_number": 23,
+      "original": "Ke dalam tungku yang tengah panas menyala",
+      "translation": "Into a burning hot furnace",
+      "start_ms": 219380,
+      "end_ms": 224249
+    },
+    {
+      "line_number": 24,
+      "original": "Adalah kau padamkan bara",
+      "translation": "It's you putting out the embers",
+      "start_ms": 224250,
+      "end_ms": 227429
+    },
+    {
+      "line_number": 25,
+      "original": "Tatkala hangat mulai membuai jiwa",
+      "translation": "When the warmth begins to lull the soul",
+      "start_ms": 227430,
+      "end_ms": 237169
+    },
+    {
+      "line_number": 26,
+      "original": "Terhempas bimbang sikapmu",
+      "translation": "You are confused about your attitude",
+      "start_ms": 237170,
+      "end_ms": 241169
+    },
+    {
+      "line_number": 27,
+      "original": "Menggigil palung hati",
+      "translation": "Shivers through my heart",
+      "start_ms": 241170,
+      "end_ms": 245449
+    },
+    {
+      "line_number": 28,
+      "original": "Di pelukan bimbang jawabmu",
+      "translation": "In your indecisive arms answered",
+      "start_ms": 245450,
+      "end_ms": 249759
+    },
+    {
+      "line_number": 29,
+      "original": "Terpuruk ku di sini",
+      "translation": "I'm down here",
+      "start_ms": 249760,
+      "end_ms": 253759
+    },
+    {
+      "line_number": 30,
+      "original": "Di hempas bimbang sikapmu",
+      "translation": "Your attitude is blown away",
+      "start_ms": 253760,
+      "end_ms": 257449
+    },
+    {
+      "line_number": 31,
+      "original": "Membeku dan sara...",
+      "translation": "Freezing and sara...",
+      "start_ms": 257450,
+      "end_ms": 264459
+    },
+    {
+      "line_number": 32,
+      "original": "Tak terkira... (haa a...)",
+      "translation": "Unbelievable... (haa a...)",
+      "start_ms": 264460,
+      "end_ms": 273819
+    },
+    {
+      "line_number": 33,
+      "original": "Tak terkira... (haa a...)",
+      "translation": "Unbelievable... (haa a...)",
+      "start_ms": 273820,
+      "end_ms": 282389
+    },
+    {
+      "line_number": 34,
+      "original": "Oo... hmm...(haa a)",
+      "translation": "Oo... hmm...(haaa)",
+      "start_ms": 282390,
+      "end_ms": 295429
+    },
+    {
+      "line_number": 35,
+      "original": "Terhempas dan menghampa",
+      "translation": "Crashed and empty",
+      "start_ms": 295430,
+      "end_ms": null
+    }
+  ]
+}

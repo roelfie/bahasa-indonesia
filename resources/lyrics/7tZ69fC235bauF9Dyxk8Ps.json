@@ -1,0 +1,147 @@
+{
+  "track_id": "7tZ69fC235bauF9Dyxk8Ps",
+  "track_uri": "spotify:track:7tZ69fC235bauF9Dyxk8Ps",
+  "track_name": "Berdua Saja",
+  "album_name": "Dunia Batas",
+  "artist_names": "Payung Teduh",
+  "duration_ms": 267000,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:13:20.920808+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Ada yang tak sempat tergambarkan oleh kata",
+      "translation": "There are things that words cannot describe",
+      "start_ms": 34110,
+      "end_ms": 44349
+    },
+    {
+      "line_number": 2,
+      "original": "Ketika kita berdua",
+      "translation": "When we are alone",
+      "start_ms": 44350,
+      "end_ms": 50179
+    },
+    {
+      "line_number": 3,
+      "original": "Hanya aku yang bisa bertanya",
+      "translation": "Only I can ask",
+      "start_ms": 50180,
+      "end_ms": 58029
+    },
+    {
+      "line_number": 4,
+      "original": "Mungkinkah kau tahu jawabnya?",
+      "translation": "Maybe you know the answer?",
+      "start_ms": 58030,
+      "end_ms": 68359
+    },
+    {
+      "line_number": 5,
+      "original": "Malam jadi saksinya",
+      "translation": "Night is the witness",
+      "start_ms": 68360,
+      "end_ms": 75849
+    },
+    {
+      "line_number": 6,
+      "original": "Kita berdua di antara kata",
+      "translation": "We are both between words",
+      "start_ms": 75850,
+      "end_ms": 81989
+    },
+    {
+      "line_number": 7,
+      "original": "Yang tak terucap",
+      "translation": "What's unspoken",
+      "start_ms": 81990,
+      "end_ms": 86319
+    },
+    {
+      "line_number": 8,
+      "original": "Berharap waktu membawa keberanian",
+      "translation": "Hope time brings courage",
+      "start_ms": 86320,
+      "end_ms": 93959
+    },
+    {
+      "line_number": 9,
+      "original": "Untuk datang membawa jawaban",
+      "translation": "To come with answers",
+      "start_ms": 93960,
+      "end_ms": 104269
+    },
+    {
+      "line_number": 10,
+      "original": "Mungkinkah kita ada kesempatan",
+      "translation": "Maybe we have a chance",
+      "start_ms": 104270,
+      "end_ms": 119949
+    },
+    {
+      "line_number": 11,
+      "original": "Ucapkan janji takkan berpisah selamanya?",
+      "translation": "Make a promise not to be separated forever?",
+      "start_ms": 119950,
+      "end_ms": 176359
+    },
+    {
+      "line_number": 12,
+      "original": "Malam jadi saksinya",
+      "translation": "Night is the witness",
+      "start_ms": 176360,
+      "end_ms": 183999
+    },
+    {
+      "line_number": 13,
+      "original": "Kita berdua di antara kata",
+      "translation": "We are both between words",
+      "start_ms": 184000,
+      "end_ms": 190069
+    },
+    {
+      "line_number": 14,
+      "original": "Yang tak terucap",
+      "translation": "What's unspoken",
+      "start_ms": 190070,
+      "end_ms": 194129
+    },
+    {
+      "line_number": 15,
+      "original": "Berharap waktu membawa keberanian",
+      "translation": "Hope time brings courage",
+      "start_ms": 194130,
+      "end_ms": 201999
+    },
+    {
+      "line_number": 16,
+      "original": "Untuk datang membawa jawaban",
+      "translation": "To come with answers",
+      "start_ms": 202000,
+      "end_ms": 212369
+    },
+    {
+      "line_number": 17,
+      "original": "Mungkinkah kita ada kesempatan",
+      "translation": "Maybe we have a chance",
+      "start_ms": 212370,
+      "end_ms": 227749
+    },
+    {
+      "line_number": 18,
+      "original": "Ucapkan janji",
+      "translation": "Make a promise",
+      "start_ms": 227750,
+      "end_ms": 241119
+    },
+    {
+      "line_number": 19,
+      "original": "Takkan berpisah selamanya?",
+      "translation": "Won't we be apart forever?",
+      "start_ms": 241120,
+      "end_ms": null
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "track_id": "31rKSgJqmVVP3p0sYj33ls",
+  "track_uri": "spotify:track:31rKSgJqmVVP3p0sYj33ls",
+  "track_name": "Aku Bukan Pilihan",
+  "album_name": "In Love",
+  "artist_names": "Iwan Fals",
+  "duration_ms": 258204,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:01:44.370878+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Kini ku mengungkap tanya",
+      "translation": "Now I ask questions",
+      "start_ms": 14280,
+      "end_ms": 17619
+    },
+    {
+      "line_number": 2,
+      "original": "Siapakah dirinya",
+      "translation": "Who is he?",
+      "start_ms": 17620,
+      "end_ms": 20719
+    },
+    {
+      "line_number": 3,
+      "original": "Yang mengaku kekasihmu itu?",
+      "translation": "Who claims to be your lover?",
+      "start_ms": 20720,
+      "end_ms": 26729
+    },
+    {
+      "line_number": 4,
+      "original": "Aku tak bisa memahami",
+      "translation": "I can't understand",
+      "start_ms": 26730,
+      "end_ms": 35979
+    },
+    {
+      "line_number": 5,
+      "original": "Ketika malam tiba",
+      "translation": "When night falls",
+      "start_ms": 35980,
+      "end_ms": 38729
+    },
+    {
+      "line_number": 6,
+      "original": "Ku rela kau berada",
+      "translation": "I want you to be there",
+      "start_ms": 38730,
+      "end_ms": 42099
+    },
+    {
+      "line_number": 7,
+      "original": "Dengan siapa kau melewatinya",
+      "translation": "Who did you go through with?",
+      "start_ms": 42100,
+      "end_ms": 47819
+    },
+    {
+      "line_number": 8,
+      "original": "Aku tak bisa memahami",
+      "translation": "I can't understand",
+      "start_ms": 47820,
+      "end_ms": 56129
+    },
+    {
+      "line_number": 9,
+      "original": "Aku lelaki tak mungkin menerimamu bila",
+      "translation": "I'm a man who can't possibly accept you",
+      "start_ms": 56130,
+      "end_ms": 63279
+    },
+    {
+      "line_number": 10,
+      "original": "Ternyata kau mendua, membuatku terluka",
+      "translation": "Turns out you're being ambiguous, making me hurt",
+      "start_ms": 63280,
+      "end_ms": 68569
+    },
+    {
+      "line_number": 11,
+      "original": "Tinggalkan saja diriku yang tak mungkin menunggu",
+      "translation": "Just leave me alone who can't wait",
+      "start_ms": 68570,
+      "end_ms": 75149
+    },
+    {
+      "line_number": 12,
+      "original": "Jangan pernah memilih, aku bukan pilihan",
+      "translation": "Never choose, I'm not an option",
+      "start_ms": 75150,
+      "end_ms": 84589
+    },
+    {
+      "line_number": 13,
+      "original": "S'lalu terungkap tanya",
+      "translation": "Then it was revealed and asked",
+      "start_ms": 84590,
+      "end_ms": 87729
+    },
+    {
+      "line_number": 14,
+      "original": "Benarkah kini dia",
+      "translation": "Is it true now he is?",
+      "start_ms": 87730,
+      "end_ms": 90369
+    },
+    {
+      "line_number": 15,
+      "original": "Wanita yang kukenal hatinya?",
+      "translation": "The woman whose heart I know?",
+      "start_ms": 90370,
+      "end_ms": 96059
+    },
+    {
+      "line_number": 16,
+      "original": "Aku tak bisa memahami",
+      "translation": "I can't understand",
+      "start_ms": 96060,
+      "end_ms": 104849
+    },
+    {
+      "line_number": 17,
+      "original": "Aku lelaki tak mungkin menerimamu bila",
+      "translation": "I'm a man who can't possibly accept you",
+      "start_ms": 104850,
+      "end_ms": 111429
+    },
+    {
+      "line_number": 18,
+      "original": "Ternyata kau mendua, membuatku terluka",
+      "translation": "Turns out you're being ambiguous, making me hurt",
+      "start_ms": 111430,
+      "end_ms": 116949
+    },
+    {
+      "line_number": 19,
+      "original": "Tinggalkan saja diriku yang tak mungkin menunggu",
+      "translation": "Just leave me alone who can't wait",
+      "start_ms": 116950,
+      "end_ms": 123539
+    },
+    {
+      "line_number": 20,
+      "original": "Jangan pernah memilih, aku bukan pilihan",
+      "translation": "Never choose, I'm not an option",
+      "start_ms": 123540,
+      "end_ms": 132999
+    },
+    {
+      "line_number": 21,
+      "original": "Tak perlu kau memilihku",
+      "translation": "You don't need to choose me",
+      "start_ms": 133000,
+      "end_ms": 138059
+    },
+    {
+      "line_number": 22,
+      "original": "Aku lelaki bukan 'tuk dipilih",
+      "translation": "I'm not a man to be chosen",
+      "start_ms": 138060,
+      "end_ms": 180769
+    },
+    {
+      "line_number": 23,
+      "original": "Aku lelaki tak mungkin menerimamu bila",
+      "translation": "I'm a man who can't possibly accept you",
+      "start_ms": 180770,
+      "end_ms": 187409
+    },
+    {
+      "line_number": 24,
+      "original": "Ternyata kau mendua, membuatku terluka",
+      "translation": "Turns out you're being ambiguous, making me hurt",
+      "start_ms": 187410,
+      "end_ms": 192779
+    },
+    {
+      "line_number": 25,
+      "original": "Tinggalkan saja diriku yang tak mungkin menunggu",
+      "translation": "Just leave me alone who can't wait",
+      "start_ms": 192780,
+      "end_ms": 199549
+    },
+    {
+      "line_number": 26,
+      "original": "Jangan pernah memilih, aku bukan pilihan",
+      "translation": "Never choose, I'm not an option",
+      "start_ms": 199550,
+      "end_ms": 204809
+    },
+    {
+      "line_number": 27,
+      "original": "Aku lelaki tak mungkin menerimamu bila",
+      "translation": "I'm a man who can't possibly accept you",
+      "start_ms": 204810,
+      "end_ms": 211729
+    },
+    {
+      "line_number": 28,
+      "original": "Ternyata kau mendua, membuatku terluka",
+      "translation": "Turns out you're being ambiguous, making me hurt",
+      "start_ms": 211730,
+      "end_ms": 217109
+    },
+    {
+      "line_number": 29,
+      "original": "Tinggalkan saja diriku yang tak mungkin menunggu",
+      "translation": "Just leave me alone who can't wait",
+      "start_ms": 217110,
+      "end_ms": 223669
+    },
+    {
+      "line_number": 30,
+      "original": "Jangan pernah memilih, aku bukan pilihan",
+      "translation": "Never choose, I'm not an option",
+      "start_ms": 223670,
+      "end_ms": null
+    }
+  ]
+}

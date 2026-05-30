@@ -1,0 +1,238 @@
+{
+  "track_id": "1k5vv2ood14aa5uBYWBlWh",
+  "track_uri": "spotify:track:1k5vv2ood14aa5uBYWBlWh",
+  "track_name": "Resah",
+  "album_name": "Dunia Batas",
+  "artist_names": "Payung Teduh",
+  "duration_ms": 240882,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:13:06.394162+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 14950,
+      "end_ms": 18419
+    },
+    {
+      "line_number": 2,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 18420,
+      "end_ms": 22009
+    },
+    {
+      "line_number": 3,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 22010,
+      "end_ms": 25619
+    },
+    {
+      "line_number": 4,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 25620,
+      "end_ms": 29089
+    },
+    {
+      "line_number": 5,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 29090,
+      "end_ms": 32669
+    },
+    {
+      "line_number": 6,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 32670,
+      "end_ms": 36159
+    },
+    {
+      "line_number": 7,
+      "original": "Oh-oh-oh",
+      "translation": "Oh-oh-oh",
+      "start_ms": 36160,
+      "end_ms": 42739
+    },
+    {
+      "line_number": 8,
+      "original": "Aku ingin berjalan bersamamu",
+      "translation": "I want to walk with you",
+      "start_ms": 42740,
+      "end_ms": 49809
+    },
+    {
+      "line_number": 9,
+      "original": "Dalam hujan dan malam gelap",
+      "translation": "In the rain and dark night",
+      "start_ms": 49810,
+      "end_ms": 56949
+    },
+    {
+      "line_number": 10,
+      "original": "Tapi aku tak bisa melihat matamu",
+      "translation": "But I can't see your eyes",
+      "start_ms": 56950,
+      "end_ms": 71099
+    },
+    {
+      "line_number": 11,
+      "original": "Aku ingin berdua denganmu",
+      "translation": "I want to be alone with you",
+      "start_ms": 71100,
+      "end_ms": 78379
+    },
+    {
+      "line_number": 12,
+      "original": "Di antara daun gugur",
+      "translation": "Among the fallen leaves",
+      "start_ms": 78380,
+      "end_ms": 85359
+    },
+    {
+      "line_number": 13,
+      "original": "Aku ingin berdua denganmu",
+      "translation": "I want to be alone with you",
+      "start_ms": 85360,
+      "end_ms": 92179
+    },
+    {
+      "line_number": 14,
+      "original": "Tapi aku hanya melihat keresahanmu",
+      "translation": "But I just see your concern",
+      "start_ms": 92180,
+      "end_ms": 117439
+    },
+    {
+      "line_number": 15,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 117440,
+      "end_ms": 120889
+    },
+    {
+      "line_number": 16,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 120890,
+      "end_ms": 124329
+    },
+    {
+      "line_number": 17,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 124330,
+      "end_ms": 127949
+    },
+    {
+      "line_number": 18,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 127950,
+      "end_ms": 131669
+    },
+    {
+      "line_number": 19,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 131670,
+      "end_ms": 135109
+    },
+    {
+      "line_number": 20,
+      "original": "Pa-ra-ra-ra-ra",
+      "translation": "Pa-ra-ra-ra-ra",
+      "start_ms": 135110,
+      "end_ms": 138549
+    },
+    {
+      "line_number": 21,
+      "original": "Uh-uh, uh-uh",
+      "translation": "Uh-uh, uh-uh",
+      "start_ms": 138550,
+      "end_ms": 146649
+    },
+    {
+      "line_number": 22,
+      "original": "Aku menunggu dengan sabar",
+      "translation": "I waited patiently",
+      "start_ms": 146650,
+      "end_ms": 151329
+    },
+    {
+      "line_number": 23,
+      "original": "Di atas sini, melayang-layang",
+      "translation": "Up here, floating around",
+      "start_ms": 151330,
+      "end_ms": 160579
+    },
+    {
+      "line_number": 24,
+      "original": "Tergoyang angin menantikan tubuh itu",
+      "translation": "The wind swayed waiting for the body",
+      "start_ms": 160580,
+      "end_ms": 173439
+    },
+    {
+      "line_number": 25,
+      "original": "Aku ingin berdua denganmu",
+      "translation": "I want to be alone with you",
+      "start_ms": 173440,
+      "end_ms": 180589
+    },
+    {
+      "line_number": 26,
+      "original": "Di antara daun gugur",
+      "translation": "Among the fallen leaves",
+      "start_ms": 180590,
+      "end_ms": 187419
+    },
+    {
+      "line_number": 27,
+      "original": "Aku ingin berdua denganmu",
+      "translation": "I want to be alone with you",
+      "start_ms": 187420,
+      "end_ms": 194639
+    },
+    {
+      "line_number": 28,
+      "original": "Tapi aku hanya melihat keresahanmu",
+      "translation": "But I just see your concern",
+      "start_ms": 194640,
+      "end_ms": 204379
+    },
+    {
+      "line_number": 29,
+      "original": "Ingin berdua denganmu",
+      "translation": "Want to be alone with you",
+      "start_ms": 204380,
+      "end_ms": 208749
+    },
+    {
+      "line_number": 30,
+      "original": "Di antara daun gugur",
+      "translation": "Among the fallen leaves",
+      "start_ms": 208750,
+      "end_ms": 215829
+    },
+    {
+      "line_number": 31,
+      "original": "Aku ingin berdua denganmu",
+      "translation": "I want to be alone with you",
+      "start_ms": 215830,
+      "end_ms": 222829
+    },
+    {
+      "line_number": 32,
+      "original": "Tapi aku hanya melihat keresahanmu",
+      "translation": "But I just see your concern",
+      "start_ms": 222830,
+      "end_ms": null
+    }
+  ]
+}

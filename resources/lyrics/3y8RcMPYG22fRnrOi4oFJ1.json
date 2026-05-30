@@ -1,0 +1,231 @@
+{
+  "track_id": "3y8RcMPYG22fRnrOi4oFJ1",
+  "track_uri": "spotify:track:3y8RcMPYG22fRnrOi4oFJ1",
+  "track_name": "Nanti Kita Seperti Ini",
+  "album_name": "Nanti Kita Seperti Ini",
+  "artist_names": "Batas Senja",
+  "duration_ms": 209647,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:16:22.498717+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Ini gambaran kita suatu hari nanti",
+      "translation": "This is our picture someday",
+      "start_ms": 12060,
+      "end_ms": 20279
+    },
+    {
+      "line_number": 2,
+      "original": "Set'lah sekian lama kita jalani",
+      "translation": "It's been a long time since we lived",
+      "start_ms": 20280,
+      "end_ms": 25769
+    },
+    {
+      "line_number": 3,
+      "original": "Lewati masa-masa yang berarti",
+      "translation": "Pass through meaningful times",
+      "start_ms": 25770,
+      "end_ms": 34339
+    },
+    {
+      "line_number": 4,
+      "original": "Kini, ku sudah yakin pada satu hati",
+      "translation": "Now, I am sure of one heart",
+      "start_ms": 34340,
+      "end_ms": 42799
+    },
+    {
+      "line_number": 5,
+      "original": "Yang kurasa tepat untuk temani",
+      "translation": "Which I think is appropriate to accompany",
+      "start_ms": 42800,
+      "end_ms": 48539
+    },
+    {
+      "line_number": 6,
+      "original": "Sekarang hingga aku tua nanti",
+      "translation": "Now until I'm old",
+      "start_ms": 48540,
+      "end_ms": 55209
+    },
+    {
+      "line_number": 7,
+      "original": "Ingin punya rumah 'tuk tempat bermesra",
+      "translation": "I want to have a house where I can make out",
+      "start_ms": 55210,
+      "end_ms": 61019
+    },
+    {
+      "line_number": 8,
+      "original": "Kau dipanggil ibu, sementara aku ayah",
+      "translation": "You are called mother, while I am father",
+      "start_ms": 61020,
+      "end_ms": 66729
+    },
+    {
+      "line_number": 9,
+      "original": "Bertukar cerita di ruang k'luarga",
+      "translation": "Exchange stories in the family room",
+      "start_ms": 66730,
+      "end_ms": 72439
+    },
+    {
+      "line_number": 10,
+      "original": "Bercengkerama dan menimang buah hati kita",
+      "translation": "Hanging out and cradling our little ones",
+      "start_ms": 72440,
+      "end_ms": 78349
+    },
+    {
+      "line_number": 11,
+      "original": "Sederhana",
+      "translation": "Simple",
+      "start_ms": 78350,
+      "end_ms": 84019
+    },
+    {
+      "line_number": 12,
+      "original": "Bahagia ini lengkap sudah",
+      "translation": "This happiness is complete",
+      "start_ms": 84020,
+      "end_ms": 89659
+    },
+    {
+      "line_number": 13,
+      "original": "Sama-sama",
+      "translation": "You're welcome",
+      "start_ms": 89660,
+      "end_ms": 95379
+    },
+    {
+      "line_number": 14,
+      "original": "Hingga nanti kita tutup mata",
+      "translation": "Until then we close our eyes",
+      "start_ms": 95380,
+      "end_ms": 107969
+    },
+    {
+      "line_number": 15,
+      "original": "Ha-ah",
+      "translation": "Ha-ah",
+      "start_ms": 107970,
+      "end_ms": 113499
+    },
+    {
+      "line_number": 16,
+      "original": "Ha-ah",
+      "translation": "Ha-ah",
+      "start_ms": 113500,
+      "end_ms": 119279
+    },
+    {
+      "line_number": 17,
+      "original": "Ha-ah",
+      "translation": "Ha-ah",
+      "start_ms": 119280,
+      "end_ms": 123059
+    },
+    {
+      "line_number": 18,
+      "original": "Ingin punya rumah 'tuk tempat bermesra",
+      "translation": "I want to have a house where I can make out",
+      "start_ms": 123060,
+      "end_ms": 128779
+    },
+    {
+      "line_number": 19,
+      "original": "Kau dipanggil ibu, sementara aku ayah",
+      "translation": "You are called mother, while I am father",
+      "start_ms": 128780,
+      "end_ms": 134449
+    },
+    {
+      "line_number": 20,
+      "original": "Bertukar cerita hingga lelap mata",
+      "translation": "Exchange stories until your eyes fall asleep",
+      "start_ms": 134450,
+      "end_ms": 140129
+    },
+    {
+      "line_number": 21,
+      "original": "Lalu datang pagi, kau memasak, ku bekerja",
+      "translation": "Then come morning, you cook, I work",
+      "start_ms": 140130,
+      "end_ms": 146219
+    },
+    {
+      "line_number": 22,
+      "original": "Sederhana",
+      "translation": "Simple",
+      "start_ms": 146220,
+      "end_ms": 151989
+    },
+    {
+      "line_number": 23,
+      "original": "Bahagia ini lengkap sudah",
+      "translation": "This happiness is complete",
+      "start_ms": 151990,
+      "end_ms": 157569
+    },
+    {
+      "line_number": 24,
+      "original": "Sama-sama",
+      "translation": "You're welcome",
+      "start_ms": 157570,
+      "end_ms": 163249
+    },
+    {
+      "line_number": 25,
+      "original": "Hingga nanti ajal kita tiba",
+      "translation": "Until our death comes",
+      "start_ms": 163250,
+      "end_ms": 168859
+    },
+    {
+      "line_number": 26,
+      "original": "S'moga saja",
+      "translation": "Fingers crossed",
+      "start_ms": 168860,
+      "end_ms": 174559
+    },
+    {
+      "line_number": 27,
+      "original": "Niat baik 'kan terwujud seg'ra",
+      "translation": "Good intentions will come true soon",
+      "start_ms": 174560,
+      "end_ms": 180039
+    },
+    {
+      "line_number": 28,
+      "original": "Asal kita",
+      "translation": "Where we come from",
+      "start_ms": 180040,
+      "end_ms": 186099
+    },
+    {
+      "line_number": 29,
+      "original": "Percaya Dia Maha Segalanya",
+      "translation": "Believe He is everything",
+      "start_ms": 186100,
+      "end_ms": 190759
+    },
+    {
+      "line_number": 30,
+      "original": "Jangan dulu lelah, yakin semua indah",
+      "translation": "Don't get tired yet, be sure everything is beautiful",
+      "start_ms": 190760,
+      "end_ms": 196609
+    },
+    {
+      "line_number": 31,
+      "original": "Pejamkanlah mata, pada-Nya kita berserah",
+      "translation": "Close your eyes, we surrender to Him",
+      "start_ms": 196610,
+      "end_ms": null
+    }
+  ]
+}

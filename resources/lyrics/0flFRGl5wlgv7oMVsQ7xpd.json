@@ -1,0 +1,294 @@
+{
+  "track_id": "0flFRGl5wlgv7oMVsQ7xpd",
+  "track_uri": "spotify:track:0flFRGl5wlgv7oMVsQ7xpd",
+  "track_name": "Permintaan Hati",
+  "album_name": "Don't Make Me Sad",
+  "artist_names": "Letto",
+  "duration_ms": 310404,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:11:47.216628+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Terbuai, aku hilang",
+      "translation": "Lulled, I'm lost",
+      "start_ms": 5740,
+      "end_ms": 8719
+    },
+    {
+      "line_number": 2,
+      "original": "Terjatuh aku dalam keindahan penantian",
+      "translation": "I fell into the beauty of waiting",
+      "start_ms": 8720,
+      "end_ms": 17069
+    },
+    {
+      "line_number": 3,
+      "original": "Terucap keraguan hati yang bimbang",
+      "translation": "There was a doubtful heart",
+      "start_ms": 17070,
+      "end_ms": 22209
+    },
+    {
+      "line_number": 4,
+      "original": "Yang terhalang kepastian cinta",
+      "translation": "Who is hindered by the certainty of love",
+      "start_ms": 22210,
+      "end_ms": 28229
+    },
+    {
+      "line_number": 5,
+      "original": "Aku (aku) hilang",
+      "translation": "I (am) lost",
+      "start_ms": 28230,
+      "end_ms": 39429
+    },
+    {
+      "line_number": 6,
+      "original": "Aku hilang",
+      "translation": "I'm lost",
+      "start_ms": 39430,
+      "end_ms": 50729
+    },
+    {
+      "line_number": 7,
+      "original": "Tersabut kabut malam",
+      "translation": "Covered by night fog",
+      "start_ms": 50730,
+      "end_ms": 54009
+    },
+    {
+      "line_number": 8,
+      "original": "Terbiasnya harapan yang tersimpan",
+      "translation": "The bias of stored hopes",
+      "start_ms": 54010,
+      "end_ms": 59039
+    },
+    {
+      "line_number": 9,
+      "original": "Suci tak (suci tak) bertuan (bertuan)",
+      "translation": "Holy no (holy no) no master (no master)",
+      "start_ms": 59040,
+      "end_ms": 62079
+    },
+    {
+      "line_number": 10,
+      "original": "Terasa kerinduan hati yang bimbang",
+      "translation": "Feeling the longing of a wavering heart",
+      "start_ms": 62080,
+      "end_ms": 67499
+    },
+    {
+      "line_number": 11,
+      "original": "Yang terhempas kepastian cinta",
+      "translation": "What was blown away was the certainty of love",
+      "start_ms": 67500,
+      "end_ms": 77579
+    },
+    {
+      "line_number": 12,
+      "original": "Dengarkanlah permintaan hati",
+      "translation": "Listen to your heart's request",
+      "start_ms": 77580,
+      "end_ms": 82379
+    },
+    {
+      "line_number": 13,
+      "original": "Yang teraniaya sunyi",
+      "translation": "The persecuted are silent",
+      "start_ms": 82380,
+      "end_ms": 87849
+    },
+    {
+      "line_number": 14,
+      "original": "Dan berikanlah arti pada hidupku",
+      "translation": "And give meaning to my life",
+      "start_ms": 87850,
+      "end_ms": 93839
+    },
+    {
+      "line_number": 15,
+      "original": "Yang terhempas, yang terlepas",
+      "translation": "What's blown away, what's released",
+      "start_ms": 93840,
+      "end_ms": 99089
+    },
+    {
+      "line_number": 16,
+      "original": "Pelukanmu, bersamamu, dan tanpamu",
+      "translation": "Your hugs, with you, and without you",
+      "start_ms": 99090,
+      "end_ms": 107839
+    },
+    {
+      "line_number": 17,
+      "original": "Aku hilang selalu",
+      "translation": "I'm always lost",
+      "start_ms": 107840,
+      "end_ms": 117119
+    },
+    {
+      "line_number": 18,
+      "original": "Aku (aku) hilang",
+      "translation": "I (am) lost",
+      "start_ms": 117120,
+      "end_ms": 128599
+    },
+    {
+      "line_number": 19,
+      "original": "Aku (aku) hilang",
+      "translation": "I (am) lost",
+      "start_ms": 128600,
+      "end_ms": 139849
+    },
+    {
+      "line_number": 20,
+      "original": "Tersabut kabut malam",
+      "translation": "Covered by night fog",
+      "start_ms": 139850,
+      "end_ms": 143129
+    },
+    {
+      "line_number": 21,
+      "original": "Terbiasnya harapan yang tersimpan",
+      "translation": "The bias of stored hopes",
+      "start_ms": 143130,
+      "end_ms": 147919
+    },
+    {
+      "line_number": 22,
+      "original": "Suci tak bertuan",
+      "translation": "No man's holy",
+      "start_ms": 147920,
+      "end_ms": 151039
+    },
+    {
+      "line_number": 23,
+      "original": "Terasa kerinduan hati yang bimbang",
+      "translation": "Feeling the longing of a wavering heart",
+      "start_ms": 151040,
+      "end_ms": 156279
+    },
+    {
+      "line_number": 24,
+      "original": "Yang terhempas kepastian cinta",
+      "translation": "What was blown away was the certainty of love",
+      "start_ms": 156280,
+      "end_ms": 166539
+    },
+    {
+      "line_number": 25,
+      "original": "Dengarkanlah permintaan hati",
+      "translation": "Listen to your heart's request",
+      "start_ms": 166540,
+      "end_ms": 171079
+    },
+    {
+      "line_number": 26,
+      "original": "Yang teraniaya sunyi",
+      "translation": "The persecuted are silent",
+      "start_ms": 171080,
+      "end_ms": 176839
+    },
+    {
+      "line_number": 27,
+      "original": "Dan berikanlah arti pada hidupku",
+      "translation": "And give meaning to my life",
+      "start_ms": 176840,
+      "end_ms": 182539
+    },
+    {
+      "line_number": 28,
+      "original": "Yang terhempas, yang terlepas",
+      "translation": "What's blown away, what's released",
+      "start_ms": 182540,
+      "end_ms": 188099
+    },
+    {
+      "line_number": 29,
+      "original": "Pelukanmu, bersamamu, dan tanpamu",
+      "translation": "Your hugs, with you, and without you",
+      "start_ms": 188100,
+      "end_ms": 197099
+    },
+    {
+      "line_number": 30,
+      "original": "Aku hilang selalu",
+      "translation": "I'm always lost",
+      "start_ms": 197100,
+      "end_ms": 202259
+    },
+    {
+      "line_number": 31,
+      "original": "Bersamamu, dan tanpamu",
+      "translation": "With you, and without you",
+      "start_ms": 202260,
+      "end_ms": 208149
+    },
+    {
+      "line_number": 32,
+      "original": "Aku hilang selalu",
+      "translation": "I'm always lost",
+      "start_ms": 208150,
+      "end_ms": 257209
+    },
+    {
+      "line_number": 33,
+      "original": "Dengarkanlah permintaan hati",
+      "translation": "Listen to your heart's request",
+      "start_ms": 257210,
+      "end_ms": 261529
+    },
+    {
+      "line_number": 34,
+      "original": "Yang teraniaya sunyi",
+      "translation": "The persecuted are silent",
+      "start_ms": 261530,
+      "end_ms": 267059
+    },
+    {
+      "line_number": 35,
+      "original": "Dan berikanlah arti pada hidupku",
+      "translation": "And give meaning to my life",
+      "start_ms": 267060,
+      "end_ms": 273049
+    },
+    {
+      "line_number": 36,
+      "original": "Yang terhempas, yang terlepas",
+      "translation": "What's blown away, what's released",
+      "start_ms": 273050,
+      "end_ms": 278249
+    },
+    {
+      "line_number": 37,
+      "original": "Pelukanmu, bersamamu, dan tanpamu",
+      "translation": "Your hugs, with you, and without you",
+      "start_ms": 278250,
+      "end_ms": 287209
+    },
+    {
+      "line_number": 38,
+      "original": "Aku hilang selalu",
+      "translation": "I'm always lost",
+      "start_ms": 287210,
+      "end_ms": 292559
+    },
+    {
+      "line_number": 39,
+      "original": "Bersamamu, dan tanpamu",
+      "translation": "With you, and without you",
+      "start_ms": 292560,
+      "end_ms": 298609
+    },
+    {
+      "line_number": 40,
+      "original": "Aku hilang selalu",
+      "translation": "I'm always lost",
+      "start_ms": 298610,
+      "end_ms": null
+    }
+  ]
+}

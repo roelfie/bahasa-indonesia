@@ -1,0 +1,266 @@
+{
+  "track_id": "7sMeJTsyGJpKBJ3qQujdSn",
+  "track_uri": "spotify:track:7sMeJTsyGJpKBJ3qQujdSn",
+  "track_name": "Buku Ini Aku Pinjam",
+  "album_name": "Album Emas Periode 78 - 88",
+  "artist_names": "Iwan Fals",
+  "duration_ms": 273693,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:00:58.509157+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Dia tahu, dia rasa",
+      "translation": "He knows, he feels",
+      "start_ms": 1040,
+      "end_ms": 7039
+    },
+    {
+      "line_number": 2,
+      "original": "Cinta ini milik kita",
+      "translation": "This love is ours",
+      "start_ms": 7040,
+      "end_ms": 26039
+    },
+    {
+      "line_number": 3,
+      "original": "Di kantin depan kelasku",
+      "translation": "In the cafeteria in front of my class",
+      "start_ms": 26040,
+      "end_ms": 32079
+    },
+    {
+      "line_number": 4,
+      "original": "Di sana kenal dirimu",
+      "translation": "There know yourself",
+      "start_ms": 32080,
+      "end_ms": 39039
+    },
+    {
+      "line_number": 5,
+      "original": "Yang kini tersimpan di hati",
+      "translation": "Which is now stored in my heart",
+      "start_ms": 39040,
+      "end_ms": 45009
+    },
+    {
+      "line_number": 6,
+      "original": "Jalani kisah sembunyi",
+      "translation": "Live a hidden story",
+      "start_ms": 45010,
+      "end_ms": 55069
+    },
+    {
+      "line_number": 7,
+      "original": "Di halte itu kutunggu",
+      "translation": "I was waiting at the stop",
+      "start_ms": 55070,
+      "end_ms": 62019
+    },
+    {
+      "line_number": 8,
+      "original": "Senyum manismu kekasih",
+      "translation": "Your sweet smile lover",
+      "start_ms": 62020,
+      "end_ms": 68019
+    },
+    {
+      "line_number": 9,
+      "original": "Usai dentang bel sekolah",
+      "translation": "After the school bell rings",
+      "start_ms": 68020,
+      "end_ms": 75039
+    },
+    {
+      "line_number": 10,
+      "original": "Kita nikmati yang ada",
+      "translation": "We enjoy what we have",
+      "start_ms": 75040,
+      "end_ms": 82059
+    },
+    {
+      "line_number": 11,
+      "original": "Seperti hari yang lain",
+      "translation": "Like any other day",
+      "start_ms": 82060,
+      "end_ms": 89069
+    },
+    {
+      "line_number": 12,
+      "original": "Kau senyum tersipu malu",
+      "translation": "You smiled shyly",
+      "start_ms": 89070,
+      "end_ms": 95089
+    },
+    {
+      "line_number": 13,
+      "original": "Ketika kusapa engkau",
+      "translation": "When I greet you",
+      "start_ms": 95090,
+      "end_ms": 100079
+    },
+    {
+      "line_number": 14,
+      "original": "Genggamlah jari",
+      "translation": "Hold your finger",
+      "start_ms": 100080,
+      "end_ms": 104019
+    },
+    {
+      "line_number": 15,
+      "original": "Genggamlah hati ini",
+      "translation": "Hold this heart",
+      "start_ms": 104020,
+      "end_ms": 112019
+    },
+    {
+      "line_number": 16,
+      "original": "Memang usia kita muda",
+      "translation": "Indeed, we are young",
+      "start_ms": 112020,
+      "end_ms": 118079
+    },
+    {
+      "line_number": 17,
+      "original": "Namun cinta soal hati",
+      "translation": "But love is about the heart",
+      "start_ms": 118080,
+      "end_ms": 125079
+    },
+    {
+      "line_number": 18,
+      "original": "Biar mereka bicara",
+      "translation": "Let them talk",
+      "start_ms": 125080,
+      "end_ms": 131999
+    },
+    {
+      "line_number": 19,
+      "original": "Telinga kita terkunci",
+      "translation": "Our ears are locked",
+      "start_ms": 132000,
+      "end_ms": 138999
+    },
+    {
+      "line_number": 20,
+      "original": "Dia tahu, dia rasa",
+      "translation": "He knows, he feels",
+      "start_ms": 139000,
+      "end_ms": 146059
+    },
+    {
+      "line_number": 21,
+      "original": "Maka tersenyumlah, kasih",
+      "translation": "So smile, love",
+      "start_ms": 146060,
+      "end_ms": 152029
+    },
+    {
+      "line_number": 22,
+      "original": "Tetap langkah, jangan hentikan",
+      "translation": "Keep going, don't stop",
+      "start_ms": 152030,
+      "end_ms": 159059
+    },
+    {
+      "line_number": 23,
+      "original": "Cinta ini milik kita",
+      "translation": "This love is ours",
+      "start_ms": 159060,
+      "end_ms": 180019
+    },
+    {
+      "line_number": 24,
+      "original": "Buku ini aku pinjam",
+      "translation": "I borrowed this book",
+      "start_ms": 180020,
+      "end_ms": 186049
+    },
+    {
+      "line_number": 25,
+      "original": "'Kan kutulis sajak indah",
+      "translation": "'I'll write beautiful poetry",
+      "start_ms": 186050,
+      "end_ms": 193049
+    },
+    {
+      "line_number": 26,
+      "original": "Hanya untukmu seorang",
+      "translation": "Just for you alone",
+      "start_ms": 193050,
+      "end_ms": 199079
+    },
+    {
+      "line_number": 27,
+      "original": "Tentang mimpi-mimpi malam",
+      "translation": "About night dreams",
+      "start_ms": 199080,
+      "end_ms": 206069
+    },
+    {
+      "line_number": 28,
+      "original": "Dia tahu, dia rasa",
+      "translation": "He knows, he feels",
+      "start_ms": 206070,
+      "end_ms": 213059
+    },
+    {
+      "line_number": 29,
+      "original": "Maka tersenyumlah, kasih",
+      "translation": "So smile, love",
+      "start_ms": 213060,
+      "end_ms": 220069
+    },
+    {
+      "line_number": 30,
+      "original": "Tetap langkah, jangan hentikan",
+      "translation": "Keep going, don't stop",
+      "start_ms": 220070,
+      "end_ms": 227059
+    },
+    {
+      "line_number": 31,
+      "original": "Cinta ini milik kita",
+      "translation": "This love is ours",
+      "start_ms": 227060,
+      "end_ms": 233019
+    },
+    {
+      "line_number": 32,
+      "original": "Dia tahu, dia rasa",
+      "translation": "He knows, he feels",
+      "start_ms": 233020,
+      "end_ms": 240009
+    },
+    {
+      "line_number": 33,
+      "original": "Maka tersenyumlah, kasih",
+      "translation": "So smile, love",
+      "start_ms": 240010,
+      "end_ms": 247049
+    },
+    {
+      "line_number": 34,
+      "original": "Tetap langkah, jangan hentikan",
+      "translation": "Keep going, don't stop",
+      "start_ms": 247050,
+      "end_ms": 254039
+    },
+    {
+      "line_number": 35,
+      "original": "Cinta ini milik kita",
+      "translation": "This love is ours",
+      "start_ms": 254040,
+      "end_ms": 268079
+    },
+    {
+      "line_number": 36,
+      "original": "Cinta ini milik kita",
+      "translation": "This love is ours",
+      "start_ms": 268080,
+      "end_ms": null
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "track_id": "0xBpUyL8GzcmBcX2lbGCgE",
+  "track_uri": "spotify:track:0xBpUyL8GzcmBcX2lbGCgE",
+  "track_name": "Jangan Menyerah",
+  "album_name": "Perjalanan",
+  "artist_names": "D’MASIV",
+  "duration_ms": 259506,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:12:32.177343+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Tak ada manusia",
+      "translation": "There are no humans",
+      "start_ms": 20200,
+      "end_ms": 24309
+    },
+    {
+      "line_number": 2,
+      "original": "Yang terlahir sempurna",
+      "translation": "Who was born perfect",
+      "start_ms": 24310,
+      "end_ms": 30319
+    },
+    {
+      "line_number": 3,
+      "original": "Jangan kau sesali",
+      "translation": "Don't regret it",
+      "start_ms": 30320,
+      "end_ms": 34219
+    },
+    {
+      "line_number": 4,
+      "original": "S'gala yang telah terjadi",
+      "translation": "Everything that has happened",
+      "start_ms": 34220,
+      "end_ms": 40099
+    },
+    {
+      "line_number": 5,
+      "original": "Kita pasti pernah",
+      "translation": "We definitely have",
+      "start_ms": 40100,
+      "end_ms": 43989
+    },
+    {
+      "line_number": 6,
+      "original": "Dapatkan cobaan yang berat",
+      "translation": "Get a tough test",
+      "start_ms": 43990,
+      "end_ms": 49759
+    },
+    {
+      "line_number": 7,
+      "original": "Seakan hidup ini",
+      "translation": "Like this life",
+      "start_ms": 49760,
+      "end_ms": 54059
+    },
+    {
+      "line_number": 8,
+      "original": "Tak ada artinya lagi",
+      "translation": "It doesn't mean anything anymore",
+      "start_ms": 54060,
+      "end_ms": 58939
+    },
+    {
+      "line_number": 9,
+      "original": "Syukuri apa yang ada",
+      "translation": "Grateful for what is available",
+      "start_ms": 58940,
+      "end_ms": 63909
+    },
+    {
+      "line_number": 10,
+      "original": "Hidup adalah anug'rah",
+      "translation": "Life is a gift",
+      "start_ms": 63910,
+      "end_ms": 68569
+    },
+    {
+      "line_number": 11,
+      "original": "Tetap jalani hidup ini",
+      "translation": "Keep living this life",
+      "start_ms": 68570,
+      "end_ms": 73809
+    },
+    {
+      "line_number": 12,
+      "original": "Melakukan yang terbaik",
+      "translation": "Do your best",
+      "start_ms": 73810,
+      "end_ms": 89519
+    },
+    {
+      "line_number": 13,
+      "original": "Tak ada manusia",
+      "translation": "There are no humans",
+      "start_ms": 89520,
+      "end_ms": 93639
+    },
+    {
+      "line_number": 14,
+      "original": "Yang terlahir sempurna",
+      "translation": "Who was born perfect",
+      "start_ms": 93640,
+      "end_ms": 99539
+    },
+    {
+      "line_number": 15,
+      "original": "Jangan kau sesali",
+      "translation": "Don't regret it",
+      "start_ms": 99540,
+      "end_ms": 103409
+    },
+    {
+      "line_number": 16,
+      "original": "S'gala yang telah terjadi",
+      "translation": "Everything that has happened",
+      "start_ms": 103410,
+      "end_ms": 108449
+    },
+    {
+      "line_number": 17,
+      "original": "Syukuri apa yang ada",
+      "translation": "Grateful for what is available",
+      "start_ms": 108450,
+      "end_ms": 113379
+    },
+    {
+      "line_number": 18,
+      "original": "Hidup adalah anug'rah",
+      "translation": "Life is a gift",
+      "start_ms": 113380,
+      "end_ms": 118029
+    },
+    {
+      "line_number": 19,
+      "original": "Tetap jalani hidup ini",
+      "translation": "Keep living this life",
+      "start_ms": 118030,
+      "end_ms": 123359
+    },
+    {
+      "line_number": 20,
+      "original": "Melakukan yang terbaik",
+      "translation": "Do your best",
+      "start_ms": 123360,
+      "end_ms": 128049
+    },
+    {
+      "line_number": 21,
+      "original": "Tuhan pasti 'kan menunjukkan",
+      "translation": "God will definitely show you",
+      "start_ms": 128050,
+      "end_ms": 132989
+    },
+    {
+      "line_number": 22,
+      "original": "Kebesaran dan kuasa-Nya",
+      "translation": "His greatness and power",
+      "start_ms": 132990,
+      "end_ms": 137819
+    },
+    {
+      "line_number": 23,
+      "original": "Bagi hamba-Nya yang sabar",
+      "translation": "For His patient servants",
+      "start_ms": 137820,
+      "end_ms": 143059
+    },
+    {
+      "line_number": 24,
+      "original": "Dan tak kenal putus asa",
+      "translation": "And never give up",
+      "start_ms": 143060,
+      "end_ms": 163069
+    },
+    {
+      "line_number": 25,
+      "original": "(Syukuri apa yang ada)",
+      "translation": "(Grateful for what is available)",
+      "start_ms": 163070,
+      "end_ms": 167549
+    },
+    {
+      "line_number": 26,
+      "original": "Jangan menyerah",
+      "translation": "Don't give up",
+      "start_ms": 167550,
+      "end_ms": 169159
+    },
+    {
+      "line_number": 27,
+      "original": "Jangan menyerah",
+      "translation": "Don't give up",
+      "start_ms": 169160,
+      "end_ms": 172399
+    },
+    {
+      "line_number": 28,
+      "original": "Jangan menyerah",
+      "translation": "Don't give up",
+      "start_ms": 172400,
+      "end_ms": 177369
+    },
+    {
+      "line_number": 29,
+      "original": "Jangan menyerah",
+      "translation": "Don't give up",
+      "start_ms": 177370,
+      "end_ms": 179829
+    },
+    {
+      "line_number": 30,
+      "original": "Jangan menyerah",
+      "translation": "Don't give up",
+      "start_ms": 179830,
+      "end_ms": 182299
+    },
+    {
+      "line_number": 31,
+      "original": "Jangan menyerah, oh-oh",
+      "translation": "Don't give up, oh-oh",
+      "start_ms": 182300,
+      "end_ms": 187669
+    },
+    {
+      "line_number": 32,
+      "original": "Syukuri apa yang ada",
+      "translation": "Grateful for what is available",
+      "start_ms": 187670,
+      "end_ms": 192649
+    },
+    {
+      "line_number": 33,
+      "original": "Hidup adalah anug'rah",
+      "translation": "Life is a gift",
+      "start_ms": 192650,
+      "end_ms": 197219
+    },
+    {
+      "line_number": 34,
+      "original": "Tetap jalani hidup ini",
+      "translation": "Keep living this life",
+      "start_ms": 197220,
+      "end_ms": 202399
+    },
+    {
+      "line_number": 35,
+      "original": "Melakukan yang terbaik",
+      "translation": "Do your best",
+      "start_ms": 202400,
+      "end_ms": 207249
+    },
+    {
+      "line_number": 36,
+      "original": "Tuhan pasti 'kan menunjukkan",
+      "translation": "God will definitely show you",
+      "start_ms": 207250,
+      "end_ms": 212009
+    },
+    {
+      "line_number": 37,
+      "original": "Kebesaran dan kuasa-Nya",
+      "translation": "His greatness and power",
+      "start_ms": 212010,
+      "end_ms": 216969
+    },
+    {
+      "line_number": 38,
+      "original": "Bagi hamba-Nya yang sabar",
+      "translation": "For His patient servants",
+      "start_ms": 216970,
+      "end_ms": 222209
+    },
+    {
+      "line_number": 39,
+      "original": "Dan tak kenal putus asa",
+      "translation": "And never give up",
+      "start_ms": 222210,
+      "end_ms": 227159
+    },
+    {
+      "line_number": 40,
+      "original": "Dan tak kenal putus asa",
+      "translation": "And never give up",
+      "start_ms": 227160,
+      "end_ms": null
+    }
+  ]
+}

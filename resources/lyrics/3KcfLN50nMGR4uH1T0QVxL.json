@@ -1,0 +1,315 @@
+{
+  "track_id": "3KcfLN50nMGR4uH1T0QVxL",
+  "track_uri": "spotify:track:3KcfLN50nMGR4uH1T0QVxL",
+  "track_name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
+  "album_name": "Berakhir di Aku (Original Soundtrack From \"Home Sweet Loan\")",
+  "artist_names": "Idgitaf",
+  "duration_ms": 236784,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:51:05.481794+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Ditekan dari sgala sisi",
+      "translation": "Pressed from all sides",
+      "start_ms": 13500,
+      "end_ms": 19459
+    },
+    {
+      "line_number": 2,
+      "original": "Seringkali hilang arti",
+      "translation": "Often the meaning is lost",
+      "start_ms": 19460,
+      "end_ms": 22629
+    },
+    {
+      "line_number": 3,
+      "original": "Aku hidup untuk siapa?",
+      "translation": "Who do I live for?",
+      "start_ms": 22630,
+      "end_ms": 27429
+    },
+    {
+      "line_number": 4,
+      "original": "Ku sudah tidak nyaman lagi",
+      "translation": "I'm not comfortable anymore",
+      "start_ms": 27430,
+      "end_ms": 33049
+    },
+    {
+      "line_number": 5,
+      "original": "Bermimpi pun tahu diri",
+      "translation": "Dreaming is also self-knowing",
+      "start_ms": 33050,
+      "end_ms": 36689
+    },
+    {
+      "line_number": 6,
+      "original": "Apa sebaiknya pergi?",
+      "translation": "Should you go?",
+      "start_ms": 36690,
+      "end_ms": 41939
+    },
+    {
+      "line_number": 7,
+      "original": "Jika semua bersandar padaku",
+      "translation": "If everyone relies on me",
+      "start_ms": 41940,
+      "end_ms": 48779
+    },
+    {
+      "line_number": 8,
+      "original": "Lalu aku bersandar kemana?",
+      "translation": "So where do I lean?",
+      "start_ms": 48780,
+      "end_ms": 56839
+    },
+    {
+      "line_number": 9,
+      "original": "Mengalah",
+      "translation": "Back down",
+      "start_ms": 56840,
+      "end_ms": 59439
+    },
+    {
+      "line_number": 10,
+      "original": "Walau bukan aku yang salah",
+      "translation": "Even though it's not my fault",
+      "start_ms": 59440,
+      "end_ms": 64189
+    },
+    {
+      "line_number": 11,
+      "original": "Membisu",
+      "translation": "Speechless",
+      "start_ms": 64190,
+      "end_ms": 66489
+    },
+    {
+      "line_number": 12,
+      "original": "Saat semua sibuk beradu",
+      "translation": "When everyone is busy fighting",
+      "start_ms": 66490,
+      "end_ms": 71549
+    },
+    {
+      "line_number": 13,
+      "original": "Walau tak rela pun ku bantu",
+      "translation": "Even though I'm not willing, I can help",
+      "start_ms": 71550,
+      "end_ms": 74839
+    },
+    {
+      "line_number": 14,
+      "original": "Berdoa ini semua",
+      "translation": "Pray for all of this",
+      "start_ms": 74840,
+      "end_ms": 78509
+    },
+    {
+      "line_number": 15,
+      "original": "Berakhir di aku",
+      "translation": "Ends with me",
+      "start_ms": 78510,
+      "end_ms": 95639
+    },
+    {
+      "line_number": 16,
+      "original": "Setiap hari ku mengais",
+      "translation": "Every day I scavenge",
+      "start_ms": 95640,
+      "end_ms": 101769
+    },
+    {
+      "line_number": 17,
+      "original": "Harta yang tak ku miliki",
+      "translation": "Treasures I don't have",
+      "start_ms": 101770,
+      "end_ms": 105259
+    },
+    {
+      "line_number": 18,
+      "original": "Apa yang aku miliki?",
+      "translation": "What do I have?",
+      "start_ms": 105260,
+      "end_ms": 110549
+    },
+    {
+      "line_number": 19,
+      "original": "Jika semua bersandar padaku",
+      "translation": "If everyone relies on me",
+      "start_ms": 110550,
+      "end_ms": 117409
+    },
+    {
+      "line_number": 20,
+      "original": "Lalu aku bersandar kemana?",
+      "translation": "So where do I lean?",
+      "start_ms": 117410,
+      "end_ms": 122469
+    },
+    {
+      "line_number": 21,
+      "original": "Mengalah",
+      "translation": "Back down",
+      "start_ms": 122470,
+      "end_ms": 124109
+    },
+    {
+      "line_number": 22,
+      "original": "Walau bukan aku yang salah",
+      "translation": "Even though it's not my fault",
+      "start_ms": 124110,
+      "end_ms": 128989
+    },
+    {
+      "line_number": 23,
+      "original": "Membisu",
+      "translation": "Speechless",
+      "start_ms": 128990,
+      "end_ms": 131059
+    },
+    {
+      "line_number": 24,
+      "original": "Saat semua sibuk beradu",
+      "translation": "When everyone is busy fighting",
+      "start_ms": 131060,
+      "end_ms": 136579
+    },
+    {
+      "line_number": 25,
+      "original": "Walau tak rela pun ku bantu",
+      "translation": "Even though I'm not willing, I can help",
+      "start_ms": 136580,
+      "end_ms": 140169
+    },
+    {
+      "line_number": 26,
+      "original": "Berdoa ini semua",
+      "translation": "Pray for all of this",
+      "start_ms": 140170,
+      "end_ms": 143629
+    },
+    {
+      "line_number": 27,
+      "original": "Berakhir di aku",
+      "translation": "Ends with me",
+      "start_ms": 143630,
+      "end_ms": 148619
+    },
+    {
+      "line_number": 28,
+      "original": "Berakhir di aku",
+      "translation": "Ends with me",
+      "start_ms": 148620,
+      "end_ms": 153079
+    },
+    {
+      "line_number": 29,
+      "original": "Berakhir di aku",
+      "translation": "Ends with me",
+      "start_ms": 153080,
+      "end_ms": 163859
+    },
+    {
+      "line_number": 30,
+      "original": "Berakhir di Aku",
+      "translation": "Ends with me",
+      "start_ms": 163860,
+      "end_ms": 166649
+    },
+    {
+      "line_number": 31,
+      "original": "Berakhir di Aku",
+      "translation": "Ends with me",
+      "start_ms": 166650,
+      "end_ms": 174169
+    },
+    {
+      "line_number": 32,
+      "original": "Walau tak rela pun ku bantu",
+      "translation": "Even though I'm not willing, I can help",
+      "start_ms": 174170,
+      "end_ms": 177609
+    },
+    {
+      "line_number": 33,
+      "original": "Berdoa ini semua",
+      "translation": "Pray for all of this",
+      "start_ms": 177610,
+      "end_ms": 181359
+    },
+    {
+      "line_number": 34,
+      "original": "Berakhir di aku",
+      "translation": "Ends with me",
+      "start_ms": 181360,
+      "end_ms": 184989
+    },
+    {
+      "line_number": 35,
+      "original": "Mengalah",
+      "translation": "Back down",
+      "start_ms": 184990,
+      "end_ms": 186069
+    },
+    {
+      "line_number": 36,
+      "original": "Walau bukan aku yang salah",
+      "translation": "Even though it's not my fault",
+      "start_ms": 186070,
+      "end_ms": 191159
+    },
+    {
+      "line_number": 37,
+      "original": "Membisu",
+      "translation": "Speechless",
+      "start_ms": 191160,
+      "end_ms": 193239
+    },
+    {
+      "line_number": 38,
+      "original": "Saat semua sibuk beradu",
+      "translation": "When everyone is busy fighting",
+      "start_ms": 193240,
+      "end_ms": 198549
+    },
+    {
+      "line_number": 39,
+      "original": "Walau tak rela pun ku bantu",
+      "translation": "Even though I'm not willing, I can help",
+      "start_ms": 198550,
+      "end_ms": 201799
+    },
+    {
+      "line_number": 40,
+      "original": "Berdoa ini semua",
+      "translation": "Pray for all of this",
+      "start_ms": 201800,
+      "end_ms": 205479
+    },
+    {
+      "line_number": 41,
+      "original": "Berakhir",
+      "translation": "End",
+      "start_ms": 205480,
+      "end_ms": 212139
+    },
+    {
+      "line_number": 42,
+      "original": "Berakhir di Aku",
+      "translation": "Ends with me",
+      "start_ms": 212140,
+      "end_ms": 220099
+    },
+    {
+      "line_number": 43,
+      "original": "Berakhir di Aku",
+      "translation": "Ends with me",
+      "start_ms": 220100,
+      "end_ms": null
+    }
+  ]
+}

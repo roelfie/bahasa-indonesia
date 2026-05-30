@@ -1,0 +1,245 @@
+{
+  "track_id": "1MDVXlgY8Of2n2otw57hw0",
+  "track_uri": "spotify:track:1MDVXlgY8Of2n2otw57hw0",
+  "track_name": "Di Atas Meja",
+  "album_name": "Ruang Tunggu",
+  "artist_names": "Payung Teduh",
+  "duration_ms": 329865,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:15:07.088699+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Di atas meja, rindu itu hilang",
+      "translation": "On the table, the longing disappeared",
+      "start_ms": 6780,
+      "end_ms": 12549
+    },
+    {
+      "line_number": 2,
+      "original": "Dalam kata-kata",
+      "translation": "In words",
+      "start_ms": 12550,
+      "end_ms": 19139
+    },
+    {
+      "line_number": 3,
+      "original": "Sebentar lagi kita saling lupa",
+      "translation": "Soon we will forget each other",
+      "start_ms": 19140,
+      "end_ms": 31499
+    },
+    {
+      "line_number": 4,
+      "original": "Kita menjelma pagi dingin",
+      "translation": "We have a cold morning",
+      "start_ms": 31500,
+      "end_ms": 34889
+    },
+    {
+      "line_number": 5,
+      "original": "Yang dipayungi kabut",
+      "translation": "Covered in fog",
+      "start_ms": 34890,
+      "end_ms": 37919
+    },
+    {
+      "line_number": 6,
+      "original": "Tak bisa lagi bercerita apa adanya",
+      "translation": "Can no longer tell what it is",
+      "start_ms": 37920,
+      "end_ms": 55279
+    },
+    {
+      "line_number": 7,
+      "original": "Mengapa takut pada lara",
+      "translation": "Why be afraid of pain",
+      "start_ms": 55280,
+      "end_ms": 61649
+    },
+    {
+      "line_number": 8,
+      "original": "Sementara semua rasa bisa kita cipta?",
+      "translation": "While we can create all the flavors?",
+      "start_ms": 61650,
+      "end_ms": 67919
+    },
+    {
+      "line_number": 9,
+      "original": "Akan selalu ada tenang di sela-sela gelisah",
+      "translation": "There will always be calm amidst the restlessness",
+      "start_ms": 67920,
+      "end_ms": 74719
+    },
+    {
+      "line_number": 10,
+      "original": "Yang menunggu reda",
+      "translation": "The waiting is over",
+      "start_ms": 74720,
+      "end_ms": 84519
+    },
+    {
+      "line_number": 11,
+      "original": "Di dalam kamar, rindu itu menguap",
+      "translation": "In the room, the longing evaporated",
+      "start_ms": 84520,
+      "end_ms": 90589
+    },
+    {
+      "line_number": 12,
+      "original": "Dalam kebisuan",
+      "translation": "In silence",
+      "start_ms": 90590,
+      "end_ms": 97169
+    },
+    {
+      "line_number": 13,
+      "original": "Sebentar lagi, kita semakin lupa",
+      "translation": "Soon, we will forget more and more",
+      "start_ms": 97170,
+      "end_ms": 109349
+    },
+    {
+      "line_number": 14,
+      "original": "Kita menjelma kebisuan",
+      "translation": "We become silent",
+      "start_ms": 109350,
+      "end_ms": 112839
+    },
+    {
+      "line_number": 15,
+      "original": "Yang tak bisa diungkap",
+      "translation": "What cannot be said",
+      "start_ms": 112840,
+      "end_ms": 115809
+    },
+    {
+      "line_number": 16,
+      "original": "Tak bisa lagi bercerita apa adanya",
+      "translation": "Can no longer tell what it is",
+      "start_ms": 115810,
+      "end_ms": 133349
+    },
+    {
+      "line_number": 17,
+      "original": "Mengapa takut pada lara",
+      "translation": "Why be afraid of pain",
+      "start_ms": 133350,
+      "end_ms": 139499
+    },
+    {
+      "line_number": 18,
+      "original": "Sementara semua rasa bisa kita cipta?",
+      "translation": "While we can create all the flavors?",
+      "start_ms": 139500,
+      "end_ms": 145779
+    },
+    {
+      "line_number": 19,
+      "original": "Akan selalu ada tenang di sela-sela gelisah",
+      "translation": "There will always be calm amidst the restlessness",
+      "start_ms": 145780,
+      "end_ms": 152659
+    },
+    {
+      "line_number": 20,
+      "original": "Yang menunggu reda",
+      "translation": "The waiting is over",
+      "start_ms": 152660,
+      "end_ms": 209379
+    },
+    {
+      "line_number": 21,
+      "original": "Di tiap langkah, rindu kita menghilang",
+      "translation": "With every step, our longing disappears",
+      "start_ms": 209380,
+      "end_ms": 215139
+    },
+    {
+      "line_number": 22,
+      "original": "Penuh keraguan",
+      "translation": "Full of doubts",
+      "start_ms": 215140,
+      "end_ms": 221879
+    },
+    {
+      "line_number": 23,
+      "original": "Lalu, kita pun sungguh semakin lupa",
+      "translation": "Then, we really forget more and more",
+      "start_ms": 221880,
+      "end_ms": 228119
+    },
+    {
+      "line_number": 24,
+      "original": "Oh-oh-oh",
+      "translation": "Oh-oh-oh",
+      "start_ms": 228120,
+      "end_ms": 234149
+    },
+    {
+      "line_number": 25,
+      "original": "Kita menjelma kebisuan",
+      "translation": "We become silent",
+      "start_ms": 234150,
+      "end_ms": 237559
+    },
+    {
+      "line_number": 26,
+      "original": "Yang tak kunjung terungkap",
+      "translation": "What has never been revealed",
+      "start_ms": 237560,
+      "end_ms": 240409
+    },
+    {
+      "line_number": 27,
+      "original": "Tak bisa lagi bercerita apa adanya",
+      "translation": "Can no longer tell what it is",
+      "start_ms": 240410,
+      "end_ms": 258049
+    },
+    {
+      "line_number": 28,
+      "original": "Mengapa takut pada lara",
+      "translation": "Why be afraid of pain",
+      "start_ms": 258050,
+      "end_ms": 264249
+    },
+    {
+      "line_number": 29,
+      "original": "Sementara semua rasa bisa kita cipta?",
+      "translation": "While we can create all the flavors?",
+      "start_ms": 264250,
+      "end_ms": 270239
+    },
+    {
+      "line_number": 30,
+      "original": "Akan selalu ada tenang di sela-sela gelisah",
+      "translation": "There will always be calm amidst the restlessness",
+      "start_ms": 270240,
+      "end_ms": 277279
+    },
+    {
+      "line_number": 31,
+      "original": "Yang menunggu reda",
+      "translation": "The waiting is over",
+      "start_ms": 277280,
+      "end_ms": 284339
+    },
+    {
+      "line_number": 32,
+      "original": "Oh-oh-wo-oh-oh-oh",
+      "translation": "Oh-oh-wo-oh-oh-oh",
+      "start_ms": 284340,
+      "end_ms": 296989
+    },
+    {
+      "line_number": 33,
+      "original": "Oh-oh-wo-oh-oh-oh",
+      "translation": "Oh-oh-wo-oh-oh-oh",
+      "start_ms": 296990,
+      "end_ms": null
+    }
+  ]
+}

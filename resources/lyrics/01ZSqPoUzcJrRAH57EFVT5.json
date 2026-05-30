@@ -1,0 +1,273 @@
+{
+  "track_id": "01ZSqPoUzcJrRAH57EFVT5",
+  "track_uri": "spotify:track:01ZSqPoUzcJrRAH57EFVT5",
+  "track_name": "Titip Rindu Buat Ayah",
+  "album_name": "Aku Ingin Pulang",
+  "artist_names": "Ebiet G. Ade",
+  "duration_ms": 325079,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:04:52.414535+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Di matamu, masih tersimpan",
+      "translation": "In your eyes, it's still stored",
+      "start_ms": 37290,
+      "end_ms": 41999
+    },
+    {
+      "line_number": 2,
+      "original": "Selaksa peristiwa",
+      "translation": "View events",
+      "start_ms": 42000,
+      "end_ms": 51029
+    },
+    {
+      "line_number": 3,
+      "original": "Benturan dan hempasan terpahat",
+      "translation": "Sculpted impacts and blows",
+      "start_ms": 51030,
+      "end_ms": 57369
+    },
+    {
+      "line_number": 4,
+      "original": "Di keningmu",
+      "translation": "On your forehead",
+      "start_ms": 57370,
+      "end_ms": 65759
+    },
+    {
+      "line_number": 5,
+      "original": "Kau nampak tua dan lelah",
+      "translation": "You look old and tired",
+      "start_ms": 65760,
+      "end_ms": 68989
+    },
+    {
+      "line_number": 6,
+      "original": "Keringat mengucur deras",
+      "translation": "Sweat poured out profusely",
+      "start_ms": 68990,
+      "end_ms": 73719
+    },
+    {
+      "line_number": 7,
+      "original": "Namun, kau tetap tabah",
+      "translation": "However, you remain steadfast",
+      "start_ms": 73720,
+      "end_ms": 78679
+    },
+    {
+      "line_number": 8,
+      "original": "Hm-mm-hm-mm",
+      "translation": "Hm-mm-hm-mm",
+      "start_ms": 78680,
+      "end_ms": 83679
+    },
+    {
+      "line_number": 9,
+      "original": "Meski napasmu kadang tersengal",
+      "translation": "Even if you sometimes get short of breath",
+      "start_ms": 83680,
+      "end_ms": 90859
+    },
+    {
+      "line_number": 10,
+      "original": "Memikul beban yang makin sarat",
+      "translation": "Carrying increasingly heavy burdens",
+      "start_ms": 90860,
+      "end_ms": 96529
+    },
+    {
+      "line_number": 11,
+      "original": "Kau tetap bertahan",
+      "translation": "You still survive",
+      "start_ms": 96530,
+      "end_ms": 115629
+    },
+    {
+      "line_number": 12,
+      "original": "Engkau telah mengerti hitam",
+      "translation": "You have understood black",
+      "start_ms": 115630,
+      "end_ms": 120739
+    },
+    {
+      "line_number": 13,
+      "original": "Dan merah jalan ini",
+      "translation": "And red this road",
+      "start_ms": 120740,
+      "end_ms": 129769
+    },
+    {
+      "line_number": 14,
+      "original": "Keriput tulang pipimu gambaran",
+      "translation": "Your wrinkled cheekbones are a picture",
+      "start_ms": 129770,
+      "end_ms": 135649
+    },
+    {
+      "line_number": 15,
+      "original": "Perjuangan",
+      "translation": "Struggle",
+      "start_ms": 135650,
+      "end_ms": 143789
+    },
+    {
+      "line_number": 16,
+      "original": "Bahumu yang dulu kekar",
+      "translation": "Your shoulders used to be strong",
+      "start_ms": 143790,
+      "end_ms": 147479
+    },
+    {
+      "line_number": 17,
+      "original": "Legam terbakar matahari",
+      "translation": "Sunburn",
+      "start_ms": 147480,
+      "end_ms": 151729
+    },
+    {
+      "line_number": 18,
+      "original": "Kini kurus dan terbungkuk",
+      "translation": "Now thin and hunched over",
+      "start_ms": 151730,
+      "end_ms": 156769
+    },
+    {
+      "line_number": 19,
+      "original": "Hm-mm-hm-mm",
+      "translation": "Hm-mm-hm-mm",
+      "start_ms": 156770,
+      "end_ms": 161599
+    },
+    {
+      "line_number": 20,
+      "original": "Namun, semangat tak pernah pudar",
+      "translation": "However, the enthusiasm never faded",
+      "start_ms": 161600,
+      "end_ms": 168669
+    },
+    {
+      "line_number": 21,
+      "original": "Meski langkahmu kadang gemetar",
+      "translation": "Even though your steps are sometimes shaky",
+      "start_ms": 168670,
+      "end_ms": 173979
+    },
+    {
+      "line_number": 22,
+      "original": "Kau tetap setia",
+      "translation": "You remain loyal",
+      "start_ms": 173980,
+      "end_ms": 189209
+    },
+    {
+      "line_number": 23,
+      "original": "Ayah, dalam hening sepi, ku rindu",
+      "translation": "Dad, in the silence, I miss you",
+      "start_ms": 189210,
+      "end_ms": 202969
+    },
+    {
+      "line_number": 24,
+      "original": "Untuk menuai padi milik kita",
+      "translation": "To reap our rice",
+      "start_ms": 202970,
+      "end_ms": 212399
+    },
+    {
+      "line_number": 25,
+      "original": "Tapi kerinduan tinggal hanya kerinduan",
+      "translation": "But longing remains only longing",
+      "start_ms": 212400,
+      "end_ms": 219449
+    },
+    {
+      "line_number": 26,
+      "original": "Anakmu sekarang banyak menanggung beban",
+      "translation": "Your child is now carrying a lot of burden",
+      "start_ms": 219450,
+      "end_ms": 241339
+    },
+    {
+      "line_number": 27,
+      "original": "Engkau telah mengerti hitam",
+      "translation": "You have understood black",
+      "start_ms": 241340,
+      "end_ms": 246149
+    },
+    {
+      "line_number": 28,
+      "original": "Dan merah jalan ini",
+      "translation": "And red this road",
+      "start_ms": 246150,
+      "end_ms": 255069
+    },
+    {
+      "line_number": 29,
+      "original": "Keriput tulang pipimu gambaran",
+      "translation": "Your wrinkled cheekbones are a picture",
+      "start_ms": 255070,
+      "end_ms": 260869
+    },
+    {
+      "line_number": 30,
+      "original": "Perjuangan",
+      "translation": "Struggle",
+      "start_ms": 260870,
+      "end_ms": 268939
+    },
+    {
+      "line_number": 31,
+      "original": "Bahumu yang dulu kekar",
+      "translation": "Your shoulders used to be strong",
+      "start_ms": 268940,
+      "end_ms": 272369
+    },
+    {
+      "line_number": 32,
+      "original": "Legam terbakar matahari",
+      "translation": "Sunburn",
+      "start_ms": 272370,
+      "end_ms": 276669
+    },
+    {
+      "line_number": 33,
+      "original": "Kini kurus dan terbungkuk",
+      "translation": "Now thin and hunched over",
+      "start_ms": 276670,
+      "end_ms": 281689
+    },
+    {
+      "line_number": 34,
+      "original": "Hm-mm-hm-mm",
+      "translation": "Hm-mm-hm-mm",
+      "start_ms": 281690,
+      "end_ms": 286829
+    },
+    {
+      "line_number": 35,
+      "original": "Namun, semangat tak pernah pudar",
+      "translation": "However, the enthusiasm never faded",
+      "start_ms": 286830,
+      "end_ms": 293229
+    },
+    {
+      "line_number": 36,
+      "original": "Meski langkahmu kadang gemetar",
+      "translation": "Even though your steps are sometimes shaky",
+      "start_ms": 293230,
+      "end_ms": 298879
+    },
+    {
+      "line_number": 37,
+      "original": "Kau tetap setia",
+      "translation": "You remain loyal",
+      "start_ms": 298880,
+      "end_ms": null
+    }
+  ]
+}

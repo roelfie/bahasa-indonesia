@@ -1,0 +1,105 @@
+{
+  "track_id": "1k8wWtaL30ncdF7Mrginys",
+  "track_uri": "spotify:track:1k8wWtaL30ncdF7Mrginys",
+  "track_name": "Rahasia",
+  "album_name": "Dunia Batas",
+  "artist_names": "Payung Teduh",
+  "duration_ms": 416000,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:15:39.994392+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Tak ada sore dan udara menjadi segar",
+      "translation": "There is no afternoon and the air is fresh",
+      "start_ms": 31450,
+      "end_ms": 46319
+    },
+    {
+      "line_number": 2,
+      "original": "Tak ada gelap, lalu mata enggan menatap",
+      "translation": "There is no darkness, then the eyes refuse to look",
+      "start_ms": 46320,
+      "end_ms": 63509
+    },
+    {
+      "line_number": 3,
+      "original": "Tak ada bintang mati, butiran pasir terbang ke langit",
+      "translation": "There are no dead stars, grains of sand fly into the sky",
+      "start_ms": 63510,
+      "end_ms": 78819
+    },
+    {
+      "line_number": 4,
+      "original": "Tak ada fajar hanya remang malam",
+      "translation": "There is no dawn, only the dimness of night",
+      "start_ms": 78820,
+      "end_ms": 85789
+    },
+    {
+      "line_number": 5,
+      "original": "Semua tlah hilang terserah matahari",
+      "translation": "Everything is gone up to the sun",
+      "start_ms": 85790,
+      "end_ms": 102669
+    },
+    {
+      "line_number": 6,
+      "original": "Harum mawar membunuh bulan",
+      "translation": "The fragrance of roses kills the moon",
+      "start_ms": 102670,
+      "end_ms": 110749
+    },
+    {
+      "line_number": 7,
+      "original": "Rahasia tetap diam tak terucap",
+      "translation": "Secrets remain silent and unspoken",
+      "start_ms": 110750,
+      "end_ms": 120639
+    },
+    {
+      "line_number": 8,
+      "original": "Untuk itu semua aku mencarimu",
+      "translation": "That's why I'm looking for you",
+      "start_ms": 120640,
+      "end_ms": 135109
+    },
+    {
+      "line_number": 9,
+      "original": "Berikan tanganmu jabat jemariku",
+      "translation": "Give me your hand to shake",
+      "start_ms": 135110,
+      "end_ms": 145249
+    },
+    {
+      "line_number": 10,
+      "original": "Yang kau tinggalkan hanya harum tubuhmu",
+      "translation": "All you leave behind is your body fragrance",
+      "start_ms": 145250,
+      "end_ms": 153609
+    },
+    {
+      "line_number": 11,
+      "original": "Berikan suaramu, balas semua bisikanku memanggil namamu",
+      "translation": "Give your voice, reply to all my whispers calling your name",
+      "start_ms": 153610,
+      "end_ms": 179079
+    },
+    {
+      "line_number": 12,
+      "original": "Atau kau ingin aku berteriak sekencang kencangnya",
+      "translation": "Or do you want me to scream as loud as I can?",
+      "start_ms": 179080,
+      "end_ms": 194859
+    },
+    {
+      "line_number": 13,
+      "original": "Agar seluruh ruangan ini bergetar oleh suara ku",
+      "translation": "So that the whole room vibrates with my voice",
+      "start_ms": 194860,
+      "end_ms": null
+    }
+  ]
+}

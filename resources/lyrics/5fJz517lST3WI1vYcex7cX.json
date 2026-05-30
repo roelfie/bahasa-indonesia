@@ -1,0 +1,266 @@
+{
+  "track_id": "5fJz517lST3WI1vYcex7cX",
+  "track_uri": "spotify:track:5fJz517lST3WI1vYcex7cX",
+  "track_name": "Tentang Kita",
+  "album_name": "Best Cuts",
+  "artist_names": "Kla Project",
+  "duration_ms": 284400,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:06:31.315018+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Hari-hari nan berdebu",
+      "translation": "Dusty days",
+      "start_ms": 54290,
+      "end_ms": 57179
+    },
+    {
+      "line_number": 2,
+      "original": "Bersama dirimu yakin kuhadapi",
+      "translation": "With you I'm sure I'll face it",
+      "start_ms": 57180,
+      "end_ms": 62429
+    },
+    {
+      "line_number": 3,
+      "original": "Sambil merajut berdua",
+      "translation": "While knitting together",
+      "start_ms": 62430,
+      "end_ms": 65839
+    },
+    {
+      "line_number": 4,
+      "original": "Anyaman benang angan yang kau tawarkan",
+      "translation": "The dream thread woven that you offer",
+      "start_ms": 65840,
+      "end_ms": 71009
+    },
+    {
+      "line_number": 5,
+      "original": "Sekian lama tuk mengerti",
+      "translation": "It took so long to understand",
+      "start_ms": 71010,
+      "end_ms": 74519
+    },
+    {
+      "line_number": 6,
+      "original": "Dirimu jadi misteri yang kian terselami",
+      "translation": "You are a mystery that is increasingly being explored",
+      "start_ms": 74520,
+      "end_ms": 79609
+    },
+    {
+      "line_number": 7,
+      "original": "Sekian jauh menilai",
+      "translation": "So much for judging",
+      "start_ms": 79610,
+      "end_ms": 82859
+    },
+    {
+      "line_number": 8,
+      "original": "Kadar cinta tergali milikmu sejati",
+      "translation": "Your true level of unearthed love",
+      "start_ms": 82860,
+      "end_ms": 88399
+    },
+    {
+      "line_number": 9,
+      "original": "Sejuta asa yang sempat",
+      "translation": "There were a million hopes",
+      "start_ms": 88400,
+      "end_ms": 91509
+    },
+    {
+      "line_number": 10,
+      "original": "Kutitipkan di dalam sinar matamu",
+      "translation": "I put it in the light of your eyes",
+      "start_ms": 91510,
+      "end_ms": 96609
+    },
+    {
+      "line_number": 11,
+      "original": "Pribadi nan sederhana",
+      "translation": "Simple and personal",
+      "start_ms": 96610,
+      "end_ms": 100159
+    },
+    {
+      "line_number": 12,
+      "original": "Menjanjikan keteduhan kasih nan murni",
+      "translation": "Promises the shade of pure love",
+      "start_ms": 100160,
+      "end_ms": 105389
+    },
+    {
+      "line_number": 13,
+      "original": "Ternyata tlah menjadi",
+      "translation": "It turns out it has happened",
+      "start_ms": 105390,
+      "end_ms": 108659
+    },
+    {
+      "line_number": 14,
+      "original": "Kebahagiaan hati yang tiada terperi",
+      "translation": "Indescribable happiness",
+      "start_ms": 108660,
+      "end_ms": 113889
+    },
+    {
+      "line_number": 15,
+      "original": "Mari genggam jemari",
+      "translation": "Let's hold our fingers together",
+      "start_ms": 113890,
+      "end_ms": 117039
+    },
+    {
+      "line_number": 16,
+      "original": "Memadu dua hati saling memiliki",
+      "translation": "Combining two hearts that belong to each other",
+      "start_ms": 117040,
+      "end_ms": 122739
+    },
+    {
+      "line_number": 17,
+      "original": "Kembali kembalilah kini segala asa berseri",
+      "translation": "Come back, now all your hopes are shining",
+      "start_ms": 122740,
+      "end_ms": 131109
+    },
+    {
+      "line_number": 18,
+      "original": "Benahi benahilah kini kepekaan nurani",
+      "translation": "Improve your conscience now",
+      "start_ms": 131110,
+      "end_ms": 139659
+    },
+    {
+      "line_number": 19,
+      "original": "Kembali kembalilah kini segala asa berseri",
+      "translation": "Come back, now all your hopes are shining",
+      "start_ms": 139660,
+      "end_ms": 148269
+    },
+    {
+      "line_number": 20,
+      "original": "Berjanji berjanjilah kini tetap setia sampai selama-lamanya",
+      "translation": "Promise promise now to remain faithful forever",
+      "start_ms": 148270,
+      "end_ms": 158659
+    },
+    {
+      "line_number": 21,
+      "original": "Tetap setia sampai selama-lamanya",
+      "translation": "Remain faithful forever",
+      "start_ms": 158660,
+      "end_ms": 217119
+    },
+    {
+      "line_number": 22,
+      "original": "Ternyata tlah menjadi",
+      "translation": "It turns out it has happened",
+      "start_ms": 217120,
+      "end_ms": 220179
+    },
+    {
+      "line_number": 23,
+      "original": "Kebahagiaan hati yang tiada terperi",
+      "translation": "Indescribable happiness",
+      "start_ms": 220180,
+      "end_ms": 225249
+    },
+    {
+      "line_number": 24,
+      "original": "Mari genggam jemari",
+      "translation": "Let's hold our fingers together",
+      "start_ms": 225250,
+      "end_ms": 228359
+    },
+    {
+      "line_number": 25,
+      "original": "Memadu dua hati saling memiliki",
+      "translation": "Combining two hearts that belong to each other",
+      "start_ms": 228360,
+      "end_ms": 233699
+    },
+    {
+      "line_number": 26,
+      "original": "Oh oh",
+      "translation": "Oh oh",
+      "start_ms": 233700,
+      "end_ms": 250629
+    },
+    {
+      "line_number": 27,
+      "original": "Kembali kembalilah kini segala asa berseri",
+      "translation": "Come back, now all your hopes are shining",
+      "start_ms": 250630,
+      "end_ms": 259709
+    },
+    {
+      "line_number": 28,
+      "original": "Benahi benahilah kini kepekaan nurani",
+      "translation": "Improve your conscience now",
+      "start_ms": 259710,
+      "end_ms": 268319
+    },
+    {
+      "line_number": 29,
+      "original": "Kembali kembalilah kini",
+      "translation": "Come back now",
+      "start_ms": 268320,
+      "end_ms": 276909
+    },
+    {
+      "line_number": 30,
+      "original": "Berjanji berjanjilah kini",
+      "translation": "Promise promise now",
+      "start_ms": 276910,
+      "end_ms": 282679
+    },
+    {
+      "line_number": 31,
+      "original": "Tetap setia",
+      "translation": "Remain loyal",
+      "start_ms": 282680,
+      "end_ms": 285449
+    },
+    {
+      "line_number": 32,
+      "original": "Kembali kembalilah kini",
+      "translation": "Come back now",
+      "start_ms": 285450,
+      "end_ms": 294229
+    },
+    {
+      "line_number": 33,
+      "original": "Benahi benahilah kini",
+      "translation": "Fix it now",
+      "start_ms": 294230,
+      "end_ms": 302569
+    },
+    {
+      "line_number": 34,
+      "original": "Kembali kembalilah kini",
+      "translation": "Come back now",
+      "start_ms": 302570,
+      "end_ms": 311589
+    },
+    {
+      "line_number": 35,
+      "original": "Berjanji berjanjilah kini yeah",
+      "translation": "Promise promise now yeah",
+      "start_ms": 311590,
+      "end_ms": 319699
+    },
+    {
+      "line_number": 36,
+      "original": "Kembali kembalilah kini segala asa berseri",
+      "translation": "Come back, now all your hopes are shining",
+      "start_ms": 319700,
+      "end_ms": null
+    }
+  ]
+}

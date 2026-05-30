@@ -1,0 +1,231 @@
+{
+  "track_id": "52vY3fQNyeFNZwQRwSRpn6",
+  "track_uri": "spotify:track:52vY3fQNyeFNZwQRwSRpn6",
+  "track_name": "Sampai Nanti, Sampai Mati",
+  "album_name": "Truth, Cry and Lie",
+  "artist_names": "Letto",
+  "duration_ms": 185109,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:11:03.345964+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Kalau kau pernah takut mati",
+      "translation": "If you've ever been afraid of death",
+      "start_ms": 13770,
+      "end_ms": 16989
+    },
+    {
+      "line_number": 2,
+      "original": "Sama",
+      "translation": "Same",
+      "start_ms": 16990,
+      "end_ms": 20179
+    },
+    {
+      "line_number": 3,
+      "original": "Kalau kau pernah patah hati",
+      "translation": "If you've ever had your heart broken",
+      "start_ms": 20180,
+      "end_ms": 22619
+    },
+    {
+      "line_number": 4,
+      "original": "Aku juga iya",
+      "translation": "Me too yeah",
+      "start_ms": 22620,
+      "end_ms": 26219
+    },
+    {
+      "line_number": 5,
+      "original": "Dan sering kali",
+      "translation": "And often",
+      "start_ms": 26220,
+      "end_ms": 28779
+    },
+    {
+      "line_number": 6,
+      "original": "Sial datang dan pergi",
+      "translation": "Shit comes and goes",
+      "start_ms": 28780,
+      "end_ms": 31579
+    },
+    {
+      "line_number": 7,
+      "original": "Tanpa permisi",
+      "translation": "Without permission",
+      "start_ms": 31580,
+      "end_ms": 33699
+    },
+    {
+      "line_number": 8,
+      "original": "Kepadamu suasana hati",
+      "translation": "To you mood",
+      "start_ms": 33700,
+      "end_ms": 39309
+    },
+    {
+      "line_number": 9,
+      "original": "Uu-uu-uu",
+      "translation": "Uu-uu-uu",
+      "start_ms": 39310,
+      "end_ms": 42859
+    },
+    {
+      "line_number": 10,
+      "original": "Tak peduli",
+      "translation": "Do not care",
+      "start_ms": 42860,
+      "end_ms": 55929
+    },
+    {
+      "line_number": 11,
+      "original": "Kalau kau kejar mimpimu",
+      "translation": "If you chase your dreams",
+      "start_ms": 55930,
+      "end_ms": 58759
+    },
+    {
+      "line_number": 12,
+      "original": "Salut",
+      "translation": "Salute",
+      "start_ms": 58760,
+      "end_ms": 61619
+    },
+    {
+      "line_number": 13,
+      "original": "Kalau kau ingin berhenti",
+      "translation": "If you want to stop",
+      "start_ms": 61620,
+      "end_ms": 64349
+    },
+    {
+      "line_number": 14,
+      "original": "Ingat tuk mulai lagi",
+      "translation": "Remember to start again",
+      "start_ms": 64350,
+      "end_ms": 68049
+    },
+    {
+      "line_number": 15,
+      "original": "Tetap semangat",
+      "translation": "Keep it up",
+      "start_ms": 68050,
+      "end_ms": 70579
+    },
+    {
+      "line_number": 16,
+      "original": "Dan teguhkan hati",
+      "translation": "And be firm",
+      "start_ms": 70580,
+      "end_ms": 73279
+    },
+    {
+      "line_number": 17,
+      "original": "Di setiap hari",
+      "translation": "Every day",
+      "start_ms": 73280,
+      "end_ms": 75659
+    },
+    {
+      "line_number": 18,
+      "original": "Sampai nanti",
+      "translation": "See you later",
+      "start_ms": 75660,
+      "end_ms": 78669
+    },
+    {
+      "line_number": 19,
+      "original": "Sampai mati",
+      "translation": "To death",
+      "start_ms": 78670,
+      "end_ms": 85859
+    },
+    {
+      "line_number": 20,
+      "original": "Kadang memang",
+      "translation": "Sometimes indeed",
+      "start_ms": 85860,
+      "end_ms": 88119
+    },
+    {
+      "line_number": 21,
+      "original": "Cinta yang terbagi",
+      "translation": "Divided love",
+      "start_ms": 88120,
+      "end_ms": 91809
+    },
+    {
+      "line_number": 22,
+      "original": "Kadang memang",
+      "translation": "Sometimes indeed",
+      "start_ms": 91810,
+      "end_ms": 97749
+    },
+    {
+      "line_number": 23,
+      "original": "Sering kali mimpi tak terpenuhi",
+      "translation": "Often dreams are not fulfilled",
+      "start_ms": 97750,
+      "end_ms": 103839
+    },
+    {
+      "line_number": 24,
+      "original": "Sering kali",
+      "translation": "Often",
+      "start_ms": 103840,
+      "end_ms": 138879
+    },
+    {
+      "line_number": 25,
+      "original": "Tetap semangat dan teguhkan hati",
+      "translation": "Keep the spirit and be firm",
+      "start_ms": 138880,
+      "end_ms": 144049
+    },
+    {
+      "line_number": 26,
+      "original": "Di setiap hari sampai nanti",
+      "translation": "Every day until next time",
+      "start_ms": 144050,
+      "end_ms": 150689
+    },
+    {
+      "line_number": 27,
+      "original": "Tetap melangkah",
+      "translation": "Keep going",
+      "start_ms": 150690,
+      "end_ms": 153219
+    },
+    {
+      "line_number": 28,
+      "original": "Dan keraskan hati",
+      "translation": "And harden your heart",
+      "start_ms": 153220,
+      "end_ms": 155879
+    },
+    {
+      "line_number": 29,
+      "original": "Di setiap hari sampai nanti",
+      "translation": "Every day until next time",
+      "start_ms": 155880,
+      "end_ms": 161529
+    },
+    {
+      "line_number": 30,
+      "original": "Sampai mati",
+      "translation": "To death",
+      "start_ms": 161530,
+      "end_ms": 167579
+    },
+    {
+      "line_number": 31,
+      "original": "Sampai mati",
+      "translation": "To death",
+      "start_ms": 167580,
+      "end_ms": null
+    }
+  ]
+}

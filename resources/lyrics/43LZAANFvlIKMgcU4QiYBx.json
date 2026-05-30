@@ -1,0 +1,182 @@
+{
+  "track_id": "43LZAANFvlIKMgcU4QiYBx",
+  "track_uri": "spotify:track:43LZAANFvlIKMgcU4QiYBx",
+  "track_name": "Angin Pujaan Hujan",
+  "album_name": "Dunia Batas",
+  "artist_names": "Payung Teduh",
+  "duration_ms": 212250,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:13:38.904218+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Datang dari mimpi semalam",
+      "translation": "Came from last night's dream",
+      "start_ms": 10540,
+      "end_ms": 14859
+    },
+    {
+      "line_number": 2,
+      "original": "Bulan bundar",
+      "translation": "Round moon",
+      "start_ms": 14860,
+      "end_ms": 20099
+    },
+    {
+      "line_number": 3,
+      "original": "Bermandikan sejuta cahaya",
+      "translation": "Bathed in a million lights",
+      "start_ms": 20100,
+      "end_ms": 27179
+    },
+    {
+      "line_number": 4,
+      "original": "Di langit yang merah",
+      "translation": "In the red sky",
+      "start_ms": 27180,
+      "end_ms": 31699
+    },
+    {
+      "line_number": 5,
+      "original": "Ranum seperti anggur",
+      "translation": "Ripe like grapes",
+      "start_ms": 31700,
+      "end_ms": 37089
+    },
+    {
+      "line_number": 6,
+      "original": "Wajahmu membuai mimpiku",
+      "translation": "Your face lulls my dreams",
+      "start_ms": 37090,
+      "end_ms": 49059
+    },
+    {
+      "line_number": 7,
+      "original": "Sang pujaan tak juga datang",
+      "translation": "The idol did not come",
+      "start_ms": 49060,
+      "end_ms": 55339
+    },
+    {
+      "line_number": 8,
+      "original": "Angin berhembus bercabang",
+      "translation": "The wind blows in branches",
+      "start_ms": 55340,
+      "end_ms": 59389
+    },
+    {
+      "line_number": 9,
+      "original": "Rinduku berbuah lara",
+      "translation": "My longing results in pain",
+      "start_ms": 59390,
+      "end_ms": 69589
+    },
+    {
+      "line_number": 10,
+      "original": "Sang pujaan tak juga datang",
+      "translation": "The idol did not come",
+      "start_ms": 69590,
+      "end_ms": 74739
+    },
+    {
+      "line_number": 11,
+      "original": "Angin berhembus bercabang",
+      "translation": "The wind blows in branches",
+      "start_ms": 74740,
+      "end_ms": 79099
+    },
+    {
+      "line_number": 12,
+      "original": "Rinduku berbuah lara",
+      "translation": "My longing results in pain",
+      "start_ms": 79100,
+      "end_ms": 86959
+    },
+    {
+      "line_number": 13,
+      "original": "Uh, lara",
+      "translation": "Uh, sick",
+      "start_ms": 86960,
+      "end_ms": 133899
+    },
+    {
+      "line_number": 14,
+      "original": "Sang pujaan tak juga datang",
+      "translation": "The idol did not come",
+      "start_ms": 133900,
+      "end_ms": 138869
+    },
+    {
+      "line_number": 15,
+      "original": "Angin berhembus bercabang",
+      "translation": "The wind blows in branches",
+      "start_ms": 138870,
+      "end_ms": 143189
+    },
+    {
+      "line_number": 16,
+      "original": "Rinduku berbuah lara",
+      "translation": "My longing results in pain",
+      "start_ms": 143190,
+      "end_ms": 153939
+    },
+    {
+      "line_number": 17,
+      "original": "Sang pujaan tak juga datang",
+      "translation": "The idol did not come",
+      "start_ms": 153940,
+      "end_ms": 158299
+    },
+    {
+      "line_number": 18,
+      "original": "Angin berhembus bercabang",
+      "translation": "The wind blows in branches",
+      "start_ms": 158300,
+      "end_ms": 162709
+    },
+    {
+      "line_number": 19,
+      "original": "Rinduku berbuah lara",
+      "translation": "My longing results in pain",
+      "start_ms": 162710,
+      "end_ms": 170389
+    },
+    {
+      "line_number": 20,
+      "original": "Uh, lara",
+      "translation": "Uh, sick",
+      "start_ms": 170390,
+      "end_ms": 175409
+    },
+    {
+      "line_number": 21,
+      "original": "U-uh, lara",
+      "translation": "U-uh, lara",
+      "start_ms": 175410,
+      "end_ms": 180119
+    },
+    {
+      "line_number": 22,
+      "original": "U-u-uh, rinduku",
+      "translation": "U-u-uh, I miss you",
+      "start_ms": 180120,
+      "end_ms": 184899
+    },
+    {
+      "line_number": 23,
+      "original": "Berbuah lara",
+      "translation": "Result in pain",
+      "start_ms": 184900,
+      "end_ms": 189829
+    },
+    {
+      "line_number": 24,
+      "original": "Uh, lara",
+      "translation": "Uh, sick",
+      "start_ms": 189830,
+      "end_ms": null
+    }
+  ]
+}

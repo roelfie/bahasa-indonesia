@@ -1,0 +1,252 @@
+{
+  "track_id": "4Guc4Epn4ZzeJlfEobL7wi",
+  "track_uri": "spotify:track:4Guc4Epn4ZzeJlfEobL7wi",
+  "track_name": "Yogyakarta",
+  "album_name": "Best Cuts",
+  "artist_names": "Kla Project",
+  "duration_ms": 306800,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:06:06.112783+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Pulang ke kotamu",
+      "translation": "Go back to your city",
+      "start_ms": 26730,
+      "end_ms": 30239
+    },
+    {
+      "line_number": 2,
+      "original": "Ada setangkup haru dalam rindu",
+      "translation": "There is a touch of emotion in longing",
+      "start_ms": 30240,
+      "end_ms": 42839
+    },
+    {
+      "line_number": 3,
+      "original": "Masih seperti dulu",
+      "translation": "Still like before",
+      "start_ms": 42840,
+      "end_ms": 46619
+    },
+    {
+      "line_number": 4,
+      "original": "Tiap sudut menyapaku bersahabat",
+      "translation": "Every corner greeted me friendly",
+      "start_ms": 46620,
+      "end_ms": 51769
+    },
+    {
+      "line_number": 5,
+      "original": "Penuh selaksa makna",
+      "translation": "Full of meaning",
+      "start_ms": 51770,
+      "end_ms": 58979
+    },
+    {
+      "line_number": 6,
+      "original": "Terhanyut aku akan nostalgi",
+      "translation": "I'm swept away by nostalgia",
+      "start_ms": 58980,
+      "end_ms": 62999
+    },
+    {
+      "line_number": 7,
+      "original": "Saat kita sering luangkan waktu",
+      "translation": "When we often spend time",
+      "start_ms": 63000,
+      "end_ms": 69439
+    },
+    {
+      "line_number": 8,
+      "original": "Nikmati bersama suasana Jogja",
+      "translation": "Enjoy the atmosphere of Jogja together",
+      "start_ms": 69440,
+      "end_ms": 79299
+    },
+    {
+      "line_number": 9,
+      "original": "Di persimpangan langkahku terhenti",
+      "translation": "At the intersection my steps stopped",
+      "start_ms": 79300,
+      "end_ms": 91869
+    },
+    {
+      "line_number": 10,
+      "original": "Ramai kaki lima",
+      "translation": "Crowded with street vendors",
+      "start_ms": 91870,
+      "end_ms": 95559
+    },
+    {
+      "line_number": 11,
+      "original": "Menjajakan sajian khas berselera",
+      "translation": "Selling delicious specialties",
+      "start_ms": 95560,
+      "end_ms": 100569
+    },
+    {
+      "line_number": 12,
+      "original": "Orang duduk bersila",
+      "translation": "People sit cross-legged",
+      "start_ms": 100570,
+      "end_ms": 107669
+    },
+    {
+      "line_number": 13,
+      "original": "Musisi jalanan mulai beraksi",
+      "translation": "Street musicians start to act",
+      "start_ms": 107670,
+      "end_ms": 112229
+    },
+    {
+      "line_number": 14,
+      "original": "Seiring laraku kehilanganmu",
+      "translation": "As I suffer from losing you",
+      "start_ms": 112230,
+      "end_ms": 117899
+    },
+    {
+      "line_number": 15,
+      "original": "Merintih sendiri",
+      "translation": "Whimpering to myself",
+      "start_ms": 117900,
+      "end_ms": 120929
+    },
+    {
+      "line_number": 16,
+      "original": "Ditelan deru kotamu",
+      "translation": "Swallowed by the roar of your city",
+      "start_ms": 120930,
+      "end_ms": 123299
+    },
+    {
+      "line_number": 17,
+      "original": "Walau kini kau t'lah tiada tak kembali (ho-oh)",
+      "translation": "Even though now you're gone, you won't come back (ho-oh)",
+      "start_ms": 123300,
+      "end_ms": 130419
+    },
+    {
+      "line_number": 18,
+      "original": "Namun kotamu hadirkan senyummu abadi",
+      "translation": "But your city makes your smile eternal",
+      "start_ms": 130420,
+      "end_ms": 138639
+    },
+    {
+      "line_number": 19,
+      "original": "Izinkanlah (hmm) aku untuk s'lalu (uu) pulang lagi",
+      "translation": "Allow (hmm) me to always (uu) go home again",
+      "start_ms": 138640,
+      "end_ms": 146739
+    },
+    {
+      "line_number": 20,
+      "original": "Bila hati mulai sepi (ho-oh) tanpa terobati (tak terobati)",
+      "translation": "When the heart starts to feel lonely (ho-oh) without being cured (unhealed)",
+      "start_ms": 146740,
+      "end_ms": 189039
+    },
+    {
+      "line_number": 21,
+      "original": "Musisi jalanan mulai beraksi",
+      "translation": "Street musicians start to act",
+      "start_ms": 189040,
+      "end_ms": 193509
+    },
+    {
+      "line_number": 22,
+      "original": "Seiring laraku kehilanganmu",
+      "translation": "As I suffer from losing you",
+      "start_ms": 193510,
+      "end_ms": 199459
+    },
+    {
+      "line_number": 23,
+      "original": "Merintih sendiri",
+      "translation": "Whimpering to myself",
+      "start_ms": 199460,
+      "end_ms": 202379
+    },
+    {
+      "line_number": 24,
+      "original": "Ditelan deru kotamu",
+      "translation": "Swallowed by the roar of your city",
+      "start_ms": 202380,
+      "end_ms": 204759
+    },
+    {
+      "line_number": 25,
+      "original": "Walau kini kau t'lah tiada tak kembali (tak kembali)",
+      "translation": "Even though you're gone now, you won't come back (you won't come back)",
+      "start_ms": 204760,
+      "end_ms": 211989
+    },
+    {
+      "line_number": 26,
+      "original": "Namun kotamu hadirkan senyummu abadi (senyummu yang nan abadi)",
+      "translation": "But your city presents your eternal smile (your eternal smile)",
+      "start_ms": 211990,
+      "end_ms": 219969
+    },
+    {
+      "line_number": 27,
+      "original": "Ijinkanlah aku untuk s'lalu pulang lagi (untuk s'lalu pulang lagi)",
+      "translation": "Allow me to always go home again (to always go home again)",
+      "start_ms": 219970,
+      "end_ms": 227949
+    },
+    {
+      "line_number": 28,
+      "original": "Bila hati (bila hati) mulai sepi (mulai sepi) tanpa terobati (tanpa terobati)",
+      "translation": "If the heart (if the heart) starts to get lonely (starts to get lonely) without being healed (without being healed)",
+      "start_ms": 227950,
+      "end_ms": 236279
+    },
+    {
+      "line_number": 29,
+      "original": "Walau kini (hoo) engkau telah tiada tak kembali (tak kembali)",
+      "translation": "Even though now (hoo) you're gone, you're not coming back (not coming back)",
+      "start_ms": 236280,
+      "end_ms": 244439
+    },
+    {
+      "line_number": 30,
+      "original": "Namun kotamu hadirkan senyummu abadi (senyummu yang nan abadi)",
+      "translation": "But your city presents your eternal smile (your eternal smile)",
+      "start_ms": 244440,
+      "end_ms": 252619
+    },
+    {
+      "line_number": 31,
+      "original": "Ijinkanlah (ijinkanlah) aku untuk (aku untuk) s'lalu pulang lagi (selalu pulang lagi)",
+      "translation": "Allow (allow) me to (me to) always come home again (always come home again)",
+      "start_ms": 252620,
+      "end_ms": 260419
+    },
+    {
+      "line_number": 32,
+      "original": "Bila hati (bila hati) mulai sepi (mulai sepi) tanpa terobati (tanpa terobati)",
+      "translation": "If the heart (if the heart) starts to get lonely (starts to get lonely) without being healed (without being healed)",
+      "start_ms": 260420,
+      "end_ms": 268879
+    },
+    {
+      "line_number": 33,
+      "original": "Walau kini engkau telah tiada tak kembali (tak kembali)",
+      "translation": "Even though you're gone now, you won't come back (you won't come back)",
+      "start_ms": 268880,
+      "end_ms": 276969
+    },
+    {
+      "line_number": 34,
+      "original": "Namun kotamu hadirkan senyummu abadi (senyummu abadi)",
+      "translation": "But your city presents your eternal smile (your eternal smile)",
+      "start_ms": 276970,
+      "end_ms": null
+    }
+  ]
+}

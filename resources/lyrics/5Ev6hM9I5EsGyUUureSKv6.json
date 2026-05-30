@@ -1,0 +1,280 @@
+{
+  "track_id": "5Ev6hM9I5EsGyUUureSKv6",
+  "track_uri": "spotify:track:5Ev6hM9I5EsGyUUureSKv6",
+  "track_name": "Kupu - Kupu Kertas",
+  "album_name": "Kupu - Kupu Kertas",
+  "artist_names": "Ebiet G. Ade",
+  "duration_ms": 299537,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:04:03.755885+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Setiap waktu engkau tersenyum",
+      "translation": "Every time you smile",
+      "start_ms": 20000,
+      "end_ms": 26929
+    },
+    {
+      "line_number": 2,
+      "original": "Sudut matamu memancarkan rasa",
+      "translation": "The corners of your eyes flash with emotion",
+      "start_ms": 26930,
+      "end_ms": 35039
+    },
+    {
+      "line_number": 3,
+      "original": "Keresahan yang terbenam",
+      "translation": "Submerged anxiety",
+      "start_ms": 35040,
+      "end_ms": 41059
+    },
+    {
+      "line_number": 4,
+      "original": "Kerinduan yang tertahan",
+      "translation": "Restrained longing",
+      "start_ms": 41060,
+      "end_ms": 47089
+    },
+    {
+      "line_number": 5,
+      "original": "Duka dalam yang tersembunyi",
+      "translation": "Hidden deep sorrow",
+      "start_ms": 47090,
+      "end_ms": 53079
+    },
+    {
+      "line_number": 6,
+      "original": "Jauh di lubuk hati",
+      "translation": "Deep down",
+      "start_ms": 53080,
+      "end_ms": 58999
+    },
+    {
+      "line_number": 7,
+      "original": "Kata-katamu",
+      "translation": "Your words",
+      "start_ms": 59000,
+      "end_ms": 62089
+    },
+    {
+      "line_number": 8,
+      "original": "Riuh mengalir bagai gerimis",
+      "translation": "The noise flows like drizzle",
+      "start_ms": 62090,
+      "end_ms": 72159
+    },
+    {
+      "line_number": 9,
+      "original": "Seperti angin tak pernah diam",
+      "translation": "Like the wind never stops",
+      "start_ms": 72160,
+      "end_ms": 80039
+    },
+    {
+      "line_number": 10,
+      "original": "Selalu beranjak setiap saat",
+      "translation": "Always moving all the time",
+      "start_ms": 80040,
+      "end_ms": 87189
+    },
+    {
+      "line_number": 11,
+      "original": "Menebarkan jala asmara",
+      "translation": "Spreading the net of romance",
+      "start_ms": 87190,
+      "end_ms": 93289
+    },
+    {
+      "line_number": 12,
+      "original": "Menaburkan aroma luka",
+      "translation": "Sprinkles the scent of wounds",
+      "start_ms": 93290,
+      "end_ms": 100029
+    },
+    {
+      "line_number": 13,
+      "original": "Benih kebencian kau tanam",
+      "translation": "You planted the seeds of hatred",
+      "start_ms": 100030,
+      "end_ms": 105999
+    },
+    {
+      "line_number": 14,
+      "original": "Bakar ladang gersang",
+      "translation": "Burn barren fields",
+      "start_ms": 106000,
+      "end_ms": 111959
+    },
+    {
+      "line_number": 15,
+      "original": "Entah sampai kapan",
+      "translation": "Do not know until when",
+      "start_ms": 111960,
+      "end_ms": 115089
+    },
+    {
+      "line_number": 16,
+      "original": "Berhenti menipu diri",
+      "translation": "Stop deceiving yourself",
+      "start_ms": 115090,
+      "end_ms": 121969
+    },
+    {
+      "line_number": 17,
+      "original": "Kupu-kupu kertas",
+      "translation": "Paper butterflies",
+      "start_ms": 121970,
+      "end_ms": 128089
+    },
+    {
+      "line_number": 18,
+      "original": "Yang terbang kian kemari",
+      "translation": "Which flies here and there",
+      "start_ms": 128090,
+      "end_ms": 135039
+    },
+    {
+      "line_number": 19,
+      "original": "Aneka rupa dan warna",
+      "translation": "Various shapes and colors",
+      "start_ms": 135040,
+      "end_ms": 140999
+    },
+    {
+      "line_number": 20,
+      "original": "Dibias lampu temaram",
+      "translation": "Refracted by dim lights",
+      "start_ms": 141000,
+      "end_ms": 176009
+    },
+    {
+      "line_number": 21,
+      "original": "Membasuh debu yang lekat dalam jiwa",
+      "translation": "Wash away the dust that sticks in the soul",
+      "start_ms": 176010,
+      "end_ms": 183089
+    },
+    {
+      "line_number": 22,
+      "original": "Mencuci bersih dari segala kekotoran",
+      "translation": "Wash clean from all dirt",
+      "start_ms": 183090,
+      "end_ms": 192909
+    },
+    {
+      "line_number": 23,
+      "original": "Aku menunggu hujan turunlah",
+      "translation": "I'm waiting for the rain to fall",
+      "start_ms": 192910,
+      "end_ms": 198919
+    },
+    {
+      "line_number": 24,
+      "original": "Aku mengharap badai datanglah",
+      "translation": "I hope the storm comes",
+      "start_ms": 198920,
+      "end_ms": 204999
+    },
+    {
+      "line_number": 25,
+      "original": "Gemuruhnya akan melumatkan semua",
+      "translation": "Its roar will crush everything",
+      "start_ms": 205000,
+      "end_ms": 212029
+    },
+    {
+      "line_number": 26,
+      "original": "Kupu-kupu kertas",
+      "translation": "Paper butterflies",
+      "start_ms": 212030,
+      "end_ms": 221049
+    },
+    {
+      "line_number": 27,
+      "original": "Kupu-kupu kertas",
+      "translation": "Paper butterflies",
+      "start_ms": 221050,
+      "end_ms": 227199
+    },
+    {
+      "line_number": 28,
+      "original": "Yang terbang kian kemari",
+      "translation": "Which flies here and there",
+      "start_ms": 227200,
+      "end_ms": 233219
+    },
+    {
+      "line_number": 29,
+      "original": "Aneka rupa dan warna",
+      "translation": "Various shapes and colors",
+      "start_ms": 233220,
+      "end_ms": 240119
+    },
+    {
+      "line_number": 30,
+      "original": "Dibias lampu temaram",
+      "translation": "Refracted by dim lights",
+      "start_ms": 240120,
+      "end_ms": 246249
+    },
+    {
+      "line_number": 31,
+      "original": "Kupu-kupu kertas",
+      "translation": "Paper butterflies",
+      "start_ms": 246250,
+      "end_ms": 253119
+    },
+    {
+      "line_number": 32,
+      "original": "Yang terbang kian kemari",
+      "translation": "Which flies here and there",
+      "start_ms": 253120,
+      "end_ms": 259159
+    },
+    {
+      "line_number": 33,
+      "original": "Aneka rupa dan warna",
+      "translation": "Various shapes and colors",
+      "start_ms": 259160,
+      "end_ms": 266099
+    },
+    {
+      "line_number": 34,
+      "original": "Dibias lampu temaram",
+      "translation": "Refracted by dim lights",
+      "start_ms": 266100,
+      "end_ms": 272189
+    },
+    {
+      "line_number": 35,
+      "original": "Kupu-kupu kertas",
+      "translation": "Paper butterflies",
+      "start_ms": 272190,
+      "end_ms": 278249
+    },
+    {
+      "line_number": 36,
+      "original": "Yang terbang kian kemari",
+      "translation": "Which flies here and there",
+      "start_ms": 278250,
+      "end_ms": 285079
+    },
+    {
+      "line_number": 37,
+      "original": "Aneka rupa dan warna",
+      "translation": "Various shapes and colors",
+      "start_ms": 285080,
+      "end_ms": 291999
+    },
+    {
+      "line_number": 38,
+      "original": "Dibias lampu temaram",
+      "translation": "Refracted by dim lights",
+      "start_ms": 292000,
+      "end_ms": null
+    }
+  ]
+}

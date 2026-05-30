@@ -1,0 +1,378 @@
+{
+  "track_id": "63aIxMhj5WU6yJSxT7zxEA",
+  "track_uri": "spotify:track:63aIxMhj5WU6yJSxT7zxEA",
+  "track_name": "Surat Buat Wakil Rakyat",
+  "album_name": "Wakil Rakyat",
+  "artist_names": "Iwan Fals",
+  "duration_ms": 390652,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T20:57:16.745648+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Untukmu yang duduk sambil diskusi",
+      "translation": "For those of you who sit while discussing",
+      "start_ms": 24590,
+      "end_ms": 28759
+    },
+    {
+      "line_number": 2,
+      "original": "Untukmu yang biasa bersafari",
+      "translation": "For those of you who usually go on safari",
+      "start_ms": 28760,
+      "end_ms": 31959
+    },
+    {
+      "line_number": 3,
+      "original": "Di sana, di gedung DPR",
+      "translation": "There, in the DPR building",
+      "start_ms": 31960,
+      "end_ms": 40949
+    },
+    {
+      "line_number": 4,
+      "original": "Wakil rakyat kumpulan orang hebat",
+      "translation": "Representatives of a great group of people",
+      "start_ms": 40950,
+      "end_ms": 44909
+    },
+    {
+      "line_number": 5,
+      "original": "Bukan kumpulan teman-teman dekat",
+      "translation": "Not a group of close friends",
+      "start_ms": 44910,
+      "end_ms": 48179
+    },
+    {
+      "line_number": 6,
+      "original": "Apalagi sanak famili",
+      "translation": "Especially relatives",
+      "start_ms": 48180,
+      "end_ms": 56919
+    },
+    {
+      "line_number": 7,
+      "original": "Di hati dan lidahmu kami berharap",
+      "translation": "In your hearts and tongues we hope",
+      "start_ms": 56920,
+      "end_ms": 60529
+    },
+    {
+      "line_number": 8,
+      "original": "Suara kami tolong dengar lalu sampaikan",
+      "translation": "Please hear our voices and convey them",
+      "start_ms": 60530,
+      "end_ms": 64649
+    },
+    {
+      "line_number": 9,
+      "original": "Jangan ragu, jangan takut karang menghadang",
+      "translation": "Don't hesitate, don't be afraid of the coral blocking you",
+      "start_ms": 64650,
+      "end_ms": 68639
+    },
+    {
+      "line_number": 10,
+      "original": "Bicaralah yang lantang, jangan hanya diam!",
+      "translation": "Speak loudly, don't just stay silent!",
+      "start_ms": 68640,
+      "end_ms": 83609
+    },
+    {
+      "line_number": 11,
+      "original": "Di kantong safarimu kami titipkan",
+      "translation": "We will leave it in your safari bag",
+      "start_ms": 83610,
+      "end_ms": 87549
+    },
+    {
+      "line_number": 12,
+      "original": "Masa depan kami dan negeri ini",
+      "translation": "Our future and this country",
+      "start_ms": 87550,
+      "end_ms": 91079
+    },
+    {
+      "line_number": 13,
+      "original": "Dari Sabang sampai Merauke",
+      "translation": "From Sabang to Merauke",
+      "start_ms": 91080,
+      "end_ms": 99629
+    },
+    {
+      "line_number": 14,
+      "original": "Saudara dipilih bukan dilotre",
+      "translation": "You were chosen not in a lottery",
+      "start_ms": 99630,
+      "end_ms": 103669
+    },
+    {
+      "line_number": 15,
+      "original": "Meski kami tak kenal siapa saudara",
+      "translation": "Even though we don't know who you are",
+      "start_ms": 103670,
+      "end_ms": 107659
+    },
+    {
+      "line_number": 16,
+      "original": "Kami tak sudi memilih para juara",
+      "translation": "We don't want to choose champions",
+      "start_ms": 107660,
+      "end_ms": 111799
+    },
+    {
+      "line_number": 17,
+      "original": "Juara diam, juara he-eh, juara hahaha",
+      "translation": "Silent champion, champion he-eh, champion hahaha",
+      "start_ms": 111800,
+      "end_ms": 151119
+    },
+    {
+      "line_number": 18,
+      "original": "Untukmu yang duduk sambil diskusi",
+      "translation": "For those of you who sit while discussing",
+      "start_ms": 151120,
+      "end_ms": 155369
+    },
+    {
+      "line_number": 19,
+      "original": "Untukmu yang biasa bersafari",
+      "translation": "For those of you who usually go on safari",
+      "start_ms": 155370,
+      "end_ms": 158469
+    },
+    {
+      "line_number": 20,
+      "original": "Di sana, di gedung DPR",
+      "translation": "There, in the DPR building",
+      "start_ms": 158470,
+      "end_ms": 167249
+    },
+    {
+      "line_number": 21,
+      "original": "Di hati dan lidahmu kami berharap",
+      "translation": "In your hearts and tongues we hope",
+      "start_ms": 167250,
+      "end_ms": 171059
+    },
+    {
+      "line_number": 22,
+      "original": "Suara kami tolong dengar lalu sampaikan",
+      "translation": "Please hear our voices and convey them",
+      "start_ms": 171060,
+      "end_ms": 175009
+    },
+    {
+      "line_number": 23,
+      "original": "Jangan ragu, jangan takut karang menghadang",
+      "translation": "Don't hesitate, don't be afraid of the coral blocking you",
+      "start_ms": 175010,
+      "end_ms": 179079
+    },
+    {
+      "line_number": 24,
+      "original": "Bicaralah yang lantang, jangan hanya diam!",
+      "translation": "Speak loudly, don't just stay silent!",
+      "start_ms": 179080,
+      "end_ms": 185829
+    },
+    {
+      "line_number": 25,
+      "original": "Wakil rakyat seharusnya merakyat",
+      "translation": "People's representatives should be people",
+      "start_ms": 185830,
+      "end_ms": 193899
+    },
+    {
+      "line_number": 26,
+      "original": "Jangan tidur waktu sidang soal rakyat",
+      "translation": "Don't sleep during the hearing on people's matters",
+      "start_ms": 193900,
+      "end_ms": 202179
+    },
+    {
+      "line_number": 27,
+      "original": "Wakil rakyat bukan paduan suara",
+      "translation": "People's representatives are not a choir",
+      "start_ms": 202180,
+      "end_ms": 210359
+    },
+    {
+      "line_number": 28,
+      "original": "Hanya tahu nyanyian lagu \"setuju\"",
+      "translation": "Only know the song \"agree\"",
+      "start_ms": 210360,
+      "end_ms": 216519
+    },
+    {
+      "line_number": 29,
+      "original": "Wakil rakyat seharusnya merakyat",
+      "translation": "People's representatives should be people",
+      "start_ms": 216520,
+      "end_ms": 224609
+    },
+    {
+      "line_number": 30,
+      "original": "Jangan tidur waktu sidang soal rakyat",
+      "translation": "Don't sleep during the hearing on people's matters",
+      "start_ms": 224610,
+      "end_ms": 230659
+    },
+    {
+      "line_number": 31,
+      "original": "Wakil rakyat bukan paduan suara",
+      "translation": "People's representatives are not a choir",
+      "start_ms": 230660,
+      "end_ms": 238919
+    },
+    {
+      "line_number": 32,
+      "original": "Hanya tahu nyanyian lagu \"setuju\"",
+      "translation": "Only know the song \"agree\"",
+      "start_ms": 238920,
+      "end_ms": 245179
+    },
+    {
+      "line_number": 33,
+      "original": "Wakil rakyat seharusnya merakyat",
+      "translation": "People's representatives should be people",
+      "start_ms": 245180,
+      "end_ms": 253309
+    },
+    {
+      "line_number": 34,
+      "original": "Jangan tidur waktu sidang soal rakyat",
+      "translation": "Don't sleep during the hearing on people's matters",
+      "start_ms": 253310,
+      "end_ms": 259459
+    },
+    {
+      "line_number": 35,
+      "original": "Wakil rakyat bukan paduan suara",
+      "translation": "People's representatives are not a choir",
+      "start_ms": 259460,
+      "end_ms": 267589
+    },
+    {
+      "line_number": 36,
+      "original": "Hanya tahu nyanyian lagu \"setuju\"",
+      "translation": "Only know the song \"agree\"",
+      "start_ms": 267590,
+      "end_ms": 273799
+    },
+    {
+      "line_number": 37,
+      "original": "Wakil rakyat seharusnya merakyat",
+      "translation": "People's representatives should be people",
+      "start_ms": 273800,
+      "end_ms": 282069
+    },
+    {
+      "line_number": 38,
+      "original": "Jangan tidur waktu sidang soal rakyat",
+      "translation": "Don't sleep during the hearing on people's matters",
+      "start_ms": 282070,
+      "end_ms": 287999
+    },
+    {
+      "line_number": 39,
+      "original": "Wakil rakyat bukan paduan suara",
+      "translation": "People's representatives are not a choir",
+      "start_ms": 288000,
+      "end_ms": 296129
+    },
+    {
+      "line_number": 40,
+      "original": "Hanya tahu nyanyian lagu \"setuju\"",
+      "translation": "Only know the song \"agree\"",
+      "start_ms": 296130,
+      "end_ms": 302219
+    },
+    {
+      "line_number": 41,
+      "original": "Wakil rakyat seharusnya merakyat",
+      "translation": "People's representatives should be people",
+      "start_ms": 302220,
+      "end_ms": 310309
+    },
+    {
+      "line_number": 42,
+      "original": "Jangan tidur waktu sidang soal rakyat",
+      "translation": "Don't sleep during the hearing on people's matters",
+      "start_ms": 310310,
+      "end_ms": 316479
+    },
+    {
+      "line_number": 43,
+      "original": "Wakil rakyat bukan paduan suara",
+      "translation": "People's representatives are not a choir",
+      "start_ms": 316480,
+      "end_ms": 324899
+    },
+    {
+      "line_number": 44,
+      "original": "Hanya tahu nyanyian lagu \"setuju\"",
+      "translation": "Only know the song \"agree\"",
+      "start_ms": 324900,
+      "end_ms": 331059
+    },
+    {
+      "line_number": 45,
+      "original": "Wakil rakyat seharusnya merakyat",
+      "translation": "People's representatives should be people",
+      "start_ms": 331060,
+      "end_ms": 339149
+    },
+    {
+      "line_number": 46,
+      "original": "Jangan tidur waktu sidang soal rakyat",
+      "translation": "Don't sleep during the hearing on people's matters",
+      "start_ms": 339150,
+      "end_ms": 345259
+    },
+    {
+      "line_number": 47,
+      "original": "Wakil rakyat bukan paduan suara",
+      "translation": "People's representatives are not a choir",
+      "start_ms": 345260,
+      "end_ms": 353459
+    },
+    {
+      "line_number": 48,
+      "original": "Hanya tahu nyanyian lagu \"setuju\"",
+      "translation": "Only know the song \"agree\"",
+      "start_ms": 353460,
+      "end_ms": 359679
+    },
+    {
+      "line_number": 49,
+      "original": "Wakil rakyat seharusnya merakyat",
+      "translation": "People's representatives should be people",
+      "start_ms": 359680,
+      "end_ms": 367719
+    },
+    {
+      "line_number": 50,
+      "original": "Jangan tidur waktu sidang soal rakyat",
+      "translation": "Don't sleep during the hearing on people's matters",
+      "start_ms": 367720,
+      "end_ms": 376819
+    },
+    {
+      "line_number": 51,
+      "original": "Bukan paduan suara",
+      "translation": "Not a chorus",
+      "start_ms": 376820,
+      "end_ms": 382629
+    },
+    {
+      "line_number": 52,
+      "original": "Hanya tahu nyanyian lagu \"setuju\"",
+      "translation": "Only know the song \"agree\"",
+      "start_ms": 382630,
+      "end_ms": null
+    }
+  ]
+}

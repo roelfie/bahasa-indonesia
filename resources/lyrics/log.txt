@@ -1,0 +1,74 @@
+bahasa-indonesia/resources > ./fetch-lyrics-translations.py playlists/Indo_songs_-_Level_1.json
+  ok    63aIxMhj5WU6yJSxT7zxEA  Surat Buat Wakil Rakyat  -> lyrics/63aIxMhj5WU6yJSxT7zxEA.json
+  ok    5NYJ8Fpnm3Ci1KsGeOjCt6  Mata Indah Bola Pingpong  -> lyrics/5NYJ8Fpnm3Ci1KsGeOjCt6.json
+  ok    6F4uuhNt7MoUR1WShGTIPZ  Ibu  -> lyrics/6F4uuhNt7MoUR1WShGTIPZ.json
+  ok    10Ayaoo1seNMwAkpVZHBw0  Bongkar  -> lyrics/10Ayaoo1seNMwAkpVZHBw0.json
+  ok    1Kkp5F8GGg9GJzM8q5m926  Sumbang  -> lyrics/1Kkp5F8GGg9GJzM8q5m926.json
+  ok    7obj53PDpxszVdU35jVv5P  Yang Terlupakan  -> lyrics/7obj53PDpxszVdU35jVv5P.json
+  ok    37bUwSDxpbB2SrMM01c7Gy  Do'a Pengobral Dosa  -> lyrics/37bUwSDxpbB2SrMM01c7Gy.json
+  ok    7sMeJTsyGJpKBJ3qQujdSn  Buku Ini Aku Pinjam  -> lyrics/7sMeJTsyGJpKBJ3qQujdSn.json
+  ok    4c8hqj5IgGtoCzsny5xQnj  Sarjana Muda  -> lyrics/4c8hqj5IgGtoCzsny5xQnj.json
+  ok    31rKSgJqmVVP3p0sYj33ls  Aku Bukan Pilihan  -> lyrics/31rKSgJqmVVP3p0sYj33ls.json
+  ok    5OmWxlD2WFRqhGOsUejGLk  Berita Kepada Kawan  -> lyrics/5OmWxlD2WFRqhGOsUejGLk.json
+  ok    1IWvQe9F9Bw8jv9OLJXva2  Untuk Kita Renungkan  -> lyrics/1IWvQe9F9Bw8jv9OLJXva2.json
+  ok    5z8IzlkE8yrKBX00abw4YM  Masih Ada Waktu  -> lyrics/5z8IzlkE8yrKBX00abw4YM.json
+  ok    02KcTdiHqnNMgBLlbS7mhc  Camellia 1  -> lyrics/02KcTdiHqnNMgBLlbS7mhc.json
+  ok    5Ev6hM9I5EsGyUUureSKv6  Kupu - Kupu Kertas  -> lyrics/5Ev6hM9I5EsGyUUureSKv6.json
+  ok    7rP5alON4A5p9TF6n4qTrg  Elegi Esok Pagi  -> lyrics/7rP5alON4A5p9TF6n4qTrg.json
+  ok    01ZSqPoUzcJrRAH57EFVT5  Titip Rindu Buat Ayah  -> lyrics/01ZSqPoUzcJrRAH57EFVT5.json
+  ok    6bEPO5pVW72lcHq9W26Ruo  Cinta Sebening Embun  -> lyrics/6bEPO5pVW72lcHq9W26Ruo.json
+  ok    01nS2NPPNsGOS0EJbTUDiS  Seraut Wajah  -> lyrics/01nS2NPPNsGOS0EJbTUDiS.json
+  ok    4Guc4Epn4ZzeJlfEobL7wi  Yogyakarta  -> lyrics/4Guc4Epn4ZzeJlfEobL7wi.json
+  ok    5fJz517lST3WI1vYcex7cX  Tentang Kita  -> lyrics/5fJz517lST3WI1vYcex7cX.json
+  ok    3sRia9gRwp8yAh2uYL9dYT  Tak Bisa Ke Lain Hati  -> lyrics/3sRia9gRwp8yAh2uYL9dYT.json
+  ok    6XljlXVa4RwDlmSRalfhF8  Belahan Jiwa  -> lyrics/6XljlXVa4RwDlmSRalfhF8.json
+  fail  2kh9tYK327sXPVMdoXU6JE  Romansa  (translation failed at line 7: 'Tanpa suara berbincang')
+  fail  659X27icQor3zlvID8l9qo  Satu Kayuh Berdua  (translation failed at line 5: 'Ingin dengar candamu, di telepon bicara')
+  ok    3cd6P3khTJMqwwc14W25HM  Prahara  -> lyrics/3cd6P3khTJMqwwc14W25HM.json
+  ok    4Dn5UlASnXcq1Bc95DqbWT  Menjemput Impian  -> lyrics/4Dn5UlASnXcq1Bc95DqbWT.json
+  ok    1sjWFctD14b2KrmiQxkk1I  Terpuruk Ku Disini  -> lyrics/1sjWFctD14b2KrmiQxkk1I.json
+  ok    6dQbc9L1mxL6IYGAaeHD0n  Waktu Tersisa (Klakustik)  -> lyrics/6dQbc9L1mxL6IYGAaeHD0n.json
+
+Done: 27 written, 0 skipped, 2 failed -> bahasa-indonesia/resources/lyrics
+
+
+bahasa-indonesia/resources > ./fetch-lyrics-translations.py playlists/Indo_songs_-_Level_2.json
+  ok    3nbfNH566ap56cwEZPq7SG  Ruang Rindu  -> lyrics/3nbfNH566ap56cwEZPq7SG.json
+  fail  1NNfSNBamcdUvcGoLdk4A1  Sandaran Hati  (translation failed at line 32: 'Malam hariku')
+  ok    52vY3fQNyeFNZwQRwSRpn6  Sampai Nanti, Sampai Mati  -> lyrics/52vY3fQNyeFNZwQRwSRpn6.json
+  ok    4RNarEqttGwKqCXKVaaMmS  Lubang Di Hati  -> lyrics/4RNarEqttGwKqCXKVaaMmS.json
+  ok    0flFRGl5wlgv7oMVsQ7xpd  Permintaan Hati  -> lyrics/0flFRGl5wlgv7oMVsQ7xpd.json
+  ok    4d9a2guKiiqegbbsTu5EaF  Putih  -> lyrics/4d9a2guKiiqegbbsTu5EaF.json
+  ok    0xBpUyL8GzcmBcX2lbGCgE  Jangan Menyerah  -> lyrics/0xBpUyL8GzcmBcX2lbGCgE.json
+  ok    3AAAGS7iM1ekDywqdYMJG2  Akad  -> lyrics/3AAAGS7iM1ekDywqdYMJG2.json
+  ok    1k5vv2ood14aa5uBYWBlWh  Resah  -> lyrics/1k5vv2ood14aa5uBYWBlWh.json
+  ok    7tZ69fC235bauF9Dyxk8Ps  Berdua Saja  -> lyrics/7tZ69fC235bauF9Dyxk8Ps.json
+  ok    43LZAANFvlIKMgcU4QiYBx  Angin Pujaan Hujan  -> lyrics/43LZAANFvlIKMgcU4QiYBx.json
+  ok    42ieuRE6r1tSyxDYnLFLWz  Untuk Perempuan Yang Sedang Dalam Pelukan (Live)  -> lyrics/42ieuRE6r1tSyxDYnLFLWz.json
+  ok    1MDVXlgY8Of2n2otw57hw0  Di Atas Meja  -> lyrics/1MDVXlgY8Of2n2otw57hw0.json
+  ok    6ctfCjsLBJfadmBH41SFkl  Menuju Senja  -> lyrics/6ctfCjsLBJfadmBH41SFkl.json
+  ok    1k8wWtaL30ncdF7Mrginys  Rahasia  -> lyrics/1k8wWtaL30ncdF7Mrginys.json
+  ok    1bY47m60kn2XMY1wedPhEW  Cerita Tentang Gunung Dan Laut (Live)  -> lyrics/1bY47m60kn2XMY1wedPhEW.json
+  ok    3y8RcMPYG22fRnrOi4oFJ1  Nanti Kita Seperti Ini  -> lyrics/3y8RcMPYG22fRnrOi4oFJ1.json
+  ok    2TRGNVokPnC2a2oHg5iv1H  Rumpang  -> lyrics/2TRGNVokPnC2a2oHg5iv1H.json
+  ok    630DpnzdfjdVqv2yLfPbAX  Bertaut  -> lyrics/630DpnzdfjdVqv2yLfPbAX.json
+  ok    3ymuBMTviroWLuf1jMsMVf  Sorai  -> lyrics/3ymuBMTviroWLuf1jMsMVf.json
+  ok    13CwOTXUgBugeBByE9oIWb  kota ini tak sama tanpamu  -> lyrics/13CwOTXUgBugeBByE9oIWb.json
+  ok    4rcuS31IcZynp91dqvmhmA  Semua Aku Dirayakan  -> lyrics/4rcuS31IcZynp91dqvmhmA.json
+  ok    0rLUj7vQq8PMkrKFM0Vd4H  Cahaya Di Langit Itu  -> lyrics/0rLUj7vQq8PMkrKFM0Vd4H.json
+  ok    0ladq2Y2KLksoxqWUzpB1G  seperti takdir kita yang tulis  -> lyrics/0ladq2Y2KLksoxqWUzpB1G.json
+  ok    6Dh1zHQjEaOp29VW9pp3xG  Taruh  -> lyrics/6Dh1zHQjEaOp29VW9pp3xG.json
+  ok    3FPlY1uqTe1oFfIgI0BnoA  Beranjak Dewasa  -> lyrics/3FPlY1uqTe1oFfIgI0BnoA.json
+
+Done: 25 written, 0 skipped, 1 failed -> bahasa-indonesia/resources/lyrics
+
+
+bahasa-indonesia/resources > ./fetch-lyrics-translations.py playlists/Indo_songs_-_Level_3.json
+  ok    1qHddOZ7pwtmOsw0RmlKFx  Takut  -> lyrics/1qHddOZ7pwtmOsw0RmlKFx.json
+  ok    3KcfLN50nMGR4uH1T0QVxL  Berakhir di Aku - Original Soundtrack From "Home Sweet Loan"  -> lyrics/3KcfLN50nMGR4uH1T0QVxL.json
+  ok    3d6BjQ0QOLTzuKoOQbeGgG  Satu-Satu  -> lyrics/3d6BjQ0QOLTzuKoOQbeGgG.json
+  ok    7eJvTUwpBP8ewtMnxcvSLz  Terpikat Senyummu  -> lyrics/7eJvTUwpBP8ewtMnxcvSLz.json
+  ok    64bauCjHAIiDNkcHiOJW1r  Sedia Aku Sebelum Hujan  -> lyrics/64bauCjHAIiDNkcHiOJW1r.json
+  fail  3gjp6i4k2Lau3ztkRRlUTs  North  (translation failed at line 28: 'Nona nona manis laki laki paling sexy')
+
+Done: 5 written, 0 skipped, 1 failed -> bahasa-indonesia/resources/lyrics

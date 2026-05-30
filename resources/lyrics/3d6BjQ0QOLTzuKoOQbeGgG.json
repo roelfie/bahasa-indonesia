@@ -1,0 +1,371 @@
+{
+  "track_id": "3d6BjQ0QOLTzuKoOQbeGgG",
+  "track_uri": "spotify:track:3d6BjQ0QOLTzuKoOQbeGgG",
+  "track_name": "Satu-Satu",
+  "album_name": "Mengudara",
+  "artist_names": "Idgitaf",
+  "duration_ms": 285071,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:51:33.515696+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Mata pernah melihat",
+      "translation": "Eyes have seen",
+      "start_ms": 10270,
+      "end_ms": 14549
+    },
+    {
+      "line_number": 2,
+      "original": "Telinga pernah mendengar",
+      "translation": "Ears have heard",
+      "start_ms": 14550,
+      "end_ms": 19669
+    },
+    {
+      "line_number": 3,
+      "original": "Badan pernah merasa",
+      "translation": "The body never feels",
+      "start_ms": 19670,
+      "end_ms": 23849
+    },
+    {
+      "line_number": 4,
+      "original": "Terekam jelas, seakan terjadi baru saja, hm-mm",
+      "translation": "It was recorded clearly, as if it had just happened, hm-mm",
+      "start_ms": 23850,
+      "end_ms": 34039
+    },
+    {
+      "line_number": 5,
+      "original": "Siapakah yang salah?",
+      "translation": "Who is at fault?",
+      "start_ms": 34040,
+      "end_ms": 39009
+    },
+    {
+      "line_number": 6,
+      "original": "Siapa yang tanggung jawab?",
+      "translation": "Who is responsible?",
+      "start_ms": 39010,
+      "end_ms": 43859
+    },
+    {
+      "line_number": 7,
+      "original": "Waktu terus berjalan",
+      "translation": "Time keeps running",
+      "start_ms": 43860,
+      "end_ms": 47709
+    },
+    {
+      "line_number": 8,
+      "original": "Terasa salah karena ada yang belum selesai, oh-oh-oh",
+      "translation": "It feels wrong because something isn't finished, oh-oh-oh",
+      "start_ms": 47710,
+      "end_ms": 58069
+    },
+    {
+      "line_number": 9,
+      "original": "Aku sudah tak marah",
+      "translation": "I'm not angry anymore",
+      "start_ms": 58070,
+      "end_ms": 62839
+    },
+    {
+      "line_number": 10,
+      "original": "Walau masih teringat",
+      "translation": "Even though I still remember",
+      "start_ms": 62840,
+      "end_ms": 67589
+    },
+    {
+      "line_number": 11,
+      "original": "Semua yang terjadi kemarin",
+      "translation": "Everything that happened yesterday",
+      "start_ms": 67590,
+      "end_ms": 72519
+    },
+    {
+      "line_number": 12,
+      "original": "Jadikanku yang hari ini",
+      "translation": "Make me who I am today",
+      "start_ms": 72520,
+      "end_ms": 77339
+    },
+    {
+      "line_number": 13,
+      "original": "Aku sudah tak benci",
+      "translation": "I don't hate it anymore",
+      "start_ms": 77340,
+      "end_ms": 82129
+    },
+    {
+      "line_number": 14,
+      "original": "Walau nyatanya merugi",
+      "translation": "Even though it actually makes a loss",
+      "start_ms": 82130,
+      "end_ms": 86919
+    },
+    {
+      "line_number": 15,
+      "original": "Terdengar tidaknya kata maaf",
+      "translation": "Whether you hear the word sorry or not",
+      "start_ms": 86920,
+      "end_ms": 91759
+    },
+    {
+      "line_number": 16,
+      "original": "Dada lapang terima semua",
+      "translation": "Have an open chest to accept it all",
+      "start_ms": 91760,
+      "end_ms": 98159
+    },
+    {
+      "line_number": 17,
+      "original": "Akan ada masa depan",
+      "translation": "There will be a future",
+      "start_ms": 98160,
+      "end_ms": 103159
+    },
+    {
+      "line_number": 18,
+      "original": "Bagi semua yang bertahan",
+      "translation": "For all who survive",
+      "start_ms": 103160,
+      "end_ms": 107619
+    },
+    {
+      "line_number": 19,
+      "original": "Duniaku pernah hancur",
+      "translation": "My world was destroyed",
+      "start_ms": 107620,
+      "end_ms": 112679
+    },
+    {
+      "line_number": 20,
+      "original": "Rangkai lagi satu-satu",
+      "translation": "Reassemble them one by one",
+      "start_ms": 112680,
+      "end_ms": 118219
+    },
+    {
+      "line_number": 21,
+      "original": "(Hu-hu-hu-hu-uh)",
+      "translation": "(Hu-hu-hu-hu-uh)",
+      "start_ms": 118220,
+      "end_ms": 122889
+    },
+    {
+      "line_number": 22,
+      "original": "(Hu-hu-hu-hu-uh)",
+      "translation": "(Hu-hu-hu-hu-uh)",
+      "start_ms": 122890,
+      "end_ms": 127629
+    },
+    {
+      "line_number": 23,
+      "original": "Tak semua 'kan paham",
+      "translation": "Not everyone understands",
+      "start_ms": 127630,
+      "end_ms": 131519
+    },
+    {
+      "line_number": 24,
+      "original": "Hm, dan tak semua katakan",
+      "translation": "Hm, and not all say",
+      "start_ms": 131520,
+      "end_ms": 136669
+    },
+    {
+      "line_number": 25,
+      "original": "Maaf, semua harus terjadi (pasti rasa sepi)",
+      "translation": "Sorry, everything had to happen (it must be lonely)",
+      "start_ms": 136670,
+      "end_ms": 141699
+    },
+    {
+      "line_number": 26,
+      "original": "Kini kau tak sendiri lagi (tak pendam lagi)",
+      "translation": "Now you're not alone anymore (no longer buried)",
+      "start_ms": 141700,
+      "end_ms": 146409
+    },
+    {
+      "line_number": 27,
+      "original": "Aku akan coba pahami, oh-oh",
+      "translation": "I'll try to understand, oh-oh",
+      "start_ms": 146410,
+      "end_ms": 151609
+    },
+    {
+      "line_number": 28,
+      "original": "Aku sudah tak marah",
+      "translation": "I'm not angry anymore",
+      "start_ms": 151610,
+      "end_ms": 156429
+    },
+    {
+      "line_number": 29,
+      "original": "Walau masih teringat",
+      "translation": "Even though I still remember",
+      "start_ms": 156430,
+      "end_ms": 161219
+    },
+    {
+      "line_number": 30,
+      "original": "Semua yang terjadi kemarin",
+      "translation": "Everything that happened yesterday",
+      "start_ms": 161220,
+      "end_ms": 166099
+    },
+    {
+      "line_number": 31,
+      "original": "Jadikanku yang hari ini",
+      "translation": "Make me who I am today",
+      "start_ms": 166100,
+      "end_ms": 170989
+    },
+    {
+      "line_number": 32,
+      "original": "Aku sudah tak benci",
+      "translation": "I don't hate it anymore",
+      "start_ms": 170990,
+      "end_ms": 175869
+    },
+    {
+      "line_number": 33,
+      "original": "Walau nyatanya merugi",
+      "translation": "Even though it actually makes a loss",
+      "start_ms": 175870,
+      "end_ms": 180559
+    },
+    {
+      "line_number": 34,
+      "original": "Terdengar tidaknya kata maaf",
+      "translation": "Whether you hear the word sorry or not",
+      "start_ms": 180560,
+      "end_ms": 185349
+    },
+    {
+      "line_number": 35,
+      "original": "Dada lapang terima semua",
+      "translation": "Have an open chest to accept it all",
+      "start_ms": 185350,
+      "end_ms": 191809
+    },
+    {
+      "line_number": 36,
+      "original": "Akan ada (akan ada)",
+      "translation": "There will be (there will be)",
+      "start_ms": 191810,
+      "end_ms": 194279
+    },
+    {
+      "line_number": 37,
+      "original": "Masa depan (masa depan)",
+      "translation": "Future (future)",
+      "start_ms": 194280,
+      "end_ms": 196609
+    },
+    {
+      "line_number": 38,
+      "original": "Bagi semua yang bertahan",
+      "translation": "For all who survive",
+      "start_ms": 196610,
+      "end_ms": 201429
+    },
+    {
+      "line_number": 39,
+      "original": "Duniaku pernah hancur",
+      "translation": "My world was destroyed",
+      "start_ms": 201430,
+      "end_ms": 206249
+    },
+    {
+      "line_number": 40,
+      "original": "Rangkai lagi satu-satu",
+      "translation": "Reassemble them one by one",
+      "start_ms": 206250,
+      "end_ms": 230249
+    },
+    {
+      "line_number": 41,
+      "original": "Akan ada (akan ada)",
+      "translation": "There will be (there will be)",
+      "start_ms": 230250,
+      "end_ms": 232609
+    },
+    {
+      "line_number": 42,
+      "original": "Masa depan (masa depan)",
+      "translation": "Future (future)",
+      "start_ms": 232610,
+      "end_ms": 235049
+    },
+    {
+      "line_number": 43,
+      "original": "Bagi semua yang bertahan",
+      "translation": "For all who survive",
+      "start_ms": 235050,
+      "end_ms": 239779
+    },
+    {
+      "line_number": 44,
+      "original": "Duniaku pernah hancur",
+      "translation": "My world was destroyed",
+      "start_ms": 239780,
+      "end_ms": 244529
+    },
+    {
+      "line_number": 45,
+      "original": "Rangkai lagi satu-satu, ho-oh",
+      "translation": "Put them together again, ho-oh",
+      "start_ms": 244530,
+      "end_ms": 249469
+    },
+    {
+      "line_number": 46,
+      "original": "(Akan ada masa depan)",
+      "translation": "(There will be a future)",
+      "start_ms": 249470,
+      "end_ms": 254249
+    },
+    {
+      "line_number": 47,
+      "original": "(Bagi semua yang bertahan) akan ada masa depan",
+      "translation": "(For all who survive) there will be a future",
+      "start_ms": 254250,
+      "end_ms": 258989
+    },
+    {
+      "line_number": 48,
+      "original": "(Duniaku pernah hancur)",
+      "translation": "(My world was destroyed)",
+      "start_ms": 258990,
+      "end_ms": 263819
+    },
+    {
+      "line_number": 49,
+      "original": "Rangkai lagi satu-satu (satu-satu), hu-uh",
+      "translation": "Put them together again one by one (one by one), hu-uh",
+      "start_ms": 263820,
+      "end_ms": 268659
+    },
+    {
+      "line_number": 50,
+      "original": "Rangkai lagi satu-satu",
+      "translation": "Reassemble them one by one",
+      "start_ms": 268660,
+      "end_ms": 273579
+    },
+    {
+      "line_number": 51,
+      "original": "Rangkai lagi satu-satu",
+      "translation": "Reassemble them one by one",
+      "start_ms": 273580,
+      "end_ms": null
+    }
+  ]
+}

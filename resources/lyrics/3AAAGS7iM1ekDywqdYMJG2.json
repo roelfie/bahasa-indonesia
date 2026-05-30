@@ -1,0 +1,259 @@
+{
+  "track_id": "3AAAGS7iM1ekDywqdYMJG2",
+  "track_uri": "spotify:track:3AAAGS7iM1ekDywqdYMJG2",
+  "track_name": "Akad",
+  "album_name": "Ruang Tunggu",
+  "artist_names": "Payung Teduh",
+  "duration_ms": 258281,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:12:48.126274+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Betapa bahagianya hatiku",
+      "translation": "How happy my heart is",
+      "start_ms": 11820,
+      "end_ms": 15529
+    },
+    {
+      "line_number": 2,
+      "original": "Saat ku duduk berdua denganmu",
+      "translation": "When I sit alone with you",
+      "start_ms": 15530,
+      "end_ms": 21879
+    },
+    {
+      "line_number": 3,
+      "original": "Berjalan bersamamu",
+      "translation": "Walk with you",
+      "start_ms": 21880,
+      "end_ms": 27349
+    },
+    {
+      "line_number": 4,
+      "original": "Menarilah denganku",
+      "translation": "Dance with me",
+      "start_ms": 27350,
+      "end_ms": 32639
+    },
+    {
+      "line_number": 5,
+      "original": "Namun, bila hari ini adalah yang terakhir",
+      "translation": "However, if today is the last",
+      "start_ms": 32640,
+      "end_ms": 37199
+    },
+    {
+      "line_number": 6,
+      "original": "Namun, ku tetap bahagia",
+      "translation": "However, I'm still happy",
+      "start_ms": 37200,
+      "end_ms": 43189
+    },
+    {
+      "line_number": 7,
+      "original": "Selalu kusyukuri",
+      "translation": "Always grateful",
+      "start_ms": 43190,
+      "end_ms": 48319
+    },
+    {
+      "line_number": 8,
+      "original": "Begitulah adanya",
+      "translation": "That's how it is",
+      "start_ms": 48320,
+      "end_ms": 53779
+    },
+    {
+      "line_number": 9,
+      "original": "Namun, bila kau ingin sendiri",
+      "translation": "However, if you want to be alone",
+      "start_ms": 53780,
+      "end_ms": 58749
+    },
+    {
+      "line_number": 10,
+      "original": "Cepat, cepatlah sampaikan kepadaku",
+      "translation": "Hurry, hurry and tell me",
+      "start_ms": 58750,
+      "end_ms": 63119
+    },
+    {
+      "line_number": 11,
+      "original": "Agar ku tak berharap",
+      "translation": "So that I don't hope",
+      "start_ms": 63120,
+      "end_ms": 68109
+    },
+    {
+      "line_number": 12,
+      "original": "Dan buat kau bersedih",
+      "translation": "And make you sad",
+      "start_ms": 68110,
+      "end_ms": 74329
+    },
+    {
+      "line_number": 13,
+      "original": "Bila nanti saatnya t'lah tiba",
+      "translation": "When the time comes",
+      "start_ms": 74330,
+      "end_ms": 79489
+    },
+    {
+      "line_number": 14,
+      "original": "Ku ingin kau menjadi istriku",
+      "translation": "I want you to be my wife",
+      "start_ms": 79490,
+      "end_ms": 84969
+    },
+    {
+      "line_number": 15,
+      "original": "Berjalan bersamamu dalam terik dan hujan",
+      "translation": "Walk with you in the heat and rain",
+      "start_ms": 84970,
+      "end_ms": 90049
+    },
+    {
+      "line_number": 16,
+      "original": "Berlarian ke sana, kemari, dan tertawa",
+      "translation": "Running here and there and laughing",
+      "start_ms": 90050,
+      "end_ms": 95339
+    },
+    {
+      "line_number": 17,
+      "original": "Namun, bila saat berpisah t'lah tiba",
+      "translation": "However, when the time to part has come",
+      "start_ms": 95340,
+      "end_ms": 100509
+    },
+    {
+      "line_number": 18,
+      "original": "Izinkan ku menjaga dirimu",
+      "translation": "Let me take care of you",
+      "start_ms": 100510,
+      "end_ms": 105749
+    },
+    {
+      "line_number": 19,
+      "original": "Berdua menikmati pelukan di ujung waktu",
+      "translation": "The two of them enjoyed a hug at the end of time",
+      "start_ms": 105750,
+      "end_ms": 111199
+    },
+    {
+      "line_number": 20,
+      "original": "Sudilah kau temani diriku",
+      "translation": "Please accompany me",
+      "start_ms": 111200,
+      "end_ms": 166779
+    },
+    {
+      "line_number": 21,
+      "original": "Namun, bila kau ingin sendiri",
+      "translation": "However, if you want to be alone",
+      "start_ms": 166780,
+      "end_ms": 171559
+    },
+    {
+      "line_number": 22,
+      "original": "Cepat, cepatlah sampaikan kepadaku",
+      "translation": "Hurry, hurry and tell me",
+      "start_ms": 171560,
+      "end_ms": 176079
+    },
+    {
+      "line_number": 23,
+      "original": "Agar ku tak berharap",
+      "translation": "So that I don't hope",
+      "start_ms": 176080,
+      "end_ms": 180939
+    },
+    {
+      "line_number": 24,
+      "original": "Dan buat kau bersedih",
+      "translation": "And make you sad",
+      "start_ms": 180940,
+      "end_ms": 187479
+    },
+    {
+      "line_number": 25,
+      "original": "Bila nanti saatnya t'lah tiba",
+      "translation": "When the time comes",
+      "start_ms": 187480,
+      "end_ms": 192519
+    },
+    {
+      "line_number": 26,
+      "original": "Ku ingin kau menjadi istriku",
+      "translation": "I want you to be my wife",
+      "start_ms": 192520,
+      "end_ms": 197849
+    },
+    {
+      "line_number": 27,
+      "original": "Berjalan bersamamu dalam terik dan hujan",
+      "translation": "Walk with you in the heat and rain",
+      "start_ms": 197850,
+      "end_ms": 203059
+    },
+    {
+      "line_number": 28,
+      "original": "Berlarian ke sana, kemari, dan tertawa",
+      "translation": "Running here and there and laughing",
+      "start_ms": 203060,
+      "end_ms": 208109
+    },
+    {
+      "line_number": 29,
+      "original": "Namun, bila saat berpisah t'lah tiba",
+      "translation": "However, when the time to part has come",
+      "start_ms": 208110,
+      "end_ms": 213649
+    },
+    {
+      "line_number": 30,
+      "original": "Izinkan ku menjaga dirimu",
+      "translation": "Let me take care of you",
+      "start_ms": 213650,
+      "end_ms": 218849
+    },
+    {
+      "line_number": 31,
+      "original": "Berdua menikmati pelukan di ujung waktu",
+      "translation": "The two of them enjoyed a hug at the end of time",
+      "start_ms": 218850,
+      "end_ms": 223929
+    },
+    {
+      "line_number": 32,
+      "original": "Sudilah kau temani diriku",
+      "translation": "Please accompany me",
+      "start_ms": 223930,
+      "end_ms": 229579
+    },
+    {
+      "line_number": 33,
+      "original": "Sudilah kau menjadi temanku",
+      "translation": "Please be my friend",
+      "start_ms": 229580,
+      "end_ms": 234739
+    },
+    {
+      "line_number": 34,
+      "original": "Sudilah kau menjadi",
+      "translation": "Be willing to be",
+      "start_ms": 234740,
+      "end_ms": 239789
+    },
+    {
+      "line_number": 35,
+      "original": "Istriku",
+      "translation": "My wife",
+      "start_ms": 239790,
+      "end_ms": null
+    }
+  ]
+}

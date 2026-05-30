@@ -1,0 +1,434 @@
+{
+  "track_id": "1qHddOZ7pwtmOsw0RmlKFx",
+  "track_uri": "spotify:track:1qHddOZ7pwtmOsw0RmlKFx",
+  "track_name": "Takut",
+  "album_name": "Takut",
+  "artist_names": "Idgitaf",
+  "duration_ms": 319700,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:50:43.031207+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Sudah di kepala dua",
+      "translation": "It's already in two heads",
+      "start_ms": 17510,
+      "end_ms": 23419
+    },
+    {
+      "line_number": 2,
+      "original": "Harus mulai dari mana?",
+      "translation": "Where to start?",
+      "start_ms": 23420,
+      "end_ms": 29299
+    },
+    {
+      "line_number": 3,
+      "original": "Ambisiku bergejolak, antusias tak karuan",
+      "translation": "My ambition was volatile, my enthusiasm was incoherent",
+      "start_ms": 29300,
+      "end_ms": 35329
+    },
+    {
+      "line_number": 4,
+      "original": "Banyak mimpi-mimpi yang 'kan kukejar",
+      "translation": "There are many dreams that I will chase",
+      "start_ms": 35330,
+      "end_ms": 41449
+    },
+    {
+      "line_number": 5,
+      "original": "Lika-liku perjalanan",
+      "translation": "The twists and turns of the journey",
+      "start_ms": 41450,
+      "end_ms": 47299
+    },
+    {
+      "line_number": 6,
+      "original": "Ku terjebak sendirian",
+      "translation": "I'm trapped alone",
+      "start_ms": 47300,
+      "end_ms": 53019
+    },
+    {
+      "line_number": 7,
+      "original": "Tumbuh dari kebaikan, bangkit dari kesalahan",
+      "translation": "Grow from goodness, rise from mistakes",
+      "start_ms": 53020,
+      "end_ms": 58919
+    },
+    {
+      "line_number": 8,
+      "original": "Berusaha pendamkan kenyataan bahwa",
+      "translation": "Trying to bury the fact that",
+      "start_ms": 58920,
+      "end_ms": 65549
+    },
+    {
+      "line_number": 9,
+      "original": "Takut tambah dewasa",
+      "translation": "Afraid of growing up",
+      "start_ms": 65550,
+      "end_ms": 68419
+    },
+    {
+      "line_number": 10,
+      "original": "Takut aku kecewa",
+      "translation": "I'm afraid I'll be disappointed",
+      "start_ms": 68420,
+      "end_ms": 71359
+    },
+    {
+      "line_number": 11,
+      "original": "Takut tak seindah yang kukira",
+      "translation": "I'm afraid it's not as beautiful as I thought",
+      "start_ms": 71360,
+      "end_ms": 77399
+    },
+    {
+      "line_number": 12,
+      "original": "Takut tambah dewasa",
+      "translation": "Afraid of growing up",
+      "start_ms": 77400,
+      "end_ms": 80389
+    },
+    {
+      "line_number": 13,
+      "original": "Takut aku kecewa",
+      "translation": "I'm afraid I'll be disappointed",
+      "start_ms": 80390,
+      "end_ms": 83249
+    },
+    {
+      "line_number": 14,
+      "original": "Takut tak sekuat yang kukira",
+      "translation": "Fear is not as strong as I thought",
+      "start_ms": 83250,
+      "end_ms": 88779
+    },
+    {
+      "line_number": 15,
+      "original": "Aku tetap bernafas",
+      "translation": "I'm still breathing",
+      "start_ms": 88780,
+      "end_ms": 91889
+    },
+    {
+      "line_number": 16,
+      "original": "Meski sering tercekat",
+      "translation": "Even though I often get choked up",
+      "start_ms": 91890,
+      "end_ms": 94649
+    },
+    {
+      "line_number": 17,
+      "original": "Aku tetap bernafas",
+      "translation": "I'm still breathing",
+      "start_ms": 94650,
+      "end_ms": 97939
+    },
+    {
+      "line_number": 18,
+      "original": "Meski aku tak merasa bebas",
+      "translation": "Even though I don't feel free",
+      "start_ms": 97940,
+      "end_ms": 113439
+    },
+    {
+      "line_number": 19,
+      "original": "Pertengahan 25",
+      "translation": "Mid 25",
+      "start_ms": 113440,
+      "end_ms": 119439
+    },
+    {
+      "line_number": 20,
+      "original": "Selanjutnya bagaimana?",
+      "translation": "What next?",
+      "start_ms": 119440,
+      "end_ms": 124839
+    },
+    {
+      "line_number": 21,
+      "original": "Banyak mimpi yang terkubur, mengorbankan waktu tidur",
+      "translation": "Many dreams are buried, sacrificing sleep time",
+      "start_ms": 124840,
+      "end_ms": 130879
+    },
+    {
+      "line_number": 22,
+      "original": "Ku tak tahu apa lagi yang 'kan kukejar",
+      "translation": "I don't know what else I'm after",
+      "start_ms": 130880,
+      "end_ms": 137439
+    },
+    {
+      "line_number": 23,
+      "original": "Takut tambah dewasa",
+      "translation": "Afraid of growing up",
+      "start_ms": 137440,
+      "end_ms": 140309
+    },
+    {
+      "line_number": 24,
+      "original": "Takut aku kecewa",
+      "translation": "I'm afraid I'll be disappointed",
+      "start_ms": 140310,
+      "end_ms": 143269
+    },
+    {
+      "line_number": 25,
+      "original": "Takut tak seindah yang kukira",
+      "translation": "I'm afraid it's not as beautiful as I thought",
+      "start_ms": 143270,
+      "end_ms": 149219
+    },
+    {
+      "line_number": 26,
+      "original": "Takut tambah dewasa",
+      "translation": "Afraid of growing up",
+      "start_ms": 149220,
+      "end_ms": 152429
+    },
+    {
+      "line_number": 27,
+      "original": "Takut aku kecewa",
+      "translation": "I'm afraid I'll be disappointed",
+      "start_ms": 152430,
+      "end_ms": 155439
+    },
+    {
+      "line_number": 28,
+      "original": "Takut tak sekuat yang kukira",
+      "translation": "Fear is not as strong as I thought",
+      "start_ms": 155440,
+      "end_ms": 160869
+    },
+    {
+      "line_number": 29,
+      "original": "Aku tetap bernafas",
+      "translation": "I'm still breathing",
+      "start_ms": 160870,
+      "end_ms": 163969
+    },
+    {
+      "line_number": 30,
+      "original": "Meski sering tercekat",
+      "translation": "Even though I often get choked up",
+      "start_ms": 163970,
+      "end_ms": 166589
+    },
+    {
+      "line_number": 31,
+      "original": "Aku tetap bernafas",
+      "translation": "I'm still breathing",
+      "start_ms": 166590,
+      "end_ms": 169879
+    },
+    {
+      "line_number": 32,
+      "original": "Meski aku tak merasa bebas, ho-oh-ho-oh",
+      "translation": "Even though I don't feel free, ho-oh-ho-oh",
+      "start_ms": 169880,
+      "end_ms": 179219
+    },
+    {
+      "line_number": 33,
+      "original": "Maaf jika",
+      "translation": "Sorry if",
+      "start_ms": 179220,
+      "end_ms": 181819
+    },
+    {
+      "line_number": 34,
+      "original": "Belum seturut yang dipinta",
+      "translation": "Not yet as requested",
+      "start_ms": 181820,
+      "end_ms": 191179
+    },
+    {
+      "line_number": 35,
+      "original": "Maaf jika",
+      "translation": "Sorry if",
+      "start_ms": 191180,
+      "end_ms": 193979
+    },
+    {
+      "line_number": 36,
+      "original": "Seperti tak tahu arah",
+      "translation": "Like I don't know where to go",
+      "start_ms": 193980,
+      "end_ms": 203499
+    },
+    {
+      "line_number": 37,
+      "original": "Aku sudah dewasa",
+      "translation": "I'm an adult",
+      "start_ms": 203500,
+      "end_ms": 206299
+    },
+    {
+      "line_number": 38,
+      "original": "Aku sudah kecewa",
+      "translation": "I'm already disappointed",
+      "start_ms": 206300,
+      "end_ms": 209359
+    },
+    {
+      "line_number": 39,
+      "original": "Memang tak seindah yang kukira",
+      "translation": "It's not as beautiful as I thought",
+      "start_ms": 209360,
+      "end_ms": 214929
+    },
+    {
+      "line_number": 40,
+      "original": "Aku sudah dewasa",
+      "translation": "I'm an adult",
+      "start_ms": 214930,
+      "end_ms": 218559
+    },
+    {
+      "line_number": 41,
+      "original": "Aku sudah kecewa",
+      "translation": "I'm already disappointed",
+      "start_ms": 218560,
+      "end_ms": 221419
+    },
+    {
+      "line_number": 42,
+      "original": "Memang tak sekuat yang kukira",
+      "translation": "It's not as strong as I thought",
+      "start_ms": 221420,
+      "end_ms": 227149
+    },
+    {
+      "line_number": 43,
+      "original": "Aku tetap bernafas",
+      "translation": "I'm still breathing",
+      "start_ms": 227150,
+      "end_ms": 229849
+    },
+    {
+      "line_number": 44,
+      "original": "Meski sering tercekat",
+      "translation": "Even though I often get choked up",
+      "start_ms": 229850,
+      "end_ms": 232579
+    },
+    {
+      "line_number": 45,
+      "original": "Aku tetap bernafas",
+      "translation": "I'm still breathing",
+      "start_ms": 232580,
+      "end_ms": 235969
+    },
+    {
+      "line_number": 46,
+      "original": "Meski aku tak merasa bebas",
+      "translation": "Even though I don't feel free",
+      "start_ms": 235970,
+      "end_ms": 241459
+    },
+    {
+      "line_number": 47,
+      "original": "(Takut tambah dewasa) ho-uh",
+      "translation": "(Afraid of growing up) ho-uh",
+      "start_ms": 241460,
+      "end_ms": 242969
+    },
+    {
+      "line_number": 48,
+      "original": "(Takut aku kecewa)",
+      "translation": "(Afraid I'll be disappointed)",
+      "start_ms": 242970,
+      "end_ms": 245359
+    },
+    {
+      "line_number": 49,
+      "original": "(Takut tak seindah yang kukira) memang tak seindah yang kukira",
+      "translation": "(Afraid it won't be as beautiful as I thought) It's not as beautiful as I thought",
+      "start_ms": 245360,
+      "end_ms": 251919
+    },
+    {
+      "line_number": 50,
+      "original": "(Takut tambah dewasa)",
+      "translation": "(Afraid of getting older)",
+      "start_ms": 251920,
+      "end_ms": 254309
+    },
+    {
+      "line_number": 51,
+      "original": "(Takut aku kecewa)",
+      "translation": "(Afraid I'll be disappointed)",
+      "start_ms": 254310,
+      "end_ms": 257249
+    },
+    {
+      "line_number": 52,
+      "original": "Memang tak sekuat yang kukira",
+      "translation": "It's not as strong as I thought",
+      "start_ms": 257250,
+      "end_ms": 262839
+    },
+    {
+      "line_number": 53,
+      "original": "Engkau tetap bernafas",
+      "translation": "You are still breathing",
+      "start_ms": 262840,
+      "end_ms": 265879
+    },
+    {
+      "line_number": 54,
+      "original": "Meski sering tercekat",
+      "translation": "Even though I often get choked up",
+      "start_ms": 265880,
+      "end_ms": 268749
+    },
+    {
+      "line_number": 55,
+      "original": "Engkau tetap bernafas",
+      "translation": "You are still breathing",
+      "start_ms": 268750,
+      "end_ms": 271889
+    },
+    {
+      "line_number": 56,
+      "original": "Dan langkahmu 'kan terasa bebas",
+      "translation": "And your steps will feel free",
+      "start_ms": 271890,
+      "end_ms": 278319
+    },
+    {
+      "line_number": 57,
+      "original": "Dan hatimu 'kan terasa bebas",
+      "translation": "And your heart will feel free",
+      "start_ms": 278320,
+      "end_ms": 284079
+    },
+    {
+      "line_number": 58,
+      "original": "Dan jiwamu 'kan terasa bebas",
+      "translation": "And your soul will feel free",
+      "start_ms": 284080,
+      "end_ms": 293829
+    },
+    {
+      "line_number": 59,
+      "original": "Hm-hm-hm-hm-hm",
+      "translation": "Hm-hm-hm-hm-hm",
+      "start_ms": 293830,
+      "end_ms": 299879
+    },
+    {
+      "line_number": 60,
+      "original": "Hm-mm",
+      "translation": "Hm-mm",
+      "start_ms": 299880,
+      "end_ms": null
+    }
+  ]
+}

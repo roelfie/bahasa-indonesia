@@ -1,0 +1,322 @@
+{
+  "track_id": "7obj53PDpxszVdU35jVv5P",
+  "track_uri": "spotify:track:7obj53PDpxszVdU35jVv5P",
+  "track_name": "Yang Terlupakan",
+  "album_name": "Mata Dewa",
+  "artist_names": "Iwan Fals",
+  "duration_ms": 296193,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T20:59:47.231898+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Denting piano kala jemari menari",
+      "translation": "The piano tinkles as your fingers dance",
+      "start_ms": 25800,
+      "end_ms": 33289
+    },
+    {
+      "line_number": 2,
+      "original": "Nada merambat pelan di kesunyian malam",
+      "translation": "The sound creeps softly in the silence of the night",
+      "start_ms": 33290,
+      "end_ms": 40049
+    },
+    {
+      "line_number": 3,
+      "original": "Saat datang rintik hujan",
+      "translation": "When the rain comes",
+      "start_ms": 40050,
+      "end_ms": 45189
+    },
+    {
+      "line_number": 4,
+      "original": "Bersama sebuah bayang",
+      "translation": "With a shadow",
+      "start_ms": 45190,
+      "end_ms": 50639
+    },
+    {
+      "line_number": 5,
+      "original": "Yang pernah terlupakan",
+      "translation": "Which has been forgotten",
+      "start_ms": 50640,
+      "end_ms": 60889
+    },
+    {
+      "line_number": 6,
+      "original": "Hati kecil berbisik untuk kembali padanya",
+      "translation": "A small heart whispers to return to him",
+      "start_ms": 60890,
+      "end_ms": 67919
+    },
+    {
+      "line_number": 7,
+      "original": "S'ribu kata menggoda",
+      "translation": "A thousand words of teasing",
+      "start_ms": 67920,
+      "end_ms": 71859
+    },
+    {
+      "line_number": 8,
+      "original": "S'ribu sesal di depan mata",
+      "translation": "A thousand regrets before your eyes",
+      "start_ms": 71860,
+      "end_ms": 76049
+    },
+    {
+      "line_number": 9,
+      "original": "S'perti menjelma waktu aku tertawa",
+      "translation": "It's like it materializes when I laugh",
+      "start_ms": 76050,
+      "end_ms": 84869
+    },
+    {
+      "line_number": 10,
+      "original": "Kala memberimu dosa",
+      "translation": "When giving you sin",
+      "start_ms": 84870,
+      "end_ms": 93829
+    },
+    {
+      "line_number": 11,
+      "original": "(Na-na-na-na-na) oh, maafkanlah",
+      "translation": "(Na-na-na-na-na) oh, I'm sorry",
+      "start_ms": 93830,
+      "end_ms": 102049
+    },
+    {
+      "line_number": 12,
+      "original": "(Na-na-na-na-na) oh, maafkanlah",
+      "translation": "(Na-na-na-na-na) oh, I'm sorry",
+      "start_ms": 102050,
+      "end_ms": 112139
+    },
+    {
+      "line_number": 13,
+      "original": "Rasa sesal di dasar hati",
+      "translation": "Regret at the bottom of my heart",
+      "start_ms": 112140,
+      "end_ms": 115629
+    },
+    {
+      "line_number": 14,
+      "original": "Diam, tak mau pergi",
+      "translation": "Shut up, don't want to go",
+      "start_ms": 115630,
+      "end_ms": 119539
+    },
+    {
+      "line_number": 15,
+      "original": "Haruskah aku lari dari kenyataan ini?",
+      "translation": "Should I run away from this reality?",
+      "start_ms": 119540,
+      "end_ms": 126899
+    },
+    {
+      "line_number": 16,
+      "original": "Pernah ku mencoba 'tuk sembunyi",
+      "translation": "I once tried to hide",
+      "start_ms": 126900,
+      "end_ms": 133999
+    },
+    {
+      "line_number": 17,
+      "original": "Namun senyummu tetap mengikuti",
+      "translation": "But your smile still follows",
+      "start_ms": 134000,
+      "end_ms": 139319
+    },
+    {
+      "line_number": 18,
+      "original": "(La-la-la-la)",
+      "translation": "(La-la-la-la)",
+      "start_ms": 139320,
+      "end_ms": 146719
+    },
+    {
+      "line_number": 19,
+      "original": "(La-la-la-la)",
+      "translation": "(La-la-la-la)",
+      "start_ms": 146720,
+      "end_ms": 154429
+    },
+    {
+      "line_number": 20,
+      "original": "(La-la-la-la)",
+      "translation": "(La-la-la-la)",
+      "start_ms": 154430,
+      "end_ms": 161889
+    },
+    {
+      "line_number": 21,
+      "original": "(La-la-la-la)",
+      "translation": "(La-la-la-la)",
+      "start_ms": 161890,
+      "end_ms": 172589
+    },
+    {
+      "line_number": 22,
+      "original": "Hati kecil berbisik untuk kembali padanya",
+      "translation": "A small heart whispers to return to him",
+      "start_ms": 172590,
+      "end_ms": 179869
+    },
+    {
+      "line_number": 23,
+      "original": "S'ribu kata menggoda",
+      "translation": "A thousand words of teasing",
+      "start_ms": 179870,
+      "end_ms": 183549
+    },
+    {
+      "line_number": 24,
+      "original": "S'ribu sesal di depan mata",
+      "translation": "A thousand regrets before your eyes",
+      "start_ms": 183550,
+      "end_ms": 187409
+    },
+    {
+      "line_number": 25,
+      "original": "Seperti menjelma waktu aku tertawa",
+      "translation": "It's like it materializes when I laugh",
+      "start_ms": 187410,
+      "end_ms": 196929
+    },
+    {
+      "line_number": 26,
+      "original": "Kala memberimu dosa",
+      "translation": "When giving you sin",
+      "start_ms": 196930,
+      "end_ms": 208439
+    },
+    {
+      "line_number": 27,
+      "original": "Rasa sesal di dasar hati",
+      "translation": "Regret at the bottom of my heart",
+      "start_ms": 208440,
+      "end_ms": 212159
+    },
+    {
+      "line_number": 28,
+      "original": "Diam, tak mau pergi",
+      "translation": "Shut up, don't want to go",
+      "start_ms": 212160,
+      "end_ms": 216089
+    },
+    {
+      "line_number": 29,
+      "original": "Haruskah aku lari dari kenyataan ini?",
+      "translation": "Should I run away from this reality?",
+      "start_ms": 216090,
+      "end_ms": 223079
+    },
+    {
+      "line_number": 30,
+      "original": "Pernah ku mencoba 'tuk sembunyi",
+      "translation": "I once tried to hide",
+      "start_ms": 223080,
+      "end_ms": 230399
+    },
+    {
+      "line_number": 31,
+      "original": "Namun senyummu tetap mengikuti",
+      "translation": "But your smile still follows",
+      "start_ms": 230400,
+      "end_ms": 234589
+    },
+    {
+      "line_number": 32,
+      "original": "(Rasa sesal di dasar hati)",
+      "translation": "(Regret at the bottom of my heart)",
+      "start_ms": 234590,
+      "end_ms": 237969
+    },
+    {
+      "line_number": 33,
+      "original": "(Diam, tak mau pergi)",
+      "translation": "(Silence, don't want to leave)",
+      "start_ms": 237970,
+      "end_ms": 242039
+    },
+    {
+      "line_number": 34,
+      "original": "(Haruskah aku lari dari kenyataan ini?)",
+      "translation": "(Should I run away from this reality?)",
+      "start_ms": 242040,
+      "end_ms": 249289
+    },
+    {
+      "line_number": 35,
+      "original": "Pernah ku mencoba 'tuk sembunyi",
+      "translation": "I once tried to hide",
+      "start_ms": 249290,
+      "end_ms": 256589
+    },
+    {
+      "line_number": 36,
+      "original": "Namun senyummu tetap mengikuti",
+      "translation": "But your smile still follows",
+      "start_ms": 256590,
+      "end_ms": 260629
+    },
+    {
+      "line_number": 37,
+      "original": "(Rasa sesal di dasar hati)",
+      "translation": "(Regret at the bottom of my heart)",
+      "start_ms": 260630,
+      "end_ms": 264199
+    },
+    {
+      "line_number": 38,
+      "original": "(Diam, tak mau pergi)",
+      "translation": "(Silence, don't want to leave)",
+      "start_ms": 264200,
+      "end_ms": 268069
+    },
+    {
+      "line_number": 39,
+      "original": "(Haruskah aku lari dari kenyataan ini?)",
+      "translation": "(Should I run away from this reality?)",
+      "start_ms": 268070,
+      "end_ms": 275289
+    },
+    {
+      "line_number": 40,
+      "original": "Pernah ku mencoba 'tuk sembunyi",
+      "translation": "I once tried to hide",
+      "start_ms": 275290,
+      "end_ms": 282569
+    },
+    {
+      "line_number": 41,
+      "original": "Namun senyummu tetap mengikuti",
+      "translation": "But your smile still follows",
+      "start_ms": 282570,
+      "end_ms": 286899
+    },
+    {
+      "line_number": 42,
+      "original": "(Rasa sesal di dasar hati)",
+      "translation": "(Regret at the bottom of my heart)",
+      "start_ms": 286900,
+      "end_ms": 290149
+    },
+    {
+      "line_number": 43,
+      "original": "(Diam, tak mau pergi)",
+      "translation": "(Silence, don't want to leave)",
+      "start_ms": 290150,
+      "end_ms": 294099
+    },
+    {
+      "line_number": 44,
+      "original": "(Haruskah a...)",
+      "translation": "(Should a...)",
+      "start_ms": 294100,
+      "end_ms": null
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "track_id": "5NYJ8Fpnm3Ci1KsGeOjCt6",
+  "track_uri": "spotify:track:5NYJ8Fpnm3Ci1KsGeOjCt6",
+  "track_name": "Mata Indah Bola Pingpong",
+  "album_name": "Wakil Rakyat",
+  "artist_names": "Iwan Fals",
+  "duration_ms": 265264,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T20:57:56.514981+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Pria mana yang tak suka",
+      "translation": "What man doesn't like it",
+      "start_ms": 26820,
+      "end_ms": 30109
+    },
+    {
+      "line_number": 2,
+      "original": "Senyummu juwita",
+      "translation": "Your smile is beautiful",
+      "start_ms": 30110,
+      "end_ms": 33529
+    },
+    {
+      "line_number": 3,
+      "original": "Kalau ada yang tak suka",
+      "translation": "If someone doesn't like it",
+      "start_ms": 33530,
+      "end_ms": 36989
+    },
+    {
+      "line_number": 4,
+      "original": "Mungkin sedang goblok",
+      "translation": "Maybe you're stupid",
+      "start_ms": 36990,
+      "end_ms": 40479
+    },
+    {
+      "line_number": 5,
+      "original": "Engkau baik",
+      "translation": "You're good",
+      "start_ms": 40480,
+      "end_ms": 43549
+    },
+    {
+      "line_number": 6,
+      "original": "Engkau cantik",
+      "translation": "You're beautiful",
+      "start_ms": 43550,
+      "end_ms": 47039
+    },
+    {
+      "line_number": 7,
+      "original": "Kau wanita",
+      "translation": "You're a woman",
+      "start_ms": 47040,
+      "end_ms": 50409
+    },
+    {
+      "line_number": 8,
+      "original": "Aku cinta",
+      "translation": "I love",
+      "start_ms": 50410,
+      "end_ms": 53949
+    },
+    {
+      "line_number": 9,
+      "original": "Mata indah bola pingpong",
+      "translation": "Beautiful eyes of ping pong balls",
+      "start_ms": 53950,
+      "end_ms": 57299
+    },
+    {
+      "line_number": 10,
+      "original": "Masihkah kau kosong?",
+      "translation": "Are you still empty?",
+      "start_ms": 57300,
+      "end_ms": 60779
+    },
+    {
+      "line_number": 11,
+      "original": "Bolehkah aku membelai",
+      "translation": "Can I pet",
+      "start_ms": 60780,
+      "end_ms": 64159
+    },
+    {
+      "line_number": 12,
+      "original": "Hidungmu yang aduhai?",
+      "translation": "Is your nose awesome?",
+      "start_ms": 64160,
+      "end_ms": 67979
+    },
+    {
+      "line_number": 13,
+      "original": "Engkau baik",
+      "translation": "You're good",
+      "start_ms": 67980,
+      "end_ms": 70939
+    },
+    {
+      "line_number": 14,
+      "original": "Engkau cantik",
+      "translation": "You're beautiful",
+      "start_ms": 70940,
+      "end_ms": 74879
+    },
+    {
+      "line_number": 15,
+      "original": "Kau wanita",
+      "translation": "You're a woman",
+      "start_ms": 74880,
+      "end_ms": 78219
+    },
+    {
+      "line_number": 16,
+      "original": "Aku puja",
+      "translation": "I worship",
+      "start_ms": 78220,
+      "end_ms": 81749
+    },
+    {
+      "line_number": 17,
+      "original": "Jangan marah kalau kugoda",
+      "translation": "Don't be angry if I tease you",
+      "start_ms": 81750,
+      "end_ms": 85059
+    },
+    {
+      "line_number": 18,
+      "original": "Sebab pantas kau digoda",
+      "translation": "Because you deserve to be tempted",
+      "start_ms": 85060,
+      "end_ms": 88409
+    },
+    {
+      "line_number": 19,
+      "original": "Salah sendiri kau manis",
+      "translation": "It's your own fault you're cute",
+      "start_ms": 88410,
+      "end_ms": 91949
+    },
+    {
+      "line_number": 20,
+      "original": "Punya wajah teramat manis",
+      "translation": "Has a very sweet face",
+      "start_ms": 91950,
+      "end_ms": 95449
+    },
+    {
+      "line_number": 21,
+      "original": "Wajar saja kalau kuganggu",
+      "translation": "It's natural for me to bother you",
+      "start_ms": 95450,
+      "end_ms": 98529
+    },
+    {
+      "line_number": 22,
+      "original": "Sampai kapan pun kurindu",
+      "translation": "I will miss you forever",
+      "start_ms": 98530,
+      "end_ms": 102379
+    },
+    {
+      "line_number": 23,
+      "original": "Lepaskan tawamu, Nona",
+      "translation": "Let go of your laughter, Miss",
+      "start_ms": 102380,
+      "end_ms": 105539
+    },
+    {
+      "line_number": 24,
+      "original": "Agar tak murung dunia",
+      "translation": "So that the world is not gloomy",
+      "start_ms": 105540,
+      "end_ms": 142989
+    },
+    {
+      "line_number": 25,
+      "original": "Engkau baik",
+      "translation": "You're good",
+      "start_ms": 142990,
+      "end_ms": 153019
+    },
+    {
+      "line_number": 26,
+      "original": "Engkau cantik",
+      "translation": "You're beautiful",
+      "start_ms": 153020,
+      "end_ms": 156539
+    },
+    {
+      "line_number": 27,
+      "original": "Kau wanita",
+      "translation": "You're a woman",
+      "start_ms": 156540,
+      "end_ms": 160079
+    },
+    {
+      "line_number": 28,
+      "original": "Aku cinta",
+      "translation": "I love",
+      "start_ms": 160080,
+      "end_ms": 163549
+    },
+    {
+      "line_number": 29,
+      "original": "Aku puja",
+      "translation": "I worship",
+      "start_ms": 163550,
+      "end_ms": 166629
+    },
+    {
+      "line_number": 30,
+      "original": "Kau betina",
+      "translation": "You're female",
+      "start_ms": 166630,
+      "end_ms": 170329
+    },
+    {
+      "line_number": 31,
+      "original": "Bukan gombal",
+      "translation": "Not cheesy",
+      "start_ms": 170330,
+      "end_ms": 173579
+    },
+    {
+      "line_number": 32,
+      "original": "Aku yang gila",
+      "translation": "I'm the crazy one",
+      "start_ms": 173580,
+      "end_ms": 176949
+    },
+    {
+      "line_number": 33,
+      "original": "Jangan marah kalau kugoda",
+      "translation": "Don't be angry if I tease you",
+      "start_ms": 176950,
+      "end_ms": 180049
+    },
+    {
+      "line_number": 34,
+      "original": "Sebab pantas kau digoda",
+      "translation": "Because you deserve to be tempted",
+      "start_ms": 180050,
+      "end_ms": 183369
+    },
+    {
+      "line_number": 35,
+      "original": "Salah sendiri kau manis",
+      "translation": "It's your own fault you're cute",
+      "start_ms": 183370,
+      "end_ms": 186719
+    },
+    {
+      "line_number": 36,
+      "original": "Punya wajah teramat manis",
+      "translation": "Has a very sweet face",
+      "start_ms": 186720,
+      "end_ms": 190309
+    },
+    {
+      "line_number": 37,
+      "original": "Wajar saja kalau kuganggu",
+      "translation": "It's natural for me to bother you",
+      "start_ms": 190310,
+      "end_ms": 193409
+    },
+    {
+      "line_number": 38,
+      "original": "Biar mampus aku rindu",
+      "translation": "Let me die, I miss you",
+      "start_ms": 193410,
+      "end_ms": 197239
+    },
+    {
+      "line_number": 39,
+      "original": "Lepaskan tawamu, Nona",
+      "translation": "Let go of your laughter, Miss",
+      "start_ms": 197240,
+      "end_ms": 200359
+    },
+    {
+      "line_number": 40,
+      "original": "Agar tak murung dunia",
+      "translation": "So that the world is not gloomy",
+      "start_ms": 200360,
+      "end_ms": 206819
+    },
+    {
+      "line_number": 41,
+      "original": "Mata indah bola pingpong",
+      "translation": "Beautiful eyes of ping pong balls",
+      "start_ms": 206820,
+      "end_ms": 210119
+    },
+    {
+      "line_number": 42,
+      "original": "Masihkah kau kosong?",
+      "translation": "Are you still empty?",
+      "start_ms": 210120,
+      "end_ms": 213729
+    },
+    {
+      "line_number": 43,
+      "original": "Bolehkah aku membelai",
+      "translation": "Can I pet",
+      "start_ms": 213730,
+      "end_ms": 216909
+    },
+    {
+      "line_number": 44,
+      "original": "Hidungmu yang aduhai?",
+      "translation": "Is your nose awesome?",
+      "start_ms": 216910,
+      "end_ms": 220569
+    },
+    {
+      "line_number": 45,
+      "original": "Mata indah bola pingpong",
+      "translation": "Beautiful eyes of ping pong balls",
+      "start_ms": 220570,
+      "end_ms": 223619
+    },
+    {
+      "line_number": 46,
+      "original": "Masihkah kau kosong?",
+      "translation": "Are you still empty?",
+      "start_ms": 223620,
+      "end_ms": 227229
+    },
+    {
+      "line_number": 47,
+      "original": "Bolehkah aku membelai",
+      "translation": "Can I pet",
+      "start_ms": 227230,
+      "end_ms": 230729
+    },
+    {
+      "line_number": 48,
+      "original": "Bibirmu yang aduhai?",
+      "translation": "Your lips are fantastic?",
+      "start_ms": 230730,
+      "end_ms": 234279
+    },
+    {
+      "line_number": 49,
+      "original": "Mata indah bola pingpong",
+      "translation": "Beautiful eyes of ping pong balls",
+      "start_ms": 234280,
+      "end_ms": 237449
+    },
+    {
+      "line_number": 50,
+      "original": "Masihkah kau kosong?",
+      "translation": "Are you still empty?",
+      "start_ms": 237450,
+      "end_ms": 240389
+    },
+    {
+      "line_number": 51,
+      "original": "Bolehkah aku membelai",
+      "translation": "Can I pet",
+      "start_ms": 240390,
+      "end_ms": 244039
+    },
+    {
+      "line_number": 52,
+      "original": "Pipimu yang aduhai?",
+      "translation": "Your cheeks are fantastic?",
+      "start_ms": 244040,
+      "end_ms": 247589
+    },
+    {
+      "line_number": 53,
+      "original": "Mata indah bola pingpong",
+      "translation": "Beautiful eyes of ping pong balls",
+      "start_ms": 247590,
+      "end_ms": 250969
+    },
+    {
+      "line_number": 54,
+      "original": "Masihkah kau kosong?",
+      "translation": "Are you still empty?",
+      "start_ms": 250970,
+      "end_ms": 253979
+    },
+    {
+      "line_number": 55,
+      "original": "Bolehkah aku membelai",
+      "translation": "Can I pet",
+      "start_ms": 253980,
+      "end_ms": 257779
+    },
+    {
+      "line_number": 56,
+      "original": "Jidatmu yang aduhai?",
+      "translation": "Your forehead is fantastic?",
+      "start_ms": 257780,
+      "end_ms": null
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "track_id": "6XljlXVa4RwDlmSRalfhF8",
+  "track_uri": "spotify:track:6XljlXVa4RwDlmSRalfhF8",
+  "track_name": "Belahan Jiwa",
+  "album_name": "Pasir Putih",
+  "artist_names": "Kla Project",
+  "duration_ms": 332093,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:07:20.973313+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Membaca lagi surat-suratmu hatiku jatuh rindu",
+      "translation": "Reading your letters again makes my heart fall in love",
+      "start_ms": 37640,
+      "end_ms": 46199
+    },
+    {
+      "line_number": 2,
+      "original": "Tak sadar pada langit kamarku ku lukis kau di situ",
+      "translation": "Not realizing that on the ceiling of my room I painted you there",
+      "start_ms": 46200,
+      "end_ms": 55209
+    },
+    {
+      "line_number": 3,
+      "original": "Waktu yang berlalu dan jarak masih saja terentang",
+      "translation": "Time passes and distance still stretches",
+      "start_ms": 55210,
+      "end_ms": 64219
+    },
+    {
+      "line_number": 4,
+      "original": "Penamu bicara menembus ruang menyapa sukmaku",
+      "translation": "The speaker penetrates the room and greets my soul",
+      "start_ms": 64220,
+      "end_ms": 72829
+    },
+    {
+      "line_number": 5,
+      "original": "Mendesah lembut angin membawa butiran hati lara",
+      "translation": "The gentle sigh of the wind carries grains of pain in my heart",
+      "start_ms": 72830,
+      "end_ms": 81669
+    },
+    {
+      "line_number": 6,
+      "original": "Ternyata meraih kesempatan tak semudah ku sangka",
+      "translation": "It turns out that getting the opportunity is not as easy as I thought",
+      "start_ms": 81670,
+      "end_ms": 90789
+    },
+    {
+      "line_number": 7,
+      "original": "Kau setia menunggu lelaki kecil menantang hidup",
+      "translation": "You faithfully wait for the little man to challenge life",
+      "start_ms": 90790,
+      "end_ms": 99659
+    },
+    {
+      "line_number": 8,
+      "original": "Kau sertakan doa seolah mantra menjelma nafasku",
+      "translation": "You included a prayer as if a mantra became my breath",
+      "start_ms": 99660,
+      "end_ms": 108229
+    },
+    {
+      "line_number": 9,
+      "original": "Memendam tanya segera terucap",
+      "translation": "Buried questions immediately came out",
+      "start_ms": 108230,
+      "end_ms": 112369
+    },
+    {
+      "line_number": 10,
+      "original": "Belahan jiwa apa kabarmu",
+      "translation": "Soulmate how are you",
+      "start_ms": 112370,
+      "end_ms": 117339
+    },
+    {
+      "line_number": 11,
+      "original": "Ku harap selalu tetap kau jaga",
+      "translation": "I hope you always take care of it",
+      "start_ms": 117340,
+      "end_ms": 120859
+    },
+    {
+      "line_number": 12,
+      "original": "Tumbuhan cinta yang di ladang kita",
+      "translation": "Love plants in our fields",
+      "start_ms": 120860,
+      "end_ms": 143009
+    },
+    {
+      "line_number": 13,
+      "original": "Oh",
+      "translation": "Oh",
+      "start_ms": 143010,
+      "end_ms": 144549
+    },
+    {
+      "line_number": 14,
+      "original": "Kau setia menunggu lelaki kecil menantang hidup",
+      "translation": "You faithfully wait for the little man to challenge life",
+      "start_ms": 144550,
+      "end_ms": 153329
+    },
+    {
+      "line_number": 15,
+      "original": "Kau sertakan doa seolah mantra menjelma nafasku oh",
+      "translation": "You included a prayer as if a mantra became my breath oh",
+      "start_ms": 153330,
+      "end_ms": 161699
+    },
+    {
+      "line_number": 16,
+      "original": "Memendam tanya segera terucap",
+      "translation": "Buried questions immediately came out",
+      "start_ms": 161700,
+      "end_ms": 165649
+    },
+    {
+      "line_number": 17,
+      "original": "Belahan jiwa apa kabarmu",
+      "translation": "Soulmate how are you",
+      "start_ms": 165650,
+      "end_ms": 169009
+    },
+    {
+      "line_number": 18,
+      "original": "Apa kabarmu",
+      "translation": "How are you",
+      "start_ms": 169010,
+      "end_ms": 170609
+    },
+    {
+      "line_number": 19,
+      "original": "Ku harap selalu tetap kau jaga",
+      "translation": "I hope you always take care of it",
+      "start_ms": 170610,
+      "end_ms": 174569
+    },
+    {
+      "line_number": 20,
+      "original": "Tumbuhan cinta yang di ladang kita",
+      "translation": "Love plants in our fields",
+      "start_ms": 174570,
+      "end_ms": 178959
+    },
+    {
+      "line_number": 21,
+      "original": "Aku jauh di sini menggapai cita",
+      "translation": "I'm far away from achieving my goals",
+      "start_ms": 178960,
+      "end_ms": 187379
+    },
+    {
+      "line_number": 22,
+      "original": "Hingga satu saat nanti ku kan kembali oh",
+      "translation": "Until one day I'll be back oh",
+      "start_ms": 187380,
+      "end_ms": 199699
+    },
+    {
+      "line_number": 23,
+      "original": "Kan ku jemput dikau sang putri pada saatnya nanti",
+      "translation": "I'll pick you up the princess when the time comes",
+      "start_ms": 199700,
+      "end_ms": 208309
+    },
+    {
+      "line_number": 24,
+      "original": "Berkereta kencana ku bawa pergi tuju istana di sana ku bertahta",
+      "translation": "I took the carriage away to the palace where I reigned",
+      "start_ms": 208310,
+      "end_ms": 251979
+    },
+    {
+      "line_number": 25,
+      "original": "Memendam tanya segera terucap",
+      "translation": "Buried questions immediately came out",
+      "start_ms": 251980,
+      "end_ms": 256639
+    },
+    {
+      "line_number": 26,
+      "original": "Belahan jiwa apa kabarmu",
+      "translation": "Soulmate how are you",
+      "start_ms": 256640,
+      "end_ms": 261239
+    },
+    {
+      "line_number": 27,
+      "original": "Ku harap selalu tetap kau jaga",
+      "translation": "I hope you always take care of it",
+      "start_ms": 261240,
+      "end_ms": 265089
+    },
+    {
+      "line_number": 28,
+      "original": "Tumbuhan cinta yang di yang di ladang kita",
+      "translation": "Love plants in our fields",
+      "start_ms": 265090,
+      "end_ms": 270019
+    },
+    {
+      "line_number": 29,
+      "original": "Aku jauh di sini menggapai cita",
+      "translation": "I'm far away from achieving my goals",
+      "start_ms": 270020,
+      "end_ms": 278329
+    },
+    {
+      "line_number": 30,
+      "original": "Hingga satu saat nanti ku kan kembali oh",
+      "translation": "Until one day I'll be back oh",
+      "start_ms": 278330,
+      "end_ms": 295039
+    },
+    {
+      "line_number": 31,
+      "original": "Oh",
+      "translation": "Oh",
+      "start_ms": 295040,
+      "end_ms": 301029
+    },
+    {
+      "line_number": 32,
+      "original": "Suatu saat nanti ku kan kembali",
+      "translation": "Someday I'll come back",
+      "start_ms": 301030,
+      "end_ms": 314339
+    },
+    {
+      "line_number": 33,
+      "original": "Yeah hm oh",
+      "translation": "Yeah hm oh",
+      "start_ms": 314340,
+      "end_ms": 331509
+    },
+    {
+      "line_number": 34,
+      "original": "Apa kabarmu oh oh",
+      "translation": "How are you oh oh",
+      "start_ms": 331510,
+      "end_ms": null
+    }
+  ]
+}

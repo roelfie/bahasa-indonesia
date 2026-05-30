@@ -1,0 +1,280 @@
+{
+  "track_id": "4rcuS31IcZynp91dqvmhmA",
+  "track_uri": "spotify:track:4rcuS31IcZynp91dqvmhmA",
+  "track_name": "Semua Aku Dirayakan",
+  "album_name": "Untuk Dunia, Cinta, dan Kotornya",
+  "artist_names": "Nadin Amizah",
+  "duration_ms": 310625,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:18:49.673336+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "\"Terima kasih,\" katanya",
+      "translation": "\"Thank you,\" he said",
+      "start_ms": 22350,
+      "end_ms": 28129
+    },
+    {
+      "line_number": 2,
+      "original": "Semua aku dirayakan",
+      "translation": "All of me is celebrated",
+      "start_ms": 28130,
+      "end_ms": 34029
+    },
+    {
+      "line_number": 3,
+      "original": "\"Jangan menangis,\" ku dibuai",
+      "translation": "\"Don't cry,\" I lulled",
+      "start_ms": 34030,
+      "end_ms": 39679
+    },
+    {
+      "line_number": 4,
+      "original": "Sampai tenang",
+      "translation": "Until it calms down",
+      "start_ms": 39680,
+      "end_ms": 45949
+    },
+    {
+      "line_number": 5,
+      "original": "Diciumnya api marahku",
+      "translation": "He kissed the fire of my anger",
+      "start_ms": 45950,
+      "end_ms": 52049
+    },
+    {
+      "line_number": 6,
+      "original": "Ternyata kacau bisa luluh",
+      "translation": "It turns out that chaos can melt",
+      "start_ms": 52050,
+      "end_ms": 57869
+    },
+    {
+      "line_number": 7,
+      "original": "\"Jangan menangis,\" biar tenang",
+      "translation": "\"Don't cry,\" be calm",
+      "start_ms": 57870,
+      "end_ms": 63419
+    },
+    {
+      "line_number": 8,
+      "original": "Ku dibuai",
+      "translation": "I was lulled",
+      "start_ms": 63420,
+      "end_ms": 70809
+    },
+    {
+      "line_number": 9,
+      "original": "Jika malam datang",
+      "translation": "If night comes",
+      "start_ms": 70810,
+      "end_ms": 76709
+    },
+    {
+      "line_number": 10,
+      "original": "Dan takut menyerang",
+      "translation": "And afraid to attack",
+      "start_ms": 76710,
+      "end_ms": 82639
+    },
+    {
+      "line_number": 11,
+      "original": "Kaugenggam apa yang kuragukan",
+      "translation": "You grasp what I doubt",
+      "start_ms": 82640,
+      "end_ms": 94659
+    },
+    {
+      "line_number": 12,
+      "original": "Tiada yang bilang",
+      "translation": "Nobody said",
+      "start_ms": 94660,
+      "end_ms": 100419
+    },
+    {
+      "line_number": 13,
+      "original": "Badainya 'kan reda",
+      "translation": "The storm will subside",
+      "start_ms": 100420,
+      "end_ms": 105819
+    },
+    {
+      "line_number": 14,
+      "original": "Berhadapan dengan",
+      "translation": "Face to face",
+      "start_ms": 105820,
+      "end_ms": 108929
+    },
+    {
+      "line_number": 15,
+      "original": "Cahaya yang kerap membutakan, hu-uh-uh",
+      "translation": "Light that often blinds, hu-uh-uh",
+      "start_ms": 108930,
+      "end_ms": 117809
+    },
+    {
+      "line_number": 16,
+      "original": "Tiada yang bilang",
+      "translation": "Nobody said",
+      "start_ms": 117810,
+      "end_ms": 124169
+    },
+    {
+      "line_number": 17,
+      "original": "Jawaban 'kan datang",
+      "translation": "The answer will come",
+      "start_ms": 124170,
+      "end_ms": 129719
+    },
+    {
+      "line_number": 18,
+      "original": "Jauh dari seram",
+      "translation": "Far from scary",
+      "start_ms": 129720,
+      "end_ms": 132539
+    },
+    {
+      "line_number": 19,
+      "original": "Yang s'lama ini telah kubayangkan",
+      "translation": "What I've been imagining for a long time",
+      "start_ms": 132540,
+      "end_ms": 139329
+    },
+    {
+      "line_number": 20,
+      "original": "Semua aku dirayakan, hm-mm",
+      "translation": "All of me is celebrated, hm-mm",
+      "start_ms": 139330,
+      "end_ms": 179379
+    },
+    {
+      "line_number": 21,
+      "original": "Hatiku seberat dunia",
+      "translation": "My heart is as heavy as the world",
+      "start_ms": 179380,
+      "end_ms": 185049
+    },
+    {
+      "line_number": 22,
+      "original": "Semua bentuknya kaurayakan",
+      "translation": "You celebrate all forms",
+      "start_ms": 185050,
+      "end_ms": 191289
+    },
+    {
+      "line_number": 23,
+      "original": "Menangis pun kau penuh tenang",
+      "translation": "Even when you cry, you are calm",
+      "start_ms": 191290,
+      "end_ms": 196339
+    },
+    {
+      "line_number": 24,
+      "original": "Ku dibuai",
+      "translation": "I was lulled",
+      "start_ms": 196340,
+      "end_ms": 203689
+    },
+    {
+      "line_number": 25,
+      "original": "Jika malam datang",
+      "translation": "If night comes",
+      "start_ms": 203690,
+      "end_ms": 209669
+    },
+    {
+      "line_number": 26,
+      "original": "Dan takut menyerang",
+      "translation": "And afraid to attack",
+      "start_ms": 209670,
+      "end_ms": 215479
+    },
+    {
+      "line_number": 27,
+      "original": "Kaugenggam apa yang kuragukan",
+      "translation": "You grasp what I doubt",
+      "start_ms": 215480,
+      "end_ms": 223489
+    },
+    {
+      "line_number": 28,
+      "original": "Hu-wo-hu-uh-uh-uh, hu-uh-uh-uh",
+      "translation": "Hu-wo-hu-uh-uh-uh, hu-uh-uh-uh",
+      "start_ms": 223490,
+      "end_ms": 229699
+    },
+    {
+      "line_number": 29,
+      "original": "Hu-uh-uh",
+      "translation": "Hu-uh-uh",
+      "start_ms": 229700,
+      "end_ms": 239629
+    },
+    {
+      "line_number": 30,
+      "original": "Tiada yang bilang",
+      "translation": "Nobody said",
+      "start_ms": 239630,
+      "end_ms": 245569
+    },
+    {
+      "line_number": 31,
+      "original": "Badainya 'kan reda",
+      "translation": "The storm will subside",
+      "start_ms": 245570,
+      "end_ms": 251159
+    },
+    {
+      "line_number": 32,
+      "original": "Berhadapan dengan",
+      "translation": "Face to face",
+      "start_ms": 251160,
+      "end_ms": 254069
+    },
+    {
+      "line_number": 33,
+      "original": "Cahaya yang kerap membutakan, hu-uh-oh",
+      "translation": "Light that often blinds, hu-uh-oh",
+      "start_ms": 254070,
+      "end_ms": 263009
+    },
+    {
+      "line_number": 34,
+      "original": "Tiada yang bilang",
+      "translation": "Nobody said",
+      "start_ms": 263010,
+      "end_ms": 269239
+    },
+    {
+      "line_number": 35,
+      "original": "Jawaban 'kan datang",
+      "translation": "The answer will come",
+      "start_ms": 269240,
+      "end_ms": 274719
+    },
+    {
+      "line_number": 36,
+      "original": "Jauh dari seram",
+      "translation": "Far from scary",
+      "start_ms": 274720,
+      "end_ms": 277869
+    },
+    {
+      "line_number": 37,
+      "original": "Yang s'lama ini telah kubayangkan",
+      "translation": "What I've been imagining for a long time",
+      "start_ms": 277870,
+      "end_ms": 284309
+    },
+    {
+      "line_number": 38,
+      "original": "Semua aku dirayakan, hu-oh",
+      "translation": "All I celebrated, hu-oh",
+      "start_ms": 284310,
+      "end_ms": null
+    }
+  ]
+}

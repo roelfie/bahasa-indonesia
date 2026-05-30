@@ -1,0 +1,287 @@
+{
+  "track_id": "02KcTdiHqnNMgBLlbS7mhc",
+  "track_uri": "spotify:track:02KcTdiHqnNMgBLlbS7mhc",
+  "track_name": "Camellia 1",
+  "album_name": "Aku Ingin Pulang",
+  "artist_names": "Ebiet G. Ade",
+  "duration_ms": 272695,
+  "source_language": "id",
+  "target_language": "en",
+  "lyrics_source": "lrclib",
+  "fetched_at": "2026-05-30T21:03:36.363738+00:00",
+  "lines": [
+    {
+      "line_number": 1,
+      "original": "Dia, Camelia",
+      "translation": "She, Camelia",
+      "start_ms": 53390,
+      "end_ms": 61329
+    },
+    {
+      "line_number": 2,
+      "original": "Puisi dan pelitaku",
+      "translation": "My poetry and my lamp",
+      "start_ms": 61330,
+      "end_ms": 66519
+    },
+    {
+      "line_number": 3,
+      "original": "Kau sejuk seperti",
+      "translation": "You're cool like",
+      "start_ms": 66520,
+      "end_ms": 69269
+    },
+    {
+      "line_number": 4,
+      "original": "Titik embun membasah di daun jambu",
+      "translation": "Wet dewdrops on guava leaves",
+      "start_ms": 69270,
+      "end_ms": 74089
+    },
+    {
+      "line_number": 5,
+      "original": "Di pinggir kali yang bening",
+      "translation": "On the edge of a clear river",
+      "start_ms": 74090,
+      "end_ms": 84099
+    },
+    {
+      "line_number": 6,
+      "original": "Sayap-saayapmu kecil lincah berkepak",
+      "translation": "Your little wings flutter nimbly",
+      "start_ms": 84100,
+      "end_ms": 90109
+    },
+    {
+      "line_number": 7,
+      "original": "Seperti burung camar",
+      "translation": "Like seagulls",
+      "start_ms": 90110,
+      "end_ms": 93119
+    },
+    {
+      "line_number": 8,
+      "original": "Terbang mencari tiang sampan",
+      "translation": "Fly looking for the canoe pole",
+      "start_ms": 93120,
+      "end_ms": 100119
+    },
+    {
+      "line_number": 9,
+      "original": "Tempat berpijak kaki dengan pasti",
+      "translation": "A definite place to stand",
+      "start_ms": 100120,
+      "end_ms": 105499
+    },
+    {
+      "line_number": 10,
+      "original": "Mengarungi nasibmu",
+      "translation": "Navigate your fate",
+      "start_ms": 105500,
+      "end_ms": 108389
+    },
+    {
+      "line_number": 11,
+      "original": "Mengikuti arus air",
+      "translation": "Follow the water flow",
+      "start_ms": 108390,
+      "end_ms": 112259
+    },
+    {
+      "line_number": 12,
+      "original": "Berlari",
+      "translation": "Run",
+      "start_ms": 112260,
+      "end_ms": 129059
+    },
+    {
+      "line_number": 13,
+      "original": "Dia, Camelia",
+      "translation": "She, Camelia",
+      "start_ms": 129060,
+      "end_ms": 136539
+    },
+    {
+      "line_number": 14,
+      "original": "Engkaukah gadis itu?",
+      "translation": "Are you that girl?",
+      "start_ms": 136540,
+      "end_ms": 142109
+    },
+    {
+      "line_number": 15,
+      "original": "Yang selalu hadir",
+      "translation": "Who is always present",
+      "start_ms": 142110,
+      "end_ms": 144569
+    },
+    {
+      "line_number": 16,
+      "original": "Dalam mimpi-mimpi di setiap tidurku",
+      "translation": "In the dreams every time I sleep",
+      "start_ms": 144570,
+      "end_ms": 153419
+    },
+    {
+      "line_number": 17,
+      "original": "Datang untuk hati yang kering dan sepi",
+      "translation": "Come for the dry and lonely heart",
+      "start_ms": 153420,
+      "end_ms": 159019
+    },
+    {
+      "line_number": 18,
+      "original": "Agar bersemi lagi",
+      "translation": "To bloom again",
+      "start_ms": 159020,
+      "end_ms": 162339
+    },
+    {
+      "line_number": 19,
+      "original": "Hmm, bersemi lagi",
+      "translation": "Hmm, blooming again",
+      "start_ms": 162340,
+      "end_ms": 177639
+    },
+    {
+      "line_number": 20,
+      "original": "Kini datang mengisi hidup",
+      "translation": "Now comes to fill life",
+      "start_ms": 177640,
+      "end_ms": 180809
+    },
+    {
+      "line_number": 21,
+      "original": "Ulurkan mesra tanganmu",
+      "translation": "Extend your hand kindly",
+      "start_ms": 180810,
+      "end_ms": 184049
+    },
+    {
+      "line_number": 22,
+      "original": "Bergetaran rasa jiwaku",
+      "translation": "My soul trembles",
+      "start_ms": 184050,
+      "end_ms": 187179
+    },
+    {
+      "line_number": 23,
+      "original": "Menerima karuniamu",
+      "translation": "Receive your gift",
+      "start_ms": 187180,
+      "end_ms": 190429
+    },
+    {
+      "line_number": 24,
+      "original": "Camelia",
+      "translation": "Camellia",
+      "start_ms": 190430,
+      "end_ms": 193059
+    },
+    {
+      "line_number": 25,
+      "original": "Oh Camelia",
+      "translation": "Oh Camellia",
+      "start_ms": 193060,
+      "end_ms": 196649
+    },
+    {
+      "line_number": 26,
+      "original": "Camelia",
+      "translation": "Camellia",
+      "start_ms": 196650,
+      "end_ms": 199389
+    },
+    {
+      "line_number": 27,
+      "original": "Oh Camelia",
+      "translation": "Oh Camellia",
+      "start_ms": 199390,
+      "end_ms": 202919
+    },
+    {
+      "line_number": 28,
+      "original": "Camelia",
+      "translation": "Camellia",
+      "start_ms": 202920,
+      "end_ms": 205459
+    },
+    {
+      "line_number": 29,
+      "original": "Oh Camelia",
+      "translation": "Oh Camellia",
+      "start_ms": 205460,
+      "end_ms": 234869
+    },
+    {
+      "line_number": 30,
+      "original": "Kini datang mengisi hidup",
+      "translation": "Now comes to fill life",
+      "start_ms": 234870,
+      "end_ms": 237949
+    },
+    {
+      "line_number": 31,
+      "original": "Ulurkan mesra tanganmu",
+      "translation": "Extend your hand kindly",
+      "start_ms": 237950,
+      "end_ms": 240559
+    },
+    {
+      "line_number": 32,
+      "original": "Bergetaran rasa jiwaku",
+      "translation": "My soul trembles",
+      "start_ms": 240560,
+      "end_ms": 243699
+    },
+    {
+      "line_number": 33,
+      "original": "Menerima karuniamu",
+      "translation": "Receive your gift",
+      "start_ms": 243700,
+      "end_ms": 246969
+    },
+    {
+      "line_number": 34,
+      "original": "Camelia",
+      "translation": "Camellia",
+      "start_ms": 246970,
+      "end_ms": 249729
+    },
+    {
+      "line_number": 35,
+      "original": "Oh Camelia",
+      "translation": "Oh Camellia",
+      "start_ms": 249730,
+      "end_ms": 253199
+    },
+    {
+      "line_number": 36,
+      "original": "Camelia",
+      "translation": "Camellia",
+      "start_ms": 253200,
+      "end_ms": 256169
+    },
+    {
+      "line_number": 37,
+      "original": "Oh Camelia",
+      "translation": "Oh Camellia",
+      "start_ms": 256170,
+      "end_ms": 259749
+    },
+    {
+      "line_number": 38,
+      "original": "Camelia",
+      "translation": "Camellia",
+      "start_ms": 259750,
+      "end_ms": 262219
+    },
+    {
+      "line_number": 39,
+      "original": "Oh Camelia",
+      "translation": "Oh Camellia",
+      "start_ms": 262220,
+      "end_ms": null
+    }
+  ]
+}
