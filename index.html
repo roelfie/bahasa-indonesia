@@ -236,12 +236,12 @@
     <div class="accordion-panel music-panel">
       <p class="music-hint music-hint--error" id="music-fetch-error" hidden></p>
 
-      <nav class="music-breadcrumb" id="music-breadcrumb" hidden>
-        <button type="button" class="music-breadcrumb-link" id="music-bc-playlists">Playlists</button>
-        <span class="music-breadcrumb-sep" id="music-bc-sep-1" hidden> / </span>
-        <button type="button" class="music-breadcrumb-link" id="music-bc-playlist" hidden></button>
-        <span class="music-breadcrumb-sep" id="music-bc-sep-2" hidden> / </span>
-        <span class="music-breadcrumb-current" id="music-bc-track" hidden></span>
+      <nav class="music-breadcrumb" id="music-breadcrumb" hidden aria-label="Music navigation">
+        <div class="music-breadcrumb-pill">
+          <button type="button" class="music-crumb" id="music-bc-playlists">Playlists</button>
+          <span class="music-crumb-sep" id="music-bc-sep-1" hidden aria-hidden="true">›</span>
+          <button type="button" class="music-crumb music-crumb--here" id="music-bc-playlist" hidden></button>
+        </div>
       </nav>
 
       <div id="music-view-playlists" class="music-view">
@@ -255,6 +255,7 @@
           <table class="music-table">
             <thead>
               <tr>
+                <th class="music-th-index" aria-hidden="true"></th>
                 <th scope="col">Track</th>
                 <th scope="col">Artist</th>
                 <th scope="col" class="music-th-dur" title="Duration"></th>
@@ -265,28 +266,63 @@
           </table>
         </div>
       </div>
-
-      <div id="music-view-karaoke" class="music-view music-view-karaoke" hidden>
-        <div class="music-karaoke-header">
-          <h3 class="music-view-title" id="music-karaoke-title"></h3>
-          <p class="music-karaoke-meta" id="music-karaoke-meta"></p>
-        </div>
-        <div
-          class="music-progress"
-          role="progressbar"
-          aria-valuemin="0"
-          aria-valuemax="100"
-          aria-valuenow="0"
-          id="music-progress"
-        >
-          <div class="music-progress-bar" id="music-progress-bar"></div>
-        </div>
-        <p class="music-progress-label"><span id="music-progress-elapsed">0:00</span> / <span id="music-progress-total">0:00</span></p>
-        <div class="music-karaoke-lines" id="music-karaoke-lines"></div>
-      </div>
     </div>
   </details>
 
+  </div>
+
+  <!-- Full-screen lyrics (Spotify-style); opened from Music -->
+  <div
+    id="music-lyrics-overlay"
+    class="music-lyrics-overlay"
+    hidden
+    aria-hidden="true"
+  >
+    <header class="music-lyrics-top">
+      <div class="music-lyrics-head-actions">
+        <button type="button" class="music-lyrics-minimize" id="music-lyrics-minimize" aria-label="Minimize lyrics (keep playing)" title="Minimize — browse playlist">
+          <svg class="music-lyrics-icon music-lyrics-icon--minimize" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 18h16v2H4v-2z"/></svg>
+        </button>
+        <button type="button" class="music-lyrics-close" id="music-lyrics-close" aria-label="Close lyrics and stop">✕</button>
+      </div>
+      <h2 class="music-lyrics-title" id="music-lyrics-title"></h2>
+      <p class="music-lyrics-meta" id="music-lyrics-meta"></p>
+      <div
+        class="music-lyrics-progress"
+        role="progressbar"
+        aria-valuemin="0"
+        aria-valuemax="100"
+        aria-valuenow="0"
+        id="music-lyrics-progress"
+        title="Click to seek"
+      >
+        <div class="music-lyrics-progress-bar" id="music-lyrics-progress-bar"></div>
+      </div>
+      <p class="music-lyrics-time"><span id="music-lyrics-elapsed">0:00</span> / <span id="music-lyrics-total">0:00</span></p>
+      <div class="music-lyrics-controls">
+        <button type="button" class="music-lyrics-ctrl music-lyrics-ctrl--nav" id="music-lyrics-btn-back" aria-label="Restart from beginning" title="Restart from beginning">
+          <svg class="music-lyrics-icon music-lyrics-icon--nav" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7,12 L17,5 L17,19 Z"/></svg>
+        </button>
+        <button type="button" class="music-lyrics-ctrl music-lyrics-ctrl--primary" id="music-lyrics-btn-playpause" aria-label="Pause" title="Pause">
+          <svg class="music-lyrics-icon music-lyrics-icon--playpause" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8 6h3v12H8V6zm5 0h3v12h-3V6z"/></svg>
+        </button>
+        <button type="button" class="music-lyrics-ctrl music-lyrics-ctrl--nav" id="music-lyrics-btn-next" aria-label="Next track" title="Next track with lyrics">
+          <svg class="music-lyrics-icon music-lyrics-icon--nav" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17,12 L7,5 L7,19 Z"/></svg>
+        </button>
+      </div>
+    </header>
+    <div class="music-lyrics-scroll" id="music-lyrics-lines"></div>
+  </div>
+
+  <div id="music-lyrics-dock" class="music-lyrics-dock" hidden aria-live="polite">
+    <div class="music-lyrics-dock-inner">
+      <span class="music-lyrics-dock-label">Now playing</span>
+      <span class="music-lyrics-dock-title" id="music-lyrics-dock-title"></span>
+      <span class="music-lyrics-dock-time" id="music-lyrics-dock-time"></span>
+      <button type="button" class="music-lyrics-dock-expand" id="music-lyrics-dock-expand" aria-label="Show lyrics again">
+        <svg class="music-lyrics-icon music-lyrics-icon--expand" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg>
+      </button>
+    </div>
   </div>
 
   <nav class="bottom-bar" aria-label="Reference">
